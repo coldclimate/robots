@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /p/
+Disallow: /r/
+Disallow: /bin/
+Disallow: /includes/
+Disallow: /blank.html
+
+Sitemap: https://www.yahoo.com/food/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/tech/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/travel/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/movies/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/beauty/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/health/sitemaps/sitemap_index_us_en-US.xml.gz
+

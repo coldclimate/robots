@@ -1,0 +1,7 @@
+Sitemap: http://weibo.com/sitemap.xml
+User-Agent: Baiduspider
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: Googlebot
+Allow: /
