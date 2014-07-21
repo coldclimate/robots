@@ -2236,14 +2236,14 @@ showTurnAD351(intTurnAD351);
 <li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402499837.shtml" target="_blank">三军女仪仗队戴同样军衔 非巧合实为美观(图)</a></li>
 <li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402496056.shtml" target="_blank">解放军六大震撼科技出炉 日本越南颤抖(图)</a></li>
 <li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402496902.shtml" target="_blank">日本被辽宁舰惊出冷汗 欲购“黄蜂”反扑</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402484946.shtml" target="_blank"><b>天津公安局长武长顺被查 家中搜上亿财产</b></a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402531366.shtml" target="_blank"><b>媒体称一架中型直升飞机在四川大邑县坠毁</b></a></li>
 <li sdevindex="6"><a title="" href="http://business.sohu.com/20140721/n402529484.shtml" target="_blank">海南民政厅运送发霉面包救灾 厅长致歉</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402484946.shtml" target="_blank">天津公安局长武长顺被查 家中搜上亿财产</b></a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402498005.shtml" target="_blank">“美女官员”拟任东莞市直局办一把手 系70后</a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402507644.shtml" target="_blank">多面谭力：50岁娶女主播 喜欢用哭来排解压力</a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402517546.shtml" target="_blank">北京市公安局张乐泰遗言：我要穿着警服走</a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402514534.shtml" target="_blank">麦当劳肯德基供应商为多家连锁供原料(名单)</a></li>
-<li sdevindex="6"><a title="" href="http://auto.sohu.com/20140721/n402516018.shtml" target="_blank">挂车高速路翻车 保时捷路虎散落一地(图)</b></a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402531366.shtml" target="_blank"><b>媒体称一架中型直升飞机在四川大邑县坠毁</b></a></li>
+<li sdevindex="6"><a title="" href="http://auto.sohu.com/20140721/n402516018.shtml" target="_blank"><b>挂车高速路翻车 保时捷路虎散落一地(图)</b></a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402490577.shtml" target="_blank">父亲目睹11岁儿子遭性侵 揍昏嫌疑人免于被诉</a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402519048.shtml" target="_blank">杭州2女童被杀 嫌犯被抓时赞警察:你们真厉害</a></li>
 <li sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402483296.shtml" target="_blank">妻子信佛将大额存款捐给寺庙 被丈夫打死</b></a></li></ul>
