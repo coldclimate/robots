@@ -257,17 +257,17 @@ TurnAD9.visit=(TurnAD9.visit>5)?1:TurnAD9.visit;
 TurnAD9.store();
 function showTurnAD9(basenum){
 if (basenum==1){
-var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2014/yanchunzhang/hengda/bingquan/450105B.swf","_761de2d8627751352e63b48574d792af","450","105","7");
+var sohuFlash2 = new sohuFlash("http://images.sohu.com/bill/s2014/yingliu/dazhong/Tiguan/7/4501050718.swf","_6ca35a8f6d6dd6ad3d6eefe4a7936ea2","450","105","7");
 sohuFlash2.addParam("quality", "high");
 sohuFlash2.addParam("wmode", "opaque");
-sohuFlash2.addVariable("clickthru",escape("http://clk.optaim.com/event.ng/Type=click&FlightID=201406&TargetID=sohu&Values=761de2d8,62775135,2e63b485,74d792af&AdID=14168421"));
+sohuFlash2.addVariable("clickthru",escape("http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=6ca35a8f,6d6dd6ad,3d6eefe4,a7936ea2&AdID=9702832"));
 if(typeof(document.pv)=='undefined') document.pv = new Array();var _a=new Image();var _b=new Image();
-_a.src='http://alpha.brand.sogou.com/brand_pv?md5=761de2d8627751352e63b48574d792af';document.pv.push(_a);
-_b.src='http://imp.optaim.com/201406/761de2d8627751352e63b48574d792af.php?a=99';document.pv.push(_b);sohuFlash2.write("TurnAD9");}
+_a.src='http://alpha.brand.sogou.com/brand_pv?md5=6ca35a8f6d6dd6ad3d6eefe4a7936ea2';document.pv.push(_a);
+_b.src='http://imp.optaim.com/201407/6ca35a8f6d6dd6ad3d6eefe4a7936ea2.php?a=99';document.pv.push(_b);sohuFlash2.write("TurnAD9");}
 else if(basenum==2){
-document.write('<a href="http://tv.sohu.com/s2014/strain1/" target=_blank><img src=" http://images.sohu.com/bill/s2014/MKT/shipin/xuezu/450105-0716.jpg " border=0 width="450" height="105"></img></a>');}
+document.write('<a href="http://tv.sohu.com/s2014/summervacation/" target=_blank><img src=" http://images.sohu.com/bill/s2014/MKT/shipin/shijiebei/450105-0722-1.jpg " border=0 width="450" height="105"></img></a>');}
 else if(basenum==3){
-document.write('<a href="http://tv.sohu.com/s2014/hyyy/" target=_blank><img src=" http://images.sohu.com/bill/s2014/MKT/shipin/huayang/450105-0707.jpg " border=0 width="450" height="105"></img></a>');}
+document.write('<a href=" http://tv.sohu.com/s2014/txbhyyy/" target=_blank><img src=" http://images.sohu.com/bill/s2014/MKT/shipin/huayang/450105-0722.jpg " border=0 width="450" height="105"></img></a>');}
 else if(basenum==4){
 document.write('<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=d0565782,6cd189aa,2d6d1e96,fd439ab2&AdID=4471229" target=_blank><img src=" http://images.sohu.com/bill/s2014/MKT/shipin/shanshan/450105-0717.jpg " border=0 width="450" height="105"></img></a>');}
 else{
@@ -462,8 +462,8 @@ case "CN31"://ÉÏº£
 arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65498/" target="_blank">ãÉÐÐÐÂ·¿30000Ôª97ÕÛ</a></li>');
 arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65823/" target="_blank">ÆÖ¶«86Æ½2·¿ÕÛºó140Íò</a></li>');
 arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65949/" target="_blank">7ºÅÏßÐÂÍÆ90Æ½¾«×°·¿</a></li>');
-arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65821/" target="_blank">ÕÅ½­70Æ½Á½·¿220ÍòÆð</a></li>');
-arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65908/" target="_blank">17ºÅÏß3·¿×Ü¼Û194Íò</a></li>');
+arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=e6857ad5,8be7b8cd,808c7b12,4c37f9ea&AdID=3709173" target="_blank">ÆÖ¶«´óÆ½²ã¿ñ½µ150Íò</a></li>');
+arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=5fd45ea3,976107b1,43980e7a,1a95c2fb&AdID=9855483" target="_blank">9ºÅÏßÅÔN+1¸ÕÐè·¿</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=9a46e328,799b7a35,cf7a4623,b8249d81&AdID=2440328" target="_blank">Ê×¸¶22Íò ÉÏº£ÂòÌ×·¿</a></li>');
 arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65854/" target="_blank">11ºÅÏß62Æ½¾«×°93Íò</a></li>');
 arCode.push('<li><a href=" http://sh.focus.cn/votehouse/lpdt/65950/" target="_blank">1ºÅÏßÐ¡3·¿3ÍòµÖ10Íò</a></li>');
@@ -478,10 +478,10 @@ case "CN32"://½­ËÕ-ÄÏ¾©³£ÖÝËÕÖÝÎÞÎý
     arCode.push('<li><a href="http://nj.focus.cn/daogou/" target="_blank">ÏÂ°ëÄê³­µ×¸ÕÐèÈÈÅÌ</a></li>');
     arCode.push('<li><a href="http://cz.focus.cn/zhuanti14/20140720kft/" target="_blank">ÏÄÈÕ²»±ÜÊîÒ»ÆðÀ´¿´·¿</a></li>');
     arCode.push('<li><a href="http://cz.focus.cn/votehouse/lpdt/25647/" target="_blank">³£¸ßÂÌ»¯ÂÊÅÌ×î¸ß60%</a></li>');
-    arCode.push('<li><a href=" http://suzhou.focus.cn/zhuanti14/house-102/ " target="_blank">ËÕÖÝ7ÔÂ´òÕÛÂ¥ÅÌ×Ü»ã</a></li>');
-    arCode.push('<li><a href=" http://suzhou.focus.cn/votehouse/lpdt/32129/ " target="_blank">ËÕÖÝÂ¥ÊÐÉÏ°ëÄêÆß×Ú×î</a></li>');
+    arCode.push('<li><a href=" http://suzhou.focus.cn/daogou/4428.html " target="_blank">ËÕÏÞ¹ºÈ¡Ïû¼ö¸ÄÉÆÈý·¿</a></li>');
+    arCode.push('<li><a href="http://suzhou.focus.cn/zhuanti14/dishoufupan-house/" target="_blank">ËÕÖÝÁãÊ×¸¶Â¥ÅÌÔÙÏÖÉí</a></li>');
     arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31495/" target="_blank">ÎÞÎý4800ÔªÆðÉÁÏ¹ÑÛ</a></li>');
-arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31365/" target="_blank">¿ñ½µ40Íò»í³öÈ¥Â¥ÅÌ</a></li>');
+    arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31365/" target="_blank">¿ñ½µ40Íò»í³öÈ¥Â¥ÅÌ</a></li>');
     break;
 
 case "CN33"://Õã½­-º¼ÖÝÄþ²¨ 
@@ -553,13 +553,13 @@ case "CN42"://ºþ±±-Îäºº
       arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=88e8002f,868a1b52,d987ba9e,d07406bc&AdID=7644614" target="_blank">ÐÛ³þÖÐÐÄ60Íò·½×ÛºÏÌå</a></li>'); 
       arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201406&TargetID=sohu&Values=3e9ab60b,d83fce08,61d949d1,599e1dc8&AdID=10402942" target="_blank">½¨¶þºËÐÄ ´«ÆæÔÙÐø</a></li>'); 
       arCode.push('<li><a href="http://wh.focus.cn/votehouse/lpdt/57033/" target="_blank">ºóºþ8Ç§µØÌúÈÈÅÌ</a></li>'); 
-      arCode.push('<li><a href="http://wh.focus.cn/votehouse/lpdt/56389/" target="_blank">½ðÒøÌ¶¸ÕÐè89ÕÛÐîÊÆ</a></li>');
-      arCode.push('<li><a href="http://wh.focus.cn/votehouse/lpdt/56147/" target="_blank">Îäºº¶þ»··¿¼Û5×ÖÍ·</a></li>');  
-      arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/whnz/" target="_blank">ÎäººÂ¥ÊÐÉÏ°ëÄê×Ü½á</a></li>');
-      arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/2014wh7ykp/" target="_blank">7ÔÂÎäºº50ÐÂÅÌÈëÊÐ</a></li>');  
-      arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/201407dzlp/" target="_blank">Îäºº153Â¥ÅÌ´òÕÛË¦</a></li>');  
-      arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/201407mxlp/" target="_blank">2014Äê7ÔÂÃ÷ÐÇÂ¥ÅÌ</a></li>');
-      arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/yzfj0703/" target="_blank">ÎäººÂ¥ÅÌ½µ¼ÛÍæ°µ½µ</a></li>');
+arCode.push('<li><a href="http://wh.focus.cn/votehouse/lpdt/57030/" target="_blank">Îäºº¾«Æ·ÉÌÆÌ7000Æð</a></li>'); 
+arCode.push('<li><a href="http://wh.focus.cn/votehouse/lpdt/56975/" target="_blank">ÎäººÈÈÂôºÀÕ¬TOP5</a></li>'); 
+arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/lpnzzt/" target="_blank">ÉÏ°ëÄêÂ¥ÊÐ´óÍÂ²Û</a></li>'); 
+arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/2014wh7ykp/" target="_blank">7ÔÂÎäºº50ÐÂÅÌÈëÊÐ</a></li>'); 
+arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/201407dzlp/" target="_blank">Îäºº153Â¥ÅÌ´òÕÛË¦</a></li>'); 
+arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/201407mxlp/" target="_blank">2014Äê7ÔÂÃ÷ÐÇÂ¥ÅÌ</a></li>'); 
+arCode.push('<li><a href="http://wh.focus.cn/zhuanti14/wh726kft/" target="_blank">7ÔÂ26ÈÕ¿´·¿ÍÅ±¨ÃûÖÐ</a></li>'); 
     break;
 
 case "CN43"://ºþÄÏ-³¤É³ 
@@ -673,10 +673,10 @@ arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=bdc152e4,8ebef4a5,8f8fe243,95bc7070&AdID=12390267" target="_blank">ÐÂÆ·îÒ»Ý ×ÔÓÉ¹º</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=bc0f6d04,3cbd42bf,b03d7687,91932e87&AdID=9686419" target="_blank">Õðº³ Îå»·ÏÖ·¿24900Æð</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=e7fdc4bd,bae93117,6bbb0219,1983bbe0&AdID=8674030" target="_blank">ÔµºÎ¼ÃÖÝÒÆÃñ±»ÏÞ</a></li>');
-arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=85499d6f,b4867cf0,1cb5bdfc,578e3c06&AdID=9362195" target="_blank">ÐÂÍû¾© ÃÀÑ§ÉçÇø</a></li>');
+arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=ba6096c0,efbb93e9,71f0173d,cddc46e7&AdID=14476792" target="_blank">µØÌúÅÏÆ·ÖÊ¸ÕÐèÅÌ</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=4d06b65f,624e3a09,0d636765,7f30c286&AdID=3236244" target="_blank">×¯Ô°ÃØ¾³88Ï¯´ó¶À¶°</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=4e9058c0,6a4fc3ab,6e6b39b3,040c70c7&AdID=856021" target="_blank">³±°×ºÓ¿×È¸³Ç²®¶Ù×¯Ô°</a></li>');
-arCode.push('<li><a href="http://zhuanti.focus.cn/2013/house_yzzygw/" target="_blank">¶À¼Ò£ºÒà×¯ÖÃÒµ±Ø¶Á</a></li>');
+arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=a76320dd,9aa89673,8e9b4eb9,65d702fc&AdID=14131725" target="_blank">ÏÖ·¿¡ñË«¹ì¡ñ³¯Ñô</a></li>');
             }
 	    
             arCode.push('</ul></div>');
@@ -803,10 +803,10 @@ case "CN32"://½­ËÕ-ÄÏ¾©³£ÖÝËÕÖÝÎÞÎý
    arCode.push('<li><a href="http://nj.focus.cn/zhuanti14/baohua/" target="_blank">±¦»ª³¬5000Ì×·¿Ô´ÈëÊÐ</a></li>');
    arCode.push('<li><a href="http://cz.focus.cn/news/2014-07-16/5270822.html"  target="_blank">7×ÖÍ··¿¼Û³É¸Õ¸ÄÊ×Ñ¡</a></li>');
    arCode.push('<li><a href="http://cz.focus.cn/votehouse/lpdt/25618/" target="_blank">3530ÔªÆð³£ÖÝÌ¯´óÊÂ</a></li>');
-    arCode.push('<li><a href=" http://suzhou.focus.cn/zhuanti14/201407kaipan/ " target="_blank">ËÕÖÝ7ÔÂ»ò40ÓàÅÌÈëÊÐ</a></li>');
-    arCode.push('<li><a href=" http://suzhou.focus.cn/votehouse/lpdt/31763/ " target="_blank">ÔÂ¹©2500Ò²¹©µÃÆðµÄÅÌ</a></li>');
-    arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31244/" target="_blank">Îý³Ç0Ê×¸¶Âò1Ì×ËÍ1Ì×</a></li>');
-arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31388/" target="_blank">¡°Â¶µ×¡±Â¥ÅÌ3980ÔªÆð/a></li>');
+   arCode.push('<li><a href=" http://suzhou.focus.cn/votehouse/lpdt/32730/ " target="_blank">ËÕÖÝ¸ßÐÔ¼Û±È¾«×°·¿Ô´</a></li>');
+   arCode.push('<li><a href=" http://suzhou.focus.cn/votehouse/lpdt/32742/ " target="_blank">ËÕÏÞ¹ºÈ¡ÏûÍ¶×ÊÇ±Á¦ÅÌ</a></li>');
+   arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31244/" target="_blank">Îý³Ç0Ê×¸¶Âò1Ì×ËÍ1Ì×</a></li>');
+   arCode.push('<li><a href="http://wuxi.focus.cn/votehouse/lpdt/31388/" target="_blank">¡°Â¶µ×¡±Â¥ÅÌ3980ÔªÆð/a></li>');
     break;
 
 case "CN33"://Õã½­-º¼ÖÝÄþ²¨ 
@@ -992,7 +992,7 @@ case "CN61"://ÉÂÎ÷-Î÷°²
     break;
 
 default://ÆäËû£¨±±¾©µÈ£©
-arCode.push('<li><a href="http://house.focus.cn/daogou/3914.html" target="_blank">800ÍòÄÚÖÃÒµÍ¨ÖÝ±ðÊû</a></li>');
+arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=c3428555,e6c475d8,06e76553,c7652bb4&AdID=6671045" target="_blank">200ÍòÆ½¹ú¼Ê¹«Ô°³Ç</a></li>');
 arCode.push('<li><a href="http://house.focus.cn/daogou/3908.html" target="_blank">´óÐË100ÍòÂò60Æ½×ÔÓÉ¹º</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=e4b3904e,9ee5e6e2,f99f539b,b4a09a7e&AdID=10566025" target="_blank">ÖÐ¹úÌú½¨¹ú¼Ê³Ç¡¤8ºÅ</a></li>');
 arCode.push('<li><a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=42946a5b,c143c7bd,07c253b4,9fd56fd9&AdID=14028517" target="_blank">´óÐËºËÐÄ£¬µþÊûÏÖ·¿</a></li>');
@@ -1134,11 +1134,17 @@ jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
     });
 });});}
 else if(basenum==2){
-if(AdLoc=='CN32'){
-document.getElementById('TurnAD351').innerHTML='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=1ba1f608,d01cd548,b9d13b3b,7233a3dd&AdID=3425006" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050721b.jpg" border=0 width="160" height="205"></img></a>';
+if(AdLoc=='CN44'){
+document.getElementById('TurnAD351').innerHTML='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=479448f0,4248c79b,a1435d2f,a965efb7&AdID=6721224" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050721a.jpg" border=0 width="160" height="205"></img></a>';
 }
-else if(AdLoc=='CN44'){
-document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=479448f0,4248c79b,a1435d2f,a965efb7&AdID=6721224" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050721a.jpg" border=0 width=160 height=205></img></a>';
+else if(AdLoc=='CN11'){
+document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=6fcbaec7,b170ff01,71b26f72,7c99cdc1&AdID=10120395" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050714.jpg" border=0 width=160 height=205></img></a>';
+}
+else if(AdLoc=='CN31'){
+document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=9c42974e,a49d75e9,f3a50500,04094fc1&AdID=650950" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050709a.jpg" border=0 width=160 height=205></img></a>';
+}
+else if(AdLoc=='CN32'){
+document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=1ba1f608,d01cd548,b9d13b3b,7233a3dd&AdID=3425006" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050721b.jpg" border=0 width=160 height=205></img></a>';
 }
 
 else{ 
@@ -1152,22 +1158,12 @@ jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
 
 }}
 else if(basenum==3){
-if(AdLoc=='CN32'){
-document.getElementById('TurnAD351').innerHTML='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=113a77fd,a6126dca,a2a774d7,c4140e44&AdID=1355081" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050709c.jpg" border=0 width="160" height="205"></img></a>';
-}
-else if(AdLoc=='CN43'){
-document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201406&TargetID=sohu&Values=1cf5caed,aa1e291d,43ab389f,85180f28&AdID=1617374" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050630a.jpg" border=0 width=160 height=205></img></a>';
-}
-else if(AdLoc=='CN31'){
-document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=1d5d0471,dd1e9057,11deb6d1,f703fd34&AdID=302132" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050704a.jpg" border=0 width=160 height=205></img></a>';
-}
-else if(AdLoc=='CN50'){
-document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=6b3e8608,c76c71d8,b9c83891,f7e629a6&AdID=15124663" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050721.jpg" border=0 width=160 height=205></img></a>';
+if(AdLoc=='CN50'){
+document.getElementById('TurnAD351').innerHTML='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=6b3e8608,c76c71d8,b9c83891,f7e629a6&AdID=15124663" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050721.jpg" border=0 width="160" height="205"></img></a>';
 }
 else if(AdLoc=='CN44'){
 document.getElementById('TurnAD351').innerHTML ='<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=11e26094,ec1315b3,3eedaa99,be871880&AdID=8894346" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/focus/1602050715.jpg" border=0 width=160 height=205></img></a>';
 }
-
 else{ 
 jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
     var _C = "#TurnAD351",_ID = "10082",_W = 160,_H = 205,_T =1,_F=9,
@@ -1224,7 +1220,7 @@ showTurnAD351(intTurnAD351);
                     var globalsearchformaction = "";
                 }
                 var defaultQuery = "ÇëÊäÈë²éÑ¯´Ê";
-                var manulQuery = "Âíº½ÓöÄÑÕßÒÅÌå±»ÔË³ö";
+                var manulQuery = "ÎÚÎª´ÌÉ±ÆÕ¾©»÷Âä·É»ú";
                 var tabIdx = 2,
                     tagtitle = getObject('tag_title'),
                     tagItems = getObject('tag_items'),
@@ -2186,8 +2182,8 @@ showTurnAD351(intTurnAD351);
 		</div>
 		<div class="sogou-hot">
 			<div id="scontent2">
-<div class="hot-a"><a href="http://www.sogou.com/web?query=É¹ÌåÃ«ÔË¶¯&amp;p=01030111" target="_blank">É¹ÌåÃ«ÔË¶¯</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=Âóµ±ÀÍ±äÖÊÈâ&amp;p=01030112" target="_blank">Âóµ±ÀÍ±äÖÊÈâ</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=Ó¢´óÑ§Éú±»²¶ &amp;p=01030113" target="_blank">Ó¢´óÑ§Éú±»²¶ </a></div>
-<div class="hot-b"><a href="http://www.sogou.com/web?query=°²È«Ì×Ñ©¸â&amp;p=01030121" target="_blank">°²È«Ì×Ñ©¸â</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=ÊÀ½ç×î´óÄ¹µØ&amp;p=01030122" target="_blank">ÊÀ½ç×î´óÄ¹µØ</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=ÂãÌåÏàÇ×½ÚÄ¿&amp;p=01030123" title="" target="_blank">ÂãÌåÏàÇ×½ÚÄ¿</a></div></div>
+<div class="hot-a"><a href="http://www.sogou.com/web?query=ÉÕ¿¾öùÓãÈâ&amp;p=01030111" target="_blank">ÉÕ¿¾öùÓãÈâ</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=º×¸ÚÂ÷±¨¿óÄÑ&amp;p=01030112" target="_blank">º×¸ÚÂ÷±¨¿óÄÑ</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=Âóµ±ÀÍ¹©Ó¦ÉÌ&amp;p=01030113" target="_blank">Âóµ±ÀÍ¹©Ó¦ÉÌ</a></div>
+<div class="hot-b"><a href="http://www.sogou.com/web?query=½á»éÖ¤Â©¶´&amp;p=01030121" target="_blank">½á»éÖ¤Â©¶´</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=¿ª³ýÍÑÒÂ½»¾¯&amp;p=01030122" target="_blank">¿ª³ýÍÑÒÂ½»¾¯</a>&nbsp;&nbsp;<a href="http://www.sogou.com/web?query=ÆØºúº£Èª³¬Éú&amp;p=01030123" title="" target="_blank">ÆØºúº£Èª³¬Éú</a></div></div>
 <div style="DISPLAY: none" id="scontent3">
 <div class="hot-a"><a href="http://mp3.sogou.com/music.so?query=%BD%AD%C4%CFstyle&amp;class=1&amp;pf=&amp;w=02009900&amp;st=&amp;ac=1&amp;sourcetype=sugg&amp;w=02009900&amp;dr=1&amp;_asf=mp3.sogou.com&amp;_ast=1350388022" target="_blank">½­ÄÏStyle</a>&nbsp;&nbsp;<a href="http://music.sogou.com/topic/voiceofchina.html" target="_blank">ÖÐ¹úºÃÉùÒôÈ«¼¯</a>&nbsp;&nbsp;<a href="http://music.sogou.com/song/newdj_1.html" target="_blank">¾¢±¬DJÈÈÇú</a></div>
 <div class="hot-b"><a href="http://music.sogou.com/song/webbillboardp_1.html" target="_blank">ÃÀ¹úÒôÀÖÅÅÐÐ</a>&nbsp;&nbsp;<a href="http://mp3.sogou.com/tag.so?w=02010203&amp;query=%u4E2D%u56FD%u98CE" target="_blank">×îÃÀÖÐ¹ú·ç</a>&nbsp;&nbsp;<a href="http://music.sogou.com/song/topalbum_1.html" target="_blank">ÈÈÃÅÒôÀÖ×¨¼­</a></div></div>
@@ -2217,42 +2213,43 @@ showTurnAD351(intTurnAD351);
 					<div class="list14">
 						<div class="news-city-title">
 							<H2><span class="city-tab1" id=news_title><a href="http://news.sohu.com/" target="_blank">ÐÂÎÅ</a></span><span class="city-tab2" id=news_city_title></span><em class="phone-ctcp"><a href="http://k.sohu.com/" target="_blank">ÊÖ»ú¿´ÐÂÎÅ</a></em> |
-							<em>7ÔÂ21ÈÕ</em></H2>
+							<em>7ÔÂ22ÈÕ</em></H2>
 						</div>
 						<div class="blank8"></div>
 						<!-- ÐÂÎÅ23Ìõ -->
 						<div class="city-turn" id="top_news">
 							<ul sdevindex="6">
-<li sdevindex="6"><a title="" href="http://news.sohu.com/s2014/southa/" target="_blank"><b>Ï°½üÆ½¿ªÊ¼¶ÔÎ¯ÄÚÈðÀ­½øÐÐ¹úÊÂ·ÃÎÊ</b></a></li>
-<li class="no-dot" sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402482451.shtml" target="_blank">¼û°¢¸±×ÜÍ³ºÍÖÚÒé³¤</a>|<a title="" href="http://news.sohu.com/20140720/n402479644.shtml" target="_blank">²Î¹Û×¯Ô°</a>|<a title="" href="http://news.sohu.com/20140720/n402471331.shtml" target="_blank">½ÓÊÜÊ×¶¼Ô¿³×</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402481528.shtml" target="_blank">Àî¿ËÇ¿ÖØÉêºê¹Ûµ÷¿Ø</a>|<a title="" href="http://news.sohu.com/20140720/n402481387.shtml" target="_blank">ÁõÆæÝáµ÷ÑÐ</a>|<a title="" href="http://star.news.sohu.com/20140721/n402520381.shtml" target="_blank">²é39´«Ò¥Õß</a></li>
-<li sdevindex="6"><a title="" href="http://tv.sohu.com/" target="_blank"><span class="red">ËÑºüÊÓÆµ</span></a>|<a title="" href="http://tv.sohu.com/s2014/hyyy/" target="_blank">»¨ÑùÒ¯Ò¯</a> <a title="" href="http://tv.sohu.com/s2014/teamcoco/" target="_blank">¿ÂÄÏÐã</a> <a title="" href="http://tv.sohu.com/s2014/ssll/" target="_blank">´ó½á¾Ö-É¼É¼À´ÁË</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402506796.shtml" target="_blank">ÎÈ×Öµ±Í·</a>|<a title="" href="http://star.news.sohu.com/20140721/n402511859.shtml" target="_blank">»¥ÁªÍøÆóÒµ¡°ÏòÍâ×ß¡±</a>|<a title="" href="http://star.news.sohu.com/20140721/n402523996.shtml" target="_blank">10ºÅÇòÒÂ</a></li>
-<li sdevindex="6"><a title="" href="http://book.sohu.com/s2014/daguo/" target="_blank">Ñ§Õß:¡°ºÍÆ½áÈÆð¡±Ê·ÎÞÏÈÀý Íâ½»Òª´©ÉÏÀÇÆ¤</a></li>
-<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402529555.shtml" target="_blank"><b>ÎÚ¿ËÀ¼¶«²¿»ð³µÕ¾ÔâÅÚ»÷ ·´¶ÔÅÉ·âËøÒªµÀ</b></a></li>
-<li class="no-dot" sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402506531.shtml" target="_blank">ÎÚ·½»ðÉÏ½½ÓÍ:¶íÓûÇ¿¶áºÚÏ»×Ó ÕýÖØ±øÑ¹¾³</a></li>
-<li class="no-dot" sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402531469.shtml" target="_blank">Âíº½½«ÏòMH17³Ë¿Í¼ÒÍ¥Ìá¹©5000ÃÀÔª³õ²½Åâ³¥</a></li>
-<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402526925.shtml" target="_blank">ÖÐ¹ú¿Õ¾ü½úÉý26Ãû½«¾ü ÓÚÖÒ¸£½úÉýÖÐ½«(Í¼)</a></li>
-<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402499837.shtml" target="_blank">Èý¾üÅ®ÒÇÕÌ¶Ó´÷Í¬Ñù¾üÏÎ ·ÇÇÉºÏÊµÎªÃÀ¹Û(Í¼)</a></li>
-<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402496056.shtml" target="_blank">½â·Å¾üÁù´óÕðº³¿Æ¼¼³öÂ¯ ÈÕ±¾Ô½ÄÏ²ü¶¶(Í¼)</a></li>
-<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140721/n402496902.shtml" target="_blank">ÈÕ±¾±»ÁÉÄþ½¢¾ª³öÀäº¹ Óû¹º¡°»Æ·ä¡±·´ÆË</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402531366.shtml" target="_blank"><b>Ã½Ìå³ÆÒ»¼ÜÖÐÐÍÖ±Éý·É»úÔÚËÄ´¨´óÒØÏØ×¹»Ù</b></a></li>
-<li sdevindex="6"><a title="" href="http://business.sohu.com/20140721/n402529484.shtml" target="_blank">º£ÄÏÃñÕþÌüÔËËÍ·¢Ã¹Ãæ°ü¾ÈÔÖ Ìü³¤ÖÂÇ¸</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402484946.shtml" target="_blank">Ìì½ò¹«°²¾Ö³¤Îä³¤Ë³±»²é ¼ÒÖÐËÑÉÏÒÚ²Æ²ú</b></a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402498005.shtml" target="_blank">¡°ÃÀÅ®¹ÙÔ±¡±ÄâÈÎ¶«Ý¸ÊÐÖ±¾Ö°ìÒ»°ÑÊÖ Ïµ70ºó</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402507644.shtml" target="_blank">¶àÃæÌ·Á¦£º50ËêÈ¢Å®Ö÷²¥ Ï²»¶ÓÃ¿ÞÀ´ÅÅ½âÑ¹Á¦</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402517546.shtml" target="_blank">±±¾©ÊÐ¹«°²¾ÖÕÅÀÖÌ©ÒÅÑÔ£ºÎÒÒª´©×Å¾¯·þ×ß</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402514534.shtml" target="_blank">Âóµ±ÀÍ¿ÏµÂ»ù¹©Ó¦ÉÌÎª¶à¼ÒÁ¬Ëø¹©Ô­ÁÏ(Ãûµ¥)</a></li>
-<li sdevindex="6"><a title="" href="http://auto.sohu.com/20140721/n402516018.shtml" target="_blank"><b>¹Ò³µ¸ßËÙÂ··­³µ ±£Ê±½ÝÂ·»¢É¢ÂäÒ»µØ(Í¼)</b></a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402490577.shtml" target="_blank">¸¸Ç×Ä¿¶Ã11Ëê¶ù×ÓÔâÐÔÇÖ ×á»èÏÓÒÉÈËÃâÓÚ±»Ëß</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402519048.shtml" target="_blank">º¼ÖÝ2Å®Í¯±»É± ÏÓ·¸±»×¥Ê±ÔÞ¾¯²ì:ÄãÃÇÕæÀ÷º¦</a></li>
-<li sdevindex="6"><a title="" href="http://news.sohu.com/20140720/n402483296.shtml" target="_blank">ÆÞ×ÓÐÅ·ð½«´ó¶î´æ¿î¾è¸øËÂÃí ±»ÕÉ·ò´òËÀ</b></a></li></ul>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/s2014/southa/" target="_blank"><b>Ï°½üÆ½²ÎÚË²éÎ¤Ë¹Ä¹£º¹ÊÈËÒÑÈ¥ ·ç·¶ÓÀ´æ</b></a></li>
+<li class="no-dot" sdevindex="6"><a title="" href="http://star.news.sohu.com/20140721/n402531118.shtml" target="_blank">Ï°Ö÷Ï¯·ÃÀ­ÔÙÏÔÖÐ¹úµ£µ±</a>|<a title="" href="http://star.news.sohu.com/20140721/n402531110.shtml" target="_blank">ÎªÓÐÖÐ¹úÅóÓÑ¶ø×ÔºÀ</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402533354.shtml" target="_blank">×¨¼ÒÌ¸Àî¿ËÇ¿¾­¼ÃÐÎÊÆ×ùÌ¸»á¸ÐÊÜ</a>|<a title="" href="http://news.sohu.com/20140721/n402533369.shtml" target="_blank">µ÷¿ØËÄÁÁµã</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140721/n402532884.shtml" target="_blank">ÖÐÎ¯¹ØÏµ</a>|<a title="" href="http://news.sohu.com/20140721/n402532114.shtml" target="_blank">ÓáÕýÉù:¼ÓÇ¿Ãñ×å¹¤×÷</a>|<a title="" href="http://star.news.sohu.com/20140721/n402520381.shtml" target="_blank">²é39´«Ò¥Õß</a></li>
+<li sdevindex="6"><a title="" href="http://tv.sohu.com/" target="_blank"><span class="red">ËÑºüÊÓÆµ</span></a>|<a title="" href="http://tv.sohu.com/s2014/summervacation/" target="_blank"><img alt=ÊîÆÚµµ·¢²¼»á src="http://i0.itc.cn/20101110/85b_244ad0ca_0b33_41e6_8443_327afd57765a_0.gif"></a><a title="" href="http://tv.sohu.com/s2014/summervacation/" target="_blank">ÊîÆÚµµ´ó·ÅËÍ·¢²¼»á</a> <a title="" href="http://tv.sohu.com/s2014/mrgj/" target="_blank">Ä©ÈÕ¹Â½¢</a></li>
+<li sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402569088.shtml" target="_blank">ÖÐ¹úÏòÎ¯ÄÚÈðÀ­´û¿î40ÒÚÃÀÔª Î¯·½ÒÔÔ­ÓÍ»¹´û</a></li>
+<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140722/n402569704.shtml" target="_blank"><b>ÄÚµØ12»ú³¡½«26Ìì´óÃæ»ýÑÓÎó ÒòÑÝÏ°Æµ·±</b></a></li>
+<li class="no-dot" sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402571107.shtml" target="_blank">¸÷º½¿Õ¹«Ë¾Ï÷¼õ25%º½°à ³Ë¿ÍÐè±¸ºÃ¸ÉÁ¸ºÍË®</a></li>
+<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140722/n402550462.shtml" target="_blank">ÖÐÃåÕ½ÂÔÌúÂ·ÒâÍâÁ÷²ú ÒÉÒòÈÕ±¾°µÖÐ×÷¹£</a></li>
+<li sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402548522.shtml" target="_blank">ÖÐ¹ú½ÓÊÜ°²±¶¡°ÀñÎï¡±:ÈÕÃËÓÑÒÑÍ¶ÈëÖÐ·½»³±§</a></li>
+<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140722/n402546304.shtml" target="_blank">¶í¼à¿Ø×ÊÁÏ£ºMH17±»ÎÚÕ½»ú¸ÉÈÅ¸ÄµÀ Ëæºó×¹»Ù</a></li>
+<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140722/n402557313.shtml" target="_blank">½â·Å¾ü¾«ÈñÓªº±¼û²»µÐÒ»¸öÅÅ Õ½Ëð²ÒÖØ(Í¼)</a></li>
+<li sdevindex="6"><a title="" href="http://mil.sohu.com/20140722/n402550322.shtml" target="_blank">ÒÔ²Ð±©ÐÐ¾¶3700ÈËËÀÉË ¿ËÀï»°Í²Ã»¹ØÐ¹ÃÀÁ¢³¡</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140722/n402552597.shtml" target="_blank"><b>3Ê¡¹Ù³¡µØÕð:ÂäÂí¹ÙÔ±ÆÆ¸ñÌá°ÎÒ»ÅúÅ®¸É²¿</b></a></li>
+<li sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402543127.shtml" target="_blank">½ÒÄÜÔ´¸¯°ÜÓÕÒò:ÂäÂíÃºÌ¿Ë¾³¤¿´²»ÉÏ¼¸Ç§Íò</a></li>
+<li sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402568851.shtml" target="_blank">¸ß¶ËÍó±í½ø¿Ú¶î±©µø89% ÕþÖÎÒòËØÒÖÖÆÃ÷ÏÔ</a></li>
+<li sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402556706.shtml" target="_blank">ŒÅË¿ÄæÏ®ÓÐ·½Ïò:Ï¸ÊýÎ´À´×î×¬Ç®Ê®´óÖ°Òµ</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140722/n402556931.shtml" target="_blank">¸ÊËàÒ»ÄÐ×Ó¾À¼¯ÊýÈË¡°»îÂñ¡±Å®×Óºó¶ÔÆäÈöÄò</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140722/n402563886.shtml" target="_blank">ÏÃ´ó½ÌÊÚÑÞÕÕÃÅÐø:¼ÍÓñ»ªÉæÏÓÖØ»éÔÚÖØÇìÁ¢°¸</a></li>
+<li sdevindex="6"><a title="" href="http://business.sohu.com/20140722/n402571447.shtml" target="_blank">¾©»¦¸ßÌú¶¨Ô¶ÖÁ°ö²ºÄÏÉè±¸¹ÊÕÏ 26ÌË³µÍíµã</a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140722/n402542768.shtml" target="_blank"><b>ÈÕÐ¡µºÈË¿ÚÎ£»ú ÖÐ¹úÏ±¸¾Ñø11º¢³É¾ÈÊÀÖ÷</b></a></li>
+<li sdevindex="6"><a title="" href="http://news.sohu.com/20140722/n402548363.shtml" target="_blank">Ò½ÉúÍµÅÄ8Ç§ÃûÅ®ÐÔºó×ÔÉ± Ò½ÔºÅâ1.9ÒÚÃÀÔª</a></li>
+<li sdevindex="6"><a title="" href="http://auto.sohu.com/20140722/n402554226.shtml" target="_blank">³µÃÔ³â°ÙÍòÂò¿Æ»ÃÆ¬¿áÄ¦ÍÐ ³µ¹ÜËù:ÉÏÂ·¾Í·£</a></li>
+<li sdevindex="6"><a title="" href="http://auto.sohu.com/20140722/n402546700.shtml" target="_blank">2Á¾°ÂµÏ¶·ÆøÏà×²Æð»ð ¿Õ½ãÑÏÖØÉÕÉËË÷1500Íò</a></li></ul>
 							<ul>
 
-<li><a title="" href="http://yule.sohu.com/20140721/n402496058.shtml" target="_blank">ÍøÆØÒÉËÆ¹ùÃÀÃÀ²»ÑÅÕÕÆ¬</a> <a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402501817.shtml" target="_blank">ÒÀÙË´ó¶ÇÄÐ×ÓÏÂÉí</a></li>
-<li><a title="" href="http://yule.sohu.com/20140721/n402475638.shtml" target="_blank">ÁÖ¸üÐÂ½¯ÃÎæ¼µØÏÂÇé¼ÌÐø</a> <a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402495466.shtml" target="_blank">Êé·¨µ÷ÇéÖÕÈÕ²øÃà</a></li>
+<li><a title="" href="http://yule.sohu.com/s2014/zhanghan/" target="_blank">Í·ÌõÈËÎï|ÕÅº²</a>£º<a class="vd-icon-f" title="" href="http://tv.sohu.com/20140722/n402548085.shtml" target="_blank">ÓÐÅ¼Ïñ°ü¸¤£¿ÆäÊµÎÒÒ²×Ô±°</a></li>
 
-<li><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402503927.shtml" target="_blank">ÌÕ¾§Ó¨±§Ô¹´óÂ½½ÚÄ¿¿àÔâ³â ÍõË¼´ÏÁôÑÔ·í´Ì</a></li></ul>
+<li><a title="" href="http://pic.yule.sohu.com/group-587389.shtml" target="_blank">»ÆÞÈÀë»éºó´øÅ®¶ù¾Û»á</a> <a class="vd-icon-f" title="" href="http://tv.sohu.com/20140722/n402548445.shtml" target="_blank">Ä¸°®·ºÀÄÊÂÒµÏßÎü¾¦</a></li>
+
+<li><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402534656.shtml" target="_blank">ºÚ±ªÇ°Ö÷³ªÌ½·Ã½Ü¿ËÑ·×¯Ô° ½ÖÍ·½ÌÖÐ¹úÉñÇú</a></li></ul>
 						</div>
 						<div class="city-turn" id="cityNews" style="display:none">
 						</div>
@@ -2287,14 +2284,15 @@ showTurnAD351(intTurnAD351);
 <div id="pic-wrap">
 <div id="pic-cont">
 <ul>
-<li><a href="http://pic.news.sohu.com/group-587372.shtml" target="_blank"><img src="http://i0.itc.cn/20140721/3390_4936d737_0f5a_65a6_4e67_2d512fcec27d_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-587372.shtml" target="_blank">´åÃñÒÉ¾Ü²ðÔâ´ò 3ËêÅ®Í¯ÖØÉË</a></span></li>
 
-<li><a href="http://pic.auto.sohu.com/group-587210.shtml" target="_blank"><img src="http://i1.itc.cn/20140721/2b65_7155c756_40ee_2f33_cd93_8ee0b33330a7_1.jpg"></a><span><i></i><a href="http://pic.auto.sohu.com/group-587210.shtml" target="_blank">³¤¹Ò³µ²à·­ ²¨¼°ºÀ³µ11Á¾</a></span></li>
+<li><a href="http://pic.news.sohu.com/group-587507.shtml" target="_blank"><img src="http://i1.itc.cn/20140722/2b65_5d00f729_10fe_e312_3926_0ae41d28ca63_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-587507.shtml" target="_blank">ÎÚÃñ¼äÎä×°ÏòÂí·½ÒÆ½»ºÚÏ»×Ó</a></span></li>
 
-<li><a href="http://pic.news.sohu.com/group-586437.shtml" target="_blank"><img src="http://i0.itc.cn/20140721/2b65_9ea1877a_1111_919d_48db_39725d227034_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-586437.shtml" target="_blank">¾©½òÂ·ÉÏ Ò»¡°ÄÌ¡±ÇéÉî</a></span></li>
+<li><a href="http://pic.news.sohu.com/group-587488.shtml" target="_blank"><img src="http://i0.itc.cn/20140722/2b65_2c3200aa_c470_53ff_f246_34fdd4c681c0_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-587488.shtml" target="_blank">ÃðÃÅ°¸ÏÓ·¸Ö¸ÈÏÏÖ³¡ ÏòÃñÖÚÕÐÊÖ </a></span></li>
 
+<li><a href="http://pic.news.sohu.com/group-587510.shtml" target="_blank"><img src="http://i2.itc.cn/20140722/2b65_5f995246_decd_d7cf_0c39_8db7bf695fd7_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-587510.shtml" target="_blank">Å®º¢ÂäË® µ±µØÕò¸É²¿·ÜÁ¦Ê©¾È </a></span></li>
 
-<li><a href="http://pic.news.sohu.com/group-587403.shtml" target="_blank"><img src="http://i0.itc.cn/20140721/3390_bab5ebd7_02df_2db2_0837_bb067bce800e_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-587403.shtml" target="_blank">MH17ÓöÄÑ¶ùÍ¯¼ÒÍ¥ÕÕÆØ¹â</a></span></li>
+<li><a href="http://pic.news.sohu.com/group-587455.shtml" target="_blank"><img src="http://i2.itc.cn/20140722/2b65_665e0660_491e_a4b0_c6d8_2389fda0ee04_1.jpg"></a><span><i></i><a href="http://pic.news.sohu.com/group-587455.shtml" target="_blank">½Ù³ÖÈËÖÊ´³¿¨ 1ÈË±»±Ð3ÈË±»×¥</a></span></li>
+
 
 
 </ul></div>
@@ -2443,16 +2441,16 @@ showTurnAD351(intTurnAD351);
 </script>
 						<div class="list14">
 							<ul>
-<li><a title="" href="http://news.sohu.com/s2014/dianji-1450/index.shtml" target="_blank"><b>MH17±¯¾ç¶ÔÖÐ¹úÓÐºÎÓ°Ïì£¿</b></a></li>
-<li><a title="" href="http://business.sohu.com/s2014/oehers961/index.shtml" target="_blank">³Ô²»ËÀÈËÊÇÂóµ±ÀÍ¿ÏµÂ»ù×¼Ôò</a></li>
-<li><a title="" href="http://star.news.sohu.com/20140721/n402489699.shtml" target="_blank">ÏÄÌìËÍÃÞ±»:´ÈÉÆÒªÖª¡°ÀäÅ¯¡±</a></li>
-<li><a title="" href="http://book.sohu.com/s2014/daguo/" target="_blank">ËÑºüÂÛµÀ´ó¹ú²©ÞÄ:±ä·¨ÊÇ»ù´¡</a></li>
-<li><a title="" href="http://news.sohu.com/s2014/shuzi-282/" target="_blank">¸ß¹Ù³ö¾µÇ±¹æÔò:²»ÄÜµÍÍ·±ÕÑÛ</a></li>
-<li><a title="" href="http://star.news.sohu.com/20140721/n402493480.shtml" target="_blank">Òª¡°Ð¤ÏñÈ¨¡±µÄ¹ÙÔ±Õæ²»¶®·¨£¿</a></li>
-<li><a title="" href="http://star.news.sohu.com/20140721/n402497733.shtml" target="_blank">Ìì½ò¹«°²¾Ö³¤ÂäÂíÕÕ¼û·´¸¯Éî¶È</a></li>
-<li><a title="" href="http://business.sohu.com/s2014/suspect05/index.shtml" target="_blank">ÏÂ°ëÄê¾­¼ÃÊ®´ó¿¿Æ×²ÂÏë:·´¸¯ </a></li>
-<li><span></span><a title="" href="http://mil.sohu.com/s2014/htpy/index.shtml" target="_blank">ÃÀ³âÖÐ¹ú×Ô»ÙÁ¢³¡ÅÉ¡°´¬¡±·ÃÃÀ</a></li>
-<li><a title="" href="http://history.sohu.com/s2014/longzhong/index.shtml" target="_blank">ÃÀ°æ¿¹ÈÕÉñ¾çÍê±¬¹ú²úÊÖËº¹í×Ó</a></li></ul>
+<li><a title="" href="http://cul.sohu.com/20140722/n402572585.shtml" target="_blank"><b>Áìµ¼ÈËÊ¢ÔÞµÄ¡°¹úÀñ¡±Ó°Æ¬</b></a></li>
+<li><a title="" href="http://business.sohu.com/s2014/others962/index.shtml" target="_blank"><span>ÐÂÊÓ½Ç</span></a>|<a title="" href="http://sohu.com/" target="_blank">Ê³Æ·°²È«±ê×¼Ë­ËµÁËËã</a></li>
+<li><a title="" href="http://news.sohu.com/s2014/dianji-1451/" target="_blank">Ñó¿ì²Í±ä»µ:²é´¦×ÜÔÚÆØ¹âºó</b></a></li>
+<li><a title="" href="http://business.sohu.com/s2014/picture-talk-160/index.shtml" target="_blank"><span>Í¼½â²Æ¾­</span></a>|<a title="" href="http://sohu.com/" target="_blank">2014ÉÏ°ëÄêÂ¥ÊÐ±¨¸æ</a></li>
+<li><a title="" href="http://business.sohu.com/s2014/suspect06/index.shtml" target="_blank">ÖÐ¹ú¾­¼ÃÊ®´ó¿¿Æ×²ÂÏë:µØ·½Õ® </a></li>
+<li><a title="" href="http://business.sohu.com/s2014/caiji055/index.shtml" target="_blank">²Æ¼¼:ÉñÆæ´æÇ®¼¼ÇÉÈÃÄã³É¸»ÎÌ</a></li>
+<li><a title="" href="http://history.sohu.com/s2014/lishi33/index.shtml" target="_blank">¹Å´úÌ°¹ÙÉýÇ¨:ÉÏÍ·ÓÐÈËºÃ°ìÊÂ </a></li>
+<li><a title="" href="http://mil.sohu.com/s2014/rbmmg/index.shtml" target="_blank">ÈÕ±¾ÂîÃÀ¹úÖ÷×Óº¦ÅÂÓëÖÐ¹ú¿ªÕ½</a></li>
+<li><span></span><a title="" href="http://book.sohu.com/s2014/daguo/" target="_blank">´ó¹ú²©ÞÄ£ºÇ¿¹úÉÆÓÃÐ¡ÕÌÕðËÄÁÚ</a></li>
+<li><a title="" href="http://sports.sohu.com/s2012/the-basketball-point/" target="_blank"><span>×îÀºµã</span></a>|<a title="" href="http://sports.sohu.com/s2014/love-choose/" target="_blank">NBA·ÊÔí¾ç£º°®ÉñÈ¥ÄÄ¶ù</a></li></ul>
 						</div>
 					</div>				
 					<!-- Ã÷ÐÇ -->
@@ -2465,23 +2463,26 @@ showTurnAD351(intTurnAD351);
 <a href=" http://tv.sohu.com/s2014/mj/" target="_blank" class="hsy_link">ÃÀ¾ç×·¾ç±í</a>
 <span class="iconB"></span>
 <span><a href="http://yule.sohu.com/" target="_blank">ÓéÀÖ</a><em class="tt-dot"><a href="http://tv.sohu.com/" target="_blank">ÊÓÆµ</a></em></span></h1>
-						<div class="yule-v"><div class="yule-v-pos"><a href="http://tv.sohu.com/20140720/n402484936.shtml" target="_blank"><img border="0" alt="&lt;É¼É¼À´ÁË&gt;´ó½á¾Ö" src="http://i2.itc.cn/20140720/b22_c978678c_b8c4_6306_9351_57ff57d43e81_1.jpg" width="195" height="135"></a><span class="pos-txt"><i></i><a href="http://tv.sohu.com/20140720/n402484936.shtml" target="_blank">¡¶É¼É¼À´ÁË¡·£ºÓãÌÁÁµÐÞ³ÉÕý¹û</a></span></div></div>					
+						<div class="yule-v"><div class="yule-v-pos"><a href="http://tv.sohu.com/s2014/summervacation/" target="_blank"><img border="0" alt="14Ê±ÊîÆÚµµ´ó·ÅËÍ·¢²¼»á" src="http://i0.itc.cn/20140722/2fd1_98640c21_97d1_b812_c1ef_a8350f90256d_1.jpg" width="195" height="135"></a><span class="pos-txt"><i></i><a href="http://tv.sohu.com/s2014/summervacation/" title=""><img src="http://i0.itc.cn/20101110/85b_244ad0ca_0b33_41e6_8443_327afd57765a_0.gif" alt="pic"></a><a href="http://tv.sohu.com/s2014/summervacation/" target="_blank">Õý²¥ËÑºüÊîÆÚµµ´ó·ÅËÍ·¢²¼»á</a></span></div></div>					
 						<div class="list14" collection="Y">
 							<ul sdevindex="13">
-<li sdevindex="13"><span sdevindex="13"><a title="" href="http://yule.sohu.com/" target="_blank">×ÊÑ¶</a>| </span><a title="" href="http://pic.yule.sohu.com/group-587303.shtml" target="_blank">Ã·æÃÔø½£²¹°ì»éÀñ£¨Í¼£©</a></li>
-<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://pic.yule.sohu.com/group-587102.shtml" target="_blank">ÆØÎÄÕÂÂíÒÁ¬P·ò¸¾ÃÀ¹ú¶Ä³¡ÊäÇ®</a></li>
-<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://pic.yule.sohu.com/group-587014.shtml" target="_blank">ÁÖ¸üÐÂ½¯ÃÎæ¼¹²Á·Êé·¨µ÷Çé</a><a href="http://tv.sohu.com/20140721/n402495466.shtml" target="_blank" title=""><img src="http://www.sohu.com/upload/images20130624/vd.png" alt="Video"></a></li>
-<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://pic.yule.sohu.com/group-587010.shtml" target="_blank">ÐÅ²»ÐÅÓÉÄã£¡ÀîÑÇÅôÒ¹»áÃÀÅ®£¡</a></li>
-<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://pic.yule.sohu.com/group-587097.shtml" target="_blank">ÎâÆæÂ¡ÁõÊ«Ê«ÌðÃÛÊÖÇ£ÊÖÐã¶÷°®</a></li>
-<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://pic.yule.sohu.com/group-587099.shtml" target="_blank">µË³¬¾ÜÉÏÇ××Ó½ÚÄ¿£ºº¢³ÉÄêÔÙËµ</a></li></ul>
+<li sdevindex="13"><span sdevindex="13"><a title="" href="http://yule.sohu.com/" target="_blank">×ÊÑ¶</a>| </span><a title="" href="http://tv.sohu.com/20140722/n402573358.shtml" target="_blank">ÀîÒ×·åº¦Ðß»ØÓ¦¾çÖÐ»ùÇé</a></li>
+<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://yule.sohu.com/s2014/zhanghan/" target="_blank">ÕÅº²£ºÅ¼Ïñ°ü¸¤£¿ÆäÊµÎÒÒ²×Ô±°</a></li>
+<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://yule.sohu.com/20140721/n402533273.shtml" target="_blank">ÐÄÇéÔã£¡Äþ²ÆÉñÎü¶¾ÃÅºóÊ×ÁÁÏà</a></li>
+<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://yule.sohu.com/20140722/n402549899.shtml" target="_blank">»ÆÞÈÀë»éºóÊ×´Î´øÅ®¶ùÏÖÉí(Í¼)</a></li>
+<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://yule.sohu.com/20140721/n402534890.shtml" target="_blank">º«¸ý²»ÀÖÒâÁË£ºÎÒÊÇÏÊÈâ²»ÊÇÊå</a></li>
+<li sdevindex="13"><span sdevindex="13"></span><a title="" href="http://pic.yule.sohu.com/group-587425.shtml" target="_blank">ÖÜÑ¸»éºó¶ÀÐÐ »¨ÒÂ»¨¿ãÏ²ÑóÑó</a></li></ul>
 							<ul sdevindex="13">
-<li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/drama/us/" target="_blank" sdevindex="13">ÃÀ¾ç</a>|</span><a title="" href="http://tv.sohu.com/s2014/rectifys2/" target="_blank">ÕÑÑ©-ÐÂÉú»îÌôÕ½½Óõà¶øÀ´</a></li></ul>
+<li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/drama/us/" target="_blank" sdevindex="13">ÃÀ¾ç</a>|</span><a title="" href="http://tv.sohu.com/s2014/mrgj/" target="_blank">Ä©ÈÕ¹Â½¢-Ð×ÏÕµÄ´ÔÁÖÖ®ÂÃ</a></li></ul>
 							<ul sdevindex="13">
 
 
-<li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/s2014/hyyy/" target="_blank" sdevindex="13">Ò¯Ò¯</a>| </span><a title="" href="http://tv.sohu.com/20140720/n402484852.shtml?pvid=5144a4ad6908c9044#762" target="_blank">ÅµÒ»´òÒ¯Ò¯ÔâÁõìÇ¿ñÑµ³â</a></li>
 
-<li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/s2014/rga/" target="_blank" sdevindex="13">Èç¹û°®</a>| </span><a title="" href="http://tv.sohu.com/20140720/n402484222.shtml?pvid=5144a4ad6908c9044#1017" target="_blank">ÁøÑÒ²ÓÊ¢Ë®ÏÂÌùÉíæÒÄÖ</a></li>
+
+<li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/ahscndgs/" target="_blank" sdevindex="13">ÎÒ²»ÊÇÃ÷ÐÇ</a>| </span><a title="" href="http://tv.sohu.com/20140722/n402535144.shtml?pvid=5144a4ad6908c9044#2380" target="_blank">¾ÏÆ¼ÆØË®¾ùÒæÊÈ¶Ä</a></li>
+
+
+<li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/s2014/risingstar/" target="_blank" sdevindex="13">Ã÷ÈÕÖ®ÐÇ</a>| </span><a title="" href="http://tv.sohu.com/20140721/n402521793.shtml?pvid=5144a4ad6908c9044#1101" target="_blank">Å®ÆÀÎ¯Í¦Ñ§Ô±±¬´Ö¿Ú</a></li>
 </ul>
 							<ul sdevindex="13">
 <li sdevindex="13"><span sdevindex="13"><a title="" href="http://tv.sohu.com/self/" target="_blank" sdevindex="13">ËÑºü³öÆ·</a>| </span><a title="" href="http://tv.sohu.com/20140708/n401968751.shtml" target="_blank">½ÒÃØÖÐ¹úºÃÉ¤ÒôºÚÄ»</a></li></ul>
@@ -2501,18 +2502,18 @@ showTurnAD351(intTurnAD351);
 						<!-- ËÑºüÊÓÆµ -->
 						<div id="tvmn1" class="show">
 							<div class="PTGA" collection="Y">
-								<div class="picL"><a href="http://tv.sohu.com/?pvid=923bc9e4314b6fcf" target="_blank"><img alt="°µÅÄÂóµ±ÀÍ¿ÏµÂ»ù¹©Ó¦ÉÌ" src="http://i1.itc.cn/20140721/334f_a34b3e13_9cec_d822_e029_4777c8ccd34e_1.jpg"><i class="play"></i></a> <span class="txt"><a href="http://tv.sohu.com/?pvid=923bc9e4314b6fcf" target="_blank">Âóµ±ÀÍ¿ÏµÂ»ùÓÃ±äÖÊÈâ</a></span></div>
-								<div class="picL"><a href="http://tv.sohu.com/20140720/n402484222.shtml" target='_blanksdevindex="15"'><img alt=Èç¹û°® src="http://i3.itc.cn/20140721/3291_3108670e_136d_bfd0_dba8_d94e266bf100_1.jpg" sdevindex="15"><i class="play"></i></a> <span class="txt" sdevindex="15"><a href="http://tv.sohu.com/20140720/n402484222.shtml" target='_blanksdevindex="15"'>´óÅôÎªÁøÑÒ"ÌôÐÆ"²ÓÊ¢</a></span></div>
+								<div class="picL"><a href="http://tv.sohu.com/?pvid=923bc9e4314b6fcf" target="_blank"><img alt="ÊµÅÄ¿ñ·ç°ÑÈË¹Î×ßË²¼ä" src="http://i3.itc.cn/20140722/334f_9eac9b4b_ffdf_8e49_b997_d9317277751a_1.jpg"><i class="play"></i></a> <span class="txt"><a href="http://tv.sohu.com/?pvid=923bc9e4314b6fcf" target="_blank">ÊµÅÄ¿ñ·ç°ÑÈË¹Î×ßË²¼ä</a></span></div>
+								<div class="picL"><a href="http://tv.sohu.com/20140722/n402547359.shtml" target='_blanksdevindex="15"'><img alt=Í»Ï®°É»¨ÑùÒ¯Ò¯ src="http://i2.itc.cn/20140722/3291_90487f2a_0bb4_f720_1767_56edc107eddb_1.jpg" sdevindex="15"><i class="play"></i></a> <span class="txt" sdevindex="15"><a href="http://tv.sohu.com/20140722/n402547359.shtml" target='_blanksdevindex="15"'>ÁõìÇÓëÏ±¸¾µ±½ÖÄÖ±ðÅ¤</a></span></div>
 								<div class="picL end"><a href="http://tv.sohu.com/s2014/ssll/" target='_blanksdevindex="15"'><img alt=É¼É¼À´ÁË src="http://i3.itc.cn/20140721/340a_c313e23b_0f9a_2945_b1d4_e412f001ffe9_1.jpg" sdevindex="15"><i class="play"></i></a> <span class="txt" sdevindex="15"><a href="http://tv.sohu.com/s2014/ssll/" target='_blanksdevindex="15"'>È«¼¯ÈÈ²¥-É¼É¼À´ÁË</a></span></div>
 								<div class="clear"></div>
 							</div>						
 							<div class="columnD contA" collection="Y">
 								<div class="list14">
 									<ul>
-<li><span><a href="http://tv.sohu.com/news/" target="_blank">ÐÂÎÅ</a>| </span><a title="" href="http://tv.sohu.com/20140721/n402503909.shtml" target="_blank">Åö´ÉÄÐÔâÅ®Ë¾»ú¾¶Ö±ÄëÑ¹</a></li>
-<li><a title="" href="http://tv.sohu.com/20140721/n402511834.shtml" target="_blank">¹ã¶«³Öµ¶ÄÐÐÐÐ× 3¶ùÍ¯Í·²¿ÊÜÉË</a></li></ul>
+<li><span><a href="http://tv.sohu.com/news/" target="_blank">ÐÂÎÅ</a>| </span><a title="" href="http://tv.sohu.com/20140721/n402534342.shtml" target="_blank">Ò»¾üÓÃÖ±Éý»úÔÚËÄ´¨×¹»Ù</a></li>
+<li><a title="" href="http://tv.sohu.com/20140721/n402534344.shtml" target="_blank">ÄÐ×ÓÎª¸øÅ®ÓÑ×öÈËÁ÷°ó±íÃÃËºÆ±</a></li></ul>
 									<ul>
-<li><span twffan="done"><a href="http://tv.sohu.com/self" target="_blank">³öÆ·</a>| </span><a title="" href="http://tv.sohu.com/20140716/n402291132.shtml" target="_blank">±ÏÒµÅ®ÉúÒòÂò²»Æð·¿ÂôÉí</a>
+<li><span twffan="done"><a href="http://tv.sohu.com/self" target="_blank">³öÆ·</a>| </span><a title="" href="http://tv.sohu.com/20140721/n402534656.shtml" target="_blank">èïÊ÷Ôâ¾É½ðÉ½Í¬ÐÔÁµ¾À²ø</a>
 </li>
 <li>
 <a title="Ë®ä°Ñ§Ôº" href="http://tv.sohu.com/20140702/n401631873.shtml" target="_blank">Ë®ä°Ñ§Ôº</a>
@@ -2523,7 +2524,7 @@ showTurnAD351(intTurnAD351);
 									<ul>
 <li><span twffan="done"><a href="http://tv.sohu.com/documentary" target="_blank">¼ÍÂ¼Æ¬</a>| 
 
-</span><a title="" href="http://tv.sohu.com/20140718/n402442530.shtml" target="_blank">Âíº½¿Í»ú×¹»ÙÄ»ºóÒÉÔÆ</a>
+</span><a title="" href="http://tv.sohu.com/20140721/n402533681.shtml" target="_blank">Âíº½¿Í»ú±»»÷ÂäÒÉÔÆ</a>
 
 </li></ul>
 								</div>
@@ -2533,17 +2534,17 @@ showTurnAD351(intTurnAD351);
 									
 
 									<ul> 
- <li><span><a href="http://tv.sohu.com/drama/" target="_blank">µçÊÓ¾ç</a>| </span><a title="" href="http://tv.sohu.com/s2014/xlrswsb/" target="_blank">
-ÆæÂ¡Ê«Ê«°®µÄ²»¿É×Ô°Î</a></li> 
+ <li><span><a href="http://tv.sohu.com/drama/" target="_blank">µçÊÓ¾ç</a>| </span><a title="" href="http://tv.sohu.com/s2010/schjjdl/" target="_blank">
+»ÆÞÈÀë»éÊ×¶ÈÐ¯Å®ÏÖÉí</a></li> 
  <li><a title="" href="http://tv.sohu.com/s2014/gjqtwsb/" target="_blank">¹Å½£ÆæÌ·</a> <a title="" href="http://tv.sohu.com/s2014/hjmzzd/" target="_blank">ÃüÖÐ×¢¶¨ÎÒ°®Äã</a> <a title="" href="http://tv.sohu.com/s2014/extant/" target="_blank">´«ÊÀ</a> </li> 
 </ul> 
 <ul> 
  <li><span><a title="" href="http://tv.sohu.com/movie/" target="_blank">µçÓ°</a>| </span><a title="" href="http://tv.sohu.com/20140121/n393894579.shtml" target="_blank">È«ÃñÄ¿»÷</a> <a title="" href="http://tv.sohu.com/20140712/n402159329.shtml" target="_blank">°ëÒô</a> <a title="" href="http://tv.sohu.com/20131220/n392137356.shtml?spayid=200001&pvid=a93489f99714fc23" target="_blank">·ÖÊÖ×¨¼Ò</a> </li> 
 </ul>
 									<ul>
-<li><span><a href="http://tv.sohu.com/show" target="_blank">×ÛÒÕ</a>| </span><a title="" href="http://tv.sohu.com/20140721/n402485434.shtml#954" target="_blank">ÆØÒ¦³¿ÔçÄê±±Îè³öôÜÊÓÆµ</a></li></ul>
+<li><span><a href="http://tv.sohu.com/show" target="_blank">×ÛÒÕ</a>| </span><a title="" href="http://tv.sohu.com/20140722/n402535362.shtml#225" target="_blank">ÆØÖÜ½ÜÂ×Ë£ÐÄ»ú¹´Òý³õÁµ</a></li></ul>
 <ul>
-<li><a title="" href="http://tv.sohu.com/20140720/n402484848.shtml" target="_blank">ÑîÀ½</a>  <a title="" href="http://tv.sohu.com/20140720/n402484573.shtml" target="_blank">¾²¾àÀë</a> <a href="http://tv.sohu.com/20140720/n402481585.shtml" title="" target="_blank">µ±ÊÂÈË</a> <a href="http://tv.sohu.com/20140720/n402476148.shtml" title="" target="_blank">¿ÂÄÏÐã</a> </li></ul>
+<li><a title="" href="http://tv.sohu.com/20140722/n402534983.shtml" target="_blank">´óÏ·¿´±±¾©</a>  <a title="" href="http://tv.sohu.com/20140722/n402547359.shtml" target="_blank">Í»Ï®Ò¯Ò¯</a> <a href="http://tv.sohu.com/20140722/n402548499.shtml" title="" target="_blank">Éà¼úÃ¢Âè</a> </li></ul>
 									<ul>
 <li><span><a href="http://tv.sohu.com/media/" target="_blank">µçÊÓ½ç</a>| </span><a title="" href="http://yule.sohu.com/20140721/n402504317.shtml" target="_blank">&lt;Ò»Õ¾µ½µ×&gt;¡°Ó¢ÐÛ¼¾¡±</a></li></ul>
 								</div>
@@ -2554,19 +2555,19 @@ showTurnAD351(intTurnAD351);
 						<!-- ¸ßÇå -->
 						<div id="tvmn2" class="hidden">
 							<div class="PTGA" collection="Y">
-								<div class="picL"><a href="http://tv.sohu.com/s2013/zcs/" target="_blanksdevindex=&quot;15&quot;"><img alt="Õ½³¤É³" src="http://i1.itc.cn/20140721/340a_13bbe3d0_1a35_8299_ab6f_0e88c45b7f10_1.jpg"  sdevindex="15" /><i class="play"></i></a> 
-<span sdevindex="15" class="txt"><a href="http://tv.sohu.com/s2013/zcs/" target="_blanksdevindex=&quot;15&quot;">24µã´ó½á¾Ö-Õ½³¤É³</a></span></div>
-								<div class="picL"><a href="http://tv.sohu.com/s2014/mrgj/" target="_blanksdevindex=&quot;15&quot;"><img alt="Ä©ÈÕ¹Â½¢" src="http://i2.itc.cn/20140721/340a_ba4421f2_fb49_1605_b9c7_76f302cd9723_1.jpg" sdevindex="15" /><i class="play"></i></a> 
-<span sdevindex="15" class="txt"><a href="http://tv.sohu.com/s2014/mrgj/" target="_blanksdevindex=&quot;15&quot;">¶À¼ÒÃÀ¾ç-Ä©ÈÕ¹Â½¢</a></span></div>
-								<div class="picL end"><a href="http://tv.sohu.com/s2013/aqzml/" target="_blanksdevindex=&quot;15&quot;"><img alt="°®Çé×îÃÀÀö" src="http://i0.itc.cn/20140721/340a_623e91d8_48e9_60db_a513_4f369e110a1f_1.jpg"  sdevindex="15" /><i class="play"></i></a> 
-<span sdevindex="15" class="txt"><a href="http://tv.sohu.com/s2013/aqzml/" target="_blanksdevindex=&quot;15&quot;">ÐÂ¾çÈÈ²¥-°®Çé×îÃÀÀö</a></span></div>
+								<div class="picL"><a href="http://tv.sohu.com/s2013/zcs/" target="_blanksdevindex=&quot;15&quot;"><img alt="Õ½³¤É³" src="http://i1.itc.cn/20140722/340a_e09a568a_a79f_3a3d_c3fc_6e116f0b3905_1.jpg"  sdevindex="15" /><i class="play"></i></a> 
+<span sdevindex="15" class="txt"><a href="http://tv.sohu.com/s2013/zcs/" target="_blanksdevindex=&quot;15&quot;">´ó½á¾Ö-Õ½³¤É³</a></span></div>
+								<div class="picL"><a href="http://tv.sohu.com/s2013/fallingskies4/" target="_blanksdevindex=&quot;15&quot;"><img alt="ÔÉÂäÐÇ³½" src="http://i2.itc.cn/20140722/340a_a30ce1b3_4b35_d25a_f089_ec66fa56d385_1.jpg" sdevindex="15" /><i class="play"></i></a> 
+<span sdevindex="15" class="txt"><a href="http://tv.sohu.com/s2013/fallingskies4/" target="_blanksdevindex=&quot;15&quot;">¶À¼ÒÃÀ¾ç-ÔÉÂäÐÇ³½</a></span></div>
+								<div class="picL end"><a href="http://tv.sohu.com/s2012/aqhll/" target="_blanksdevindex=&quot;15&quot;"><img alt="°®Çé»ØÀ´ÁË" src="http://i2.itc.cn/20140722/340a_427066d7_341b_3463_2abf_a9b19db40625_1.jpg"  sdevindex="15" /><i class="play"></i></a> 
+<span sdevindex="15" class="txt"><a href="http://tv.sohu.com/s2012/aqhll/" target="_blanksdevindex=&quot;15&quot;">Í¬²½ÈÈ²¥-°®Çé»ØÀ´ÁË</a></span></div>
 								<div class="clear"></div>
 							</div>						
 							<div class="columnD contA" collection="Y">
 								<div class="list14">
 									<ul> 
  <li><span><a href="http://tv.sohu.com/hotteleplay/" target="_blank">ÈÈ²¥¾ç</a>| </span><a title="" 
-href="http://tv.sohu.com/s2014/ssll/" target="_blank">É¼É¼À´ÁË</a> <a title="" href="http://tv.sohu.com/s2012/aqhll/" target="_blank">°®Çé»ØÀ´ÁË<a></li> 
+href="http://tv.sohu.com/s2014/ssll/" target="_blank">É¼É¼À´ÁË</a> <a title="" href="http://tv.sohu.com/s2013/aqzml/" target="_blank">°®Çé×îÃÀÀö<a></li> 
  <li><a title="" href="http://tv.sohu.com/s2014/gjqtwsb/" target="_blank">¹Å½£ÆæÌ·</a> <a title="" href="http://tv.sohu.com/s2014/wydtt/" target="_blank">ÎÞÓÇµÄÌìÌÃ</a> <a title="" href="http://tv.sohu.com/s2014/bxgt1/" target="_blank">°üÐ¦¹«ÌÃ</a></li> 
  <li><a title="" href="http://tv.sohu.com/s2014/bwsz/" target="_blank">±£ÎÀËï×Ó</a> <a title="" href="http://tv.sohu.com/s2013/dszaq/" target="_blank">¾ø°®</a> <a title="" href="http://tv.sohu.com/s2014/hjmzzd/" target="_blank">ÃüÖÐ×¢¶¨ÎÒ°®Äã</a> </li> 
 </ul>
@@ -2580,7 +2581,7 @@ href="http://tv.sohu.com/s2014/ssll/" target="_blank">É¼É¼À´ÁË</a> <a title="" h
 							<div class="columnE contB" collection="Y">
 								<div class="list14">
 									<ul> 
- <li><span><a href="http://tv.sohu.com/drama/us/" target="_blank">ÃÀ¾ç</a>| </span><a href="http://tv.sohu.com/s2014/graceland2/" target="_blank">¶÷´ÍÖ®µØ</a> <a href="http://tv.sohu.com/s2014/extant/" target="_blank">´«ÊÀ</a> <a href="http://tv.sohu.com/s2013/fallingskies4/" target="_blank">ÔÉÂäÐÇ³½</a></li> 
+ <li><span><a href="http://tv.sohu.com/drama/us/" target="_blank">ÃÀ¾ç</a>| </span><a href="http://tv.sohu.com/s2014/graceland2/" target="_blank">¶÷´ÍÖ®µØ</a> <a href="http://tv.sohu.com/s2014/extant/" target="_blank">´«ÊÀ</a> <a href="http://tv.sohu.com/s2014/mrgj/" target="_blank">Ä©ÈÕ¹Â½¢</a></li> 
  <li><a href="http://tv.sohu.com/s2014/strain1/" target="_blank">Ñª×å</a> <a href="http://tv.sohu.com/s2014/teenwolf4/" target="_blank">ÉÙÀÇ4</a> <a href="http://tv.sohu.com/s2014/bridge2/" target="_blank">±ßÇÅÃÕ°¸2</a> <a href="http://tv.sohu.com/s2014/24xszhyt1/" target="_blank">24Ð¡Ê±9</a></li> 
  <li><a href="http://tv.sohu.com/s2014/xadss2/" target="_blank">ÐÔ°®´óÊ¦2</a> <a href="http://tv.sohu.com/s2014/hemlockgrove2/" target="_blank">ÌúÉ¼Ê÷´Ô</a> <a href="http://tv.sohu.com/s2014/longmire3/" target="_blank">Î÷Õò¾¯»ê3</a></li> 
 </ul>
@@ -2659,17 +2660,39 @@ TurnAD119.visit=(TurnAD119.visit>4)?1:TurnAD119.visit;
 TurnAD119.store();
 function showTurnAD119(basenum){
 if (basenum==1){
-jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
+var d=false;
+d=(AdLoc4=='CN34');
+if(d){
+if(typeof(document.pv)=='undefined')document.pv = new Array();var _a=new Image();
+_a.src='http://imp.optaim.com/201407/54ee7b1d775621cdce786884e85733ed.php?a=99';document.pv.push(_a);
+document.write('<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=54ee7b1d,775621cd,ce786884,e85733ed&AdID=5755646" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/ChinaMobile/0722/160x260.jpg" border=0 width="160" height="260"></img></a>');
+}
+else{
+						jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
     var _C = "#TurnAD119",_ID = "10084",_W = 160,_H = 260,_T = 1,_F=9,
     _A = _W + (_H>1000?'':(_H>=100?"0":(_H>=10?"00":"0")))+_H,_D = "http://images.sohu.com/bill/default/"+_A+".html?pid="+_ID;
     if(_C!=''){jQuery(_C).attr('id', 'beans_' + _ID).css({'width' : _W + 'px', 'height' : _H + 'px'});}
     passion.ones({itemspaceid : _ID,adps : _A,adsrc : _F,turn : _T,defbeans : [{id : Math.random() + _ID,itemspaceid : _ID,resource : {height : _H,width : _W,file : _D,type : 'iframe'}}]
     });
-});});}
+});});
+}}
 else if(basenum==2){
+var d=false;
+d=(AdLoc4=='CN34');
+if(d){
 if(typeof(document.pv)=='undefined')document.pv = new Array();var _a=new Image();
-_a.src='http://imp.optaim.com/201407/7674c9876677a81c3467006534b94914.php?a=99';document.pv.push(_a);
-document.write('<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=7674c987,6677a81c,34670065,34b94914&AdID=12183585" target=_blank><img src="http://images.sohu.com/bill/s2014/ranzhang/MKT/changyou/7/160260.jpg" border=0 width="160" height="260"></img></a>');}
+_a.src='http://imp.optaim.com/201407/e66be7b1e3e79f3a62e41b5decdb2015.php?a=99';document.pv.push(_a);
+document.write('<a href="http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=e66be7b1,e3e79f3a,62e41b5d,ecdb2015&AdID=14401318" target=_blank><img src="http://images.sohu.com/bill/s2014/xiaoluanhao/ChinaMobile/0722/160x260.jpg" border=0 width="160" height="260"></img></a>');
+}
+else{
+						jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
+    var _C = "#TurnAD119",_ID = "10084",_W = 160,_H = 260,_T = 1,_F=9,
+    _A = _W + (_H>1000?'':(_H>=100?"0":(_H>=10?"00":"0")))+_H,_D = "http://images.sohu.com/bill/default/"+_A+".html?pid="+_ID;
+    if(_C!=''){jQuery(_C).attr('id', 'beans_' + _ID).css({'width' : _W + 'px', 'height' : _H + 'px'});}
+    passion.ones({itemspaceid : _ID,adps : _A,adsrc : _F,turn : _T,defbeans : [{id : Math.random() + _ID,itemspaceid : _ID,resource : {height : _H,width : _W,file : _D,type : 'iframe'}}]
+    });
+});});
+}}
 else if(basenum==3){
 jqReady(function () {require(["sjs/matrix/ad/passion"], function (passion) {
     var _C = "#TurnAD119",_ID = "10084",_W = 160,_H = 260,_T = 3,_F=9,
@@ -2752,16 +2775,16 @@ initSohuIndexFirstButton(options);
 				<div collection="Y">
 					<div class="list12 list12-djt " sdevindex="23">
 <ul sdevindex="23">
-<li sdevindex="23"><a title="" href="http://dingdong550.blog.sohu.com/304409573.html" target="_blank" sdevindex="23">Ì¨·çÔÖÄÑÎªºÎÕ¼¾Ý²»ÁËÍ·Ìõ</a></li>
-<li sdevindex="23"><a title="" href="http://fengluole.blog.sohu.com/304409271.html" target="_blank" sdevindex="23">ÖÐ¹ú·´¸¯¼¸Ê±³ÉÁËÃÀµÛÒõÄ±</a></li>
-<li sdevindex="23"><a title="" href="http://dinglaifeng007.blog.sohu.com/304408366.html" target="_blank" sdevindex="23">ÅËÊ¯ÒÙµÄÒ»ÒÚÃÀÔª¾è¸øÁËË­</a></li>
+<li sdevindex="23"><a title="" href="http://laotange.blog.sohu.com/304430536.html" target="_blank" sdevindex="23">Ì¨·ç¹ýºóµÄÃÞ±»Óë·¢Ã¹Ãæ°ü</a></li>
+<li sdevindex="23"><a title="" href="http://gaoweiweiusa.blog.sohu.com/304411609.html" target="_blank" sdevindex="23">ÖÐ¹úÈËºÍÃÀ¹úÈËµÄ16¸öÇø±ð</a></li>
+<li sdevindex="23"><a title="" href="http://dingjinkunvip.blog.sohu.com/304433992.html" target="_blank" sdevindex="23">ÉÏº£ÁÓÖÊÈâÊÂ¼þµÄ·¨ÂÉ·ÖÎö</a></li>
 <li sdevindex="23"><a title="" href="http://dingdong550.blog.sohu.com/304362213.html" target="_blank" sdevindex="23">ÓÐ¶àÉÙ¹ú¼ÒÏòÖÐ¹ú¡°·¢ÄÑ¡±</a></li>
 <li sdevindex="23"><a title="" href="http://yingjiesixiang.blog.sohu.com/304383429.html" target="_blank" sdevindex="23">1972ÄêµÄÍâ½»Óë¶ÔÍâ¿ª·Å</a></li>
-<li sdevindex="23"><a title="" href="http://yixianrongblog.blog.sohu.com/304383392.html" target="_blank" sdevindex="23">ÏÂ¸öÇ§ÒÚÃÀÔªÊÐ³¡ÈçºÎÆô¶¯</a></li>
-<li sdevindex="23"><a title="" href="http://tttmoney.blog.sohu.com/304396430.html" target="_blank" sdevindex="23">ÂòÏÂ¸£²¼Ë¹µÄÉñÃØÖÐ¹úÉÌÈË</a></li>
-<li sdevindex="23"><a title="" href="http://zhyongk.blog.sohu.com/304370549.html" target="_blank" sdevindex="23">Ôª³¯Ê±¹ÙÔ±ÈçºÎ"´òºÚ³ý¶ñ"</a></li>
+<li sdevindex="23"><a title="" href="http://heyafu.blog.sohu.com/304427524.html" target="_blank" sdevindex="23">ÖÐ¹úÓÐ¶àÉÙ¼ÆÉú¹¤×÷ÈËÔ±</a></li>
+<li sdevindex="23"><a title="" href="http://cctvxuyili.blog.sohu.com/304433126.html" target="_blank" sdevindex="23">Ñó¿ì²ÍÎªºÎÔÚÖÐ¹ú¿ìËÙ¶éÂä</a></li>
+<li sdevindex="23"><a title="" href="http://bowenjun.blog.sohu.com/304422579.html" target="_blank" sdevindex="23">ËïÎäÊ±´úÕ½ÕùÊÇÈçºÎÒý·¢µÄ</a></li>
 <li sdevindex="23"><a title="" href="http://chengr1778.blog.sohu.com/304382754.html" target="_blank" sdevindex="23">µËÐ¡Æ½ÎªÐ¡ÒÌ×Ó×öÃ½µÄÈ¤ÊÂ</a></li>
-<li sdevindex="23"><a title="" href="http://mayong001.blog.sohu.com/304370064.html" target="_blank" sdevindex="23">ÎÒÃÇÓ¦¸ÃÔõÑùÀí½â¼×ÎçÕ½Õù</a></li></ul></div>
+<li sdevindex="23"><a title="" href="http://qinqy-12345.blog.sohu.com/304423814.html" target="_blank" sdevindex="23">×îÆ¯ÁÁµÄÅ®ÏØÎ¯Êé¼Ç"Í¨¼é"</a></li></ul></div>
 				</div>
 			</div>
 			<!-- 180¿ò¼Ü:End -->
@@ -2867,48 +2890,64 @@ showTurnAD10(intTurnAD10);
 				<div class="clear"></div>
 				<div id="sportstab1" class="show">
 					<div class="PTGA" collection="Y">
-						<div class="picL"><a href="http://pic.sports.sohu.com/group-587266.shtml" target="_blank"><img alt="ËïÔÃºÍÔÐÆÞÅÄÐ´Õæ" src="http://i3.itc.cn/20140721/325_9ea407f4_f83e_d3f8_9628_1416b7b44553_1.jpg"></a><span class="txt"><a href="http://pic.sports.sohu.com/group-587266.shtml" target="_blank">ËïÔÃºÍÔÐÆÞÅÄÐ´Õæ</a></span></div>
+						<div class="picL"><a href="http://pic.sports.sohu.com/group-587635.shtml" target="_blank"><img alt="º«¹ú½Å²ÈÌ¤Òý³åÍ»" src="http://i3.itc.cn/20140722/325_6fa9b518_32ba_ec0e_e6eb_5ee9bede1bc3_1.jpg"></a><span class="txt"><a href="http://pic.sports.sohu.com/group-587635.shtml" target="_blank">º«¹ú½Å²ÈÌ¤Òý³åÍ»</a></span></div>
 						<div class="list14">
 							<ul>
-<li class="b"><a title="" href="http://sports.sohu.com/nba.shtml" target="_blank">¿Æ±ÈÈÃÊéºÀ´©8ºÅÇòÒÂÔâ¾Ü</a></li>
-<li><a title="" href="http://sports.sohu.com/20140721/n402497400.shtml" target="_blank" class="">ÏÄ¼¾ÁªÈü-»ð¼ýÊ¤»Æ·ä½ø¾öÈü</a></li>
-<li><a title="" href="http://pic.sports.sohu.com/group-587137.shtml" target="_blank" class="">¿Æ±È´ò°ôÇò</a> <a href="http://sports.sohu.com/20140721/n402497500.shtml" title="" target="_blank" class="">»ð¼ý¾É½«±»´þ²¶</a> </li>
-<li><a title="" href="http://sports.sohu.com/20140721/n402496135.shtml" target="_blank" class="">Õ²»Ê»òÊ§ÀÖ¸£</a> <a href="http://pic.sports.sohu.com/group-586699.shtml#0" title="" target="_blank" class="">ÀÇÍ¼ÌÚ¼ÓÄÚÌØ</a> </li></ul>
+<li class="b"><a title="" href="http://sports.sohu.com/nba.shtml" target="_blank">ÊµÁ¦°ñ:ÆïÊ¿µÚÆß»ð¼ýµÚ¾Å</a></li>
+<li><a title="" href="http://sports.sohu.com/20140722/n402548927.shtml" target="_blank">ÊéºÀÍûÊ×·¢</a> <a title="" href="http://sports.sohu.com/20140722/n402561154.shtml" target="_blank">»ð¼ýÔâÄæ×ª¶ª¹Ú</a></li>
+<li><a title="" href="http://sports.sohu.com/s2014/love-choose/" target="_blank">ÀÖ¸£È¥Ïò½âÎö</a> <a title="" href="http://sports.sohu.com/s2014/2014traderumors/index.shtml" target="_blank">ÌØÄÉÇ©Ô¼ÂÌ¾ü</a></li>
+<li><a title="" href="http://pic.sports.sohu.com/group-587479.shtml#0" target="_blank">Õ²»ÊÀÉÀÊÍ¬Ì¨µ¯×à¸ÖÇÙ(Í¼)</a></li></ul>
 						</div>
 						<div class="clear"></div>
 					</div>					
 					<div class="list14" collection="Y">
 						<ul>
-<li class="b"><a title="" href="http://sports.sohu.com/zhongchao.shtml" target="_blank">µÏÑÇÂüµÙ»ò½ûÈüËÄ³¡ ºã´óÑÇ¹ÚÃûµ¥³öÂ¯</a><a title="" href="http://tv.sohu.com/sports/csl/" target="_blank"><img alt=ÖÐ³¬ÊÓÆµ src="http://www.sohu.com/upload/images20130624/vd.png"></a></li>
-<li class="no-dot"><a title="" href="http://pic.sports.sohu.com/group-587120.shtml#0" target="_blank">×î¼ÑÕóÈÝ:ºã´ó½öÒ»ÈË</a> <a title="" href="http://pic.sports.sohu.com/group-587061.shtml" target="_blank">ÑÇÌ©ÂÌ³ÇÔ±¹¤»¥Å¹(Í¼)</a></li>
-<li><a title="" href="http://sports.sohu.com/20140720/n402485040.shtml" target="_blank">Ï°½üÆ½ÅÎ¾Ù°ìÊÀ½ç±­</a> <a title="" href="http://sports.sohu.com/20140721/n402503547.shtml" target="_blank">ÖÐÑëÑ²ÊÓ×é½«¸°×ã¹ÜÖÐÐÄ</a></li>
-<li><a title="" href="http://cbachina.sports.sohu.com/" target="_blank">ÄÐÀºÖ÷Ë§ÅúÖ÷³¡ÉÚ CBA¶àÖ§Çò¶ÓÕùÇÀ¹þ´ïµÏ</a><a title="" href="http://tv.sohu.com/20140720/n402484118.shtml" target="_blank"><img alt=ÄÐÀº¸ººÚÉ½ src="http://www.sohu.com/upload/images20130624/vd.png"></a></li>
-<li><a title="" href="http://sports.sohu.com/xijia.shtml" target="_blank">JÂÞµÖÂíµÂÀï½«Ç©»ÊÂí</a><a title="" href="http://tv.sohu.com/20140721/n402498062.shtml" target="_blank"><img alt=JÂÞµÖ´ïÂíµÂÀï src="http://www.sohu.com/upload/images20130624/vd.png"></a> <a title="" href="http://sports.sohu.com/yingchao.shtml" target="_blank">Âü³Ç·æ°Ô»òÉËÐÝ3¸öÔÂ</a></li>
-<li><a title="" href="http://sports.sohu.com/yijia.shtml" target="_blank">¿ËÂåÔóÐû²¼Ã÷ÄêÍËÒÛ</a> <a title="" href="http://sports.sohu.com/dejia.shtml" target="_blank">¹ÏË§¹ºÂÞÒÁË¹Ôâ¸ß²ã·ñ¾ö</a></li>
-<li><a title="" href="http://sports.sohu.com/20140721/n402512047.shtml" target="_blank">ÁÖµ¤ÅÅÃû½«ÖØ·µÇ°Ê®</a> <a title="" href="http://sports.sohu.com/20140721/n402515218.shtml" target="_blank">ÆÓÌ©»¸ÑÇÔËÑ¡°ÎÈüÀ¿Áù½ð</a></li></ul>
+<li class="b"><a title="" href="http://sports.sohu.com/zhongchao.shtml" target="_blank">¼ªÀ­µÏÅµ»òÌáÇ°³öÕ½ ¿×¿¨¾øÉ±°ÍÃ½Ê¢ÔÞ</a><a title="" href="http://tv.sohu.com/20140722/n402554569.shtml " target="_blank"><img alt="¿×¿¨¾øÉ±" src="http://www.sohu.com/upload/images20130624/vd.png"></a></li>
+
+<li><a title="" href="http://sports.sohu.com/20140722/n402564394.shtml" target="_blank">Éê»¨ÖÍÁô»ú³¡6¸ö¶àÐ¡Ê±</a> <a title="" href="http://sports.sohu.com/20140721/n402534130.shtml" target="_blank">ºÂº£¶«ÔÙÅúÖÐ¹ú×ãÇò</a></li>
+
+
+<li><a title="" href="http://sports.sohu.com/xijia.shtml" target="_blank">»ÊÂí¹ÙÍøÐ¹ÃÜ½ñÇ©JÂÞ °ÍÈø24Ð¡Ê±ÄÚ½âÔ¼¹þÎ¬</a></li>
+
+
+
+<li><a title="" href="http://sports.sohu.com/20140722/n402548874.shtml" target="_blank">Ç°Ó¢³¬ÇòÐÇË¢²ÞËùÑø¼Ò</a> <a title="" href="http://pic.sports.sohu.com/group-587481.shtml#0" target="_blank">°ÍÉñÓëÅ®ÓÑÒÉ³³¼Ü(Í¼)</a></li>
+
+
+
+
+<li><a title="" href="http://sports.sohu.com/20140722/n402560886.shtml" target="_blank">ÀîÄÈÉÌÒµ¼ÛÖµÑ¹CÂÞÃ·Î÷</a> <a title="" href="http://sports.sohu.com/20140722/n402568657.shtml" target="_blank">×ÞÊÐÃ÷ÂõÏòÊÀ½çÈ­Íõ</a></li>
+
+
+
+<li><a title="" href="http://sports.sohu.com/20140722/n402552683.shtml" target="_blank">ÖÐ¹úÕ½¶Ó¶áµç¾ºÊÀ½ç¹Ú¾ü ½±½ð¸ß´ï3120ÍòÔª</a><a title="" href="http://tv.sohu.com/20140722/n402559255.shtml" target="_blank"><img alt="ÖÐ¹úÕ½¶Ó¶áµç¾ºÊÀ½ç¹Ú¾ü" src="http://www.sohu.com/upload/images20130624/vd.png"></a></li>
+
+
+<li><a title="" href="http://cbachina.sports.sohu.com/" target="_blank">CBA-°¢°ÍË¹È·¶¨¼ÓÃËÉ½Î÷</a> <a title="" href="http://golf.sports.sohu.com/" target="_blank">Âó¿ËÂÞÒÁÓëÃÀÅ®¿ñ»¶</a></li>
+</ul>
 					</div>
 				</div>				
 				<div id="sportstab2" class="hidden">
 					<div class="PTGA" collection="Y">
-						<div class="picL"><a href="http://tv.sohu.com/20140721/n402499905.shtml" target="_blank" sdevindex="24"><img alt=µÏÑÇÂüµÙÒÉÊúÖÐÖ¸ src="http://i0.itc.cn/20140721/9fd_5d0e6215_342e_cc75_be11_9125c2e10bdb_1.jpg" sdevindex="24"><i class="play"></i></a><span class="txt" sdevindex="24"><a href="http://tv.sohu.com/20140721/n402499905.shtml" target="_blank" sdevindex="24">µÏÑÇÂüµÙÒÉÊúÖÐÖ¸</a></span></div>
+						<div class="picL"><a href="http://tv.sohu.com/sports/" target="_blank" sdevindex="24"><img alt=½ÜÀ­µÂ¹ú¼Ò¶Ó½øÇò src="http://i1.itc.cn/20140722/9fd_3781c56f_afff_aad8_6129_a4fb1fe2240c_2.jpg" sdevindex="24"><i class="play"></i></a><span class="txt" sdevindex="24"><a href="http://tv.sohu.com/sports/" target="_blank" sdevindex="24">½ÜÀ­µÂ¹ú¼Ò¶Ó½øÇò</a></span></div>
 						<div class="list14">
 							<ul>
-<li class="b"><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402500547.shtml" target="_blank">ÐÂÐÇÔìµãÆÆÃÅ ACÃ×À¼2-0</a></li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402501439.shtml" target="_blank">Ã×À¼ÑµÁ· ÒòÔú¼ªÑÝÃ·¿ª¶þ¶È</a></li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402504330.shtml" target="_blank">Ç°ÂüÁª¶Ó³¤Ê×Ðã ¹úÃ×2Á¬Ê¤</a></li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402509886.shtml " target="_blank">»ùÒ®ÀûÄá¾ÙÐÐ»éÀñ ºÃÓÑ×£ºØ</a></li></ul>
+<li class="b"><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402556517.shtml" target="_blank">µÂ¹úÍæ»µÊÀ½ç±­¹Ú¾ü½±±­</a></li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402558696.shtml" target="_blank">À³Íò°ÝÈÊÊ×ÐãÆÆÃÅ+ÔÓË£»÷Öù</a></li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402559350.shtml" target="_blank">·¨¹ú×óÕ¢ÕýÊ½×ª»áÓÈÎÄÍ¼Ë¹</a></li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402532609.shtml" target="_blank">ÍÐÀ×Ë¹»òÔâÀ¶¾üÇåÀí·µÂí¾º</a></li></ul>
 						</div>
 						<div class="clear"></div>
 					</div>					
 					<div class="list14" collection="Y">
 						<ul>
-<li class="b"><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402516423.shtml" target="_blank">ÖÐ³¬µÚ15ÂÖÈ«½øÇò ±ÈÑÇÌØÀïµ¹¹³¶àÀû´÷Ã±</a> </li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402485959.shtml" target="_blank">Îå¼ÑÇò-ÐÂÔ®¾ªÌìµ¹¹³</a> <a title="" href="http://tv.sohu.com/20140720/n402483790.shtml" target="_blank">×êÊ¯Å­ËºÇòÒÂ</a> <a title="" href="http://tv.sohu.com/20140720/n402484194.shtml" target="_blank" class="">µÂÑïÊ×Ðã</a></li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140720/n402484761.shtml" target="_blank">×î¼Ñ-ãÆÏà´³2´«Ôìµã</a> <a title="" href="http://tv.sohu.com/20140720/n402484061.shtml" target="_blank" class="">¹ú°²1-2¸º½¨Òµ</a> <a href="http://tv.sohu.com/20140720/n402484026.shtml" title="" target="_blank">ºã´ó0-0</a> </li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402524120.shtml" target="_blank">Õ²»Ê°®×ÓÔÓË£±äÏò¹ýÈË</a> <a title="" href="http://tv.sohu.com/20140721/n402522584.shtml" target="_blank" class="">Õ²Ä·Ë¹¹ÛÕ½Å­ºðËÍÐÜ±§</a> </li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140720/n402484118.shtml" target="_blank">ÖÐÅ·Èü-¹ù°¬Â×12·Ö4Öú¹¥ ÄÐÀº66-71²»µÐºÚÉ½</a></li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402526530.shtml" target="_blank">F1µÂ¹úÕ¾-ÂíÈøÓë¶ÔÊÖÅö×² ·­³µ»¬ÐÐ³å³öÈüµÀ</a></li>
-<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402497136.shtml" target="_blank">×ÞÊÐÃ÷È­Ì¨ì®Ñª½¿ÆÞÍ´¿Þ È­Íõ°²¸§ÏÔÌúººÈáÇé</a></li></ul>
+<li class="b"><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402554569.shtml" target="_blank">¿×¿¨ÖØÅÚÁè¿ÕÕ¶¾øÉ± Á¦ÖúÇò¶ÓÖØ·µ°Í¼×Ç°3</a> </li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140629/n401517041.shtml" target="_blank">FIFA¹«²¼ÊÀ½ç±­×î¼Ñ½øÇò-JÂÞÂäÒ¶ÇòÁè¿ÕÉäÃÅ</a> </li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402550192.shtml" target="_blank">¹ú°²ºËÐÄÖØÉËÐÝÕ½Á½ÔÂ</a> <a title="" href="http://tv.sohu.com/20140722/n402561159.shtml" target="_blank">Ë´ÌìÇ©Ô¼¸çÂ×±ÈÑÇÇ°·æ</a> </li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140721/n402524120.shtml" target="_blank">Õ²Ä·Ë¹°®×ÓÔÓË£±äÏò¹ýÈË</a> <a title="" href="http://tv.sohu.com/20140721/n402522584.shtml" target="_blank">»ÊµÛ¹ÛÕ½Å­ºðËÍÐÜ±§</a> </li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402559255.shtml" target="_blank">ÖÐ¹úÐÂÐãÕ½¶Ó¶áµç¾ºÊÀ½ç¹Ú¾ü ½±½ð¹²3120ÍòÔª</a></li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402556550.shtml" target="_blank">¾ª»êÔÙÏÖ ´÷ÀûËù³ËÉÏº£·ÉÂ×¶Ø¿Í»úÆÈ½µ¶íÂÞË¹</a></li>
+<li><a class="vd-icon-s" title="" href="http://tv.sohu.com/20140722/n402564155.shtml" target="_blank">ËïÐËÃñ¶ñÒâµÅÌ¤Ôâ¶Ô·½ÕÆÞâ Á½¶ÓÈºÅ¹½ü1·ÖÖÓ</a></li></ul>
 					</div>
 				</div>
 				<script type="text/javascript">
@@ -2944,30 +2983,30 @@ showTurnAD10(intTurnAD10);
 				</div>
 				<div class="clear"></div>
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://pic.yule.sohu.com/group-587104.shtml" target="_blank" sdevindex="12" jquery1301108279150="65" jquery1301105091691="298" jquery1301312565858="53"><img alt="°ÂÀòÐßÉ¬ÎÇÐ¡Åô" src="http://i2.itc.cn/20140721/2fd1_4a8eb9ed_89dd_0ab9_1485_2a78d7506093_1.jpg" sdevindex="12" border="0" height="63" width="93"></a><span class="txt" sdevindex="12"><a href="http://pic.yule.sohu.com/group-587104.shtml" target="_blank" sdevindex="12" jquery1301108279150="66" jquery1301105091691="299" jquery1301312565858="54">°ÂÀòÐßÉ¬ÎÇÐ¡Åô</a></span></div>
+					<div class="picL"><a href="http://pic.yule.sohu.com/group-587468.shtml" target="_blank" sdevindex="12" jquery1301108279150="65" jquery1301105091691="298" jquery1301312565858="53"><img alt="Ò¦³¿Ðã¸Ö¹ÜÎèÉñ¼¼" src="http://i3.itc.cn/20140722/2fd1_3303857f_8f66_1b7d_b7f6_5f17167c3b70_1.jpg" sdevindex="12" border="0" height="63" width="93"></a><span class="txt" sdevindex="12"><a href="http://pic.yule.sohu.com/group-587468.shtml" target="_blank" sdevindex="12" jquery1301108279150="66" jquery1301105091691="299" jquery1301312565858="54">Ò¦³¿Ðã¸Ö¹ÜÎèÉñ¼¼</a></span></div>
 					<div class="list14">
-						<li class="b"><a title="" href="http://yule.sohu.com/" target="_blank">×ÛÒÕ½ÚÄ¿¿çÈëÒÚÔªÊ±´ú</a></li>
-<li><a title="" href="http://yule.sohu.com/20140721/n402498285.shtml" target="_blank">ÌÕ¾§Ó¨°µÊ¾Ôâ½ÚÄ¿×éËã¼Æ</a></li>
-<li><a title="" href="http://yule.sohu.com/20140721/n402495711.shtml" target="_blank">ÅíË³Ð¡ÈýÊ×·¢Éù²»Ì¸ÍâÓö</a></li>
-<li><a title="" href="http://korea.yule.sohu.com/20140721/n402495873.shtml" target="_blank">missAÐãÖÇÆØÁ÷±ÇÌéôÜÕÕ</a></li>
+						<li class="b"><a title="" href="http://yule.sohu.com/" target="_blank">º«º®ÊÕÍõçóµ¤¿¨Æ¬¾ªÏ²</a></li>
+<li><a title="" href="http://yule.sohu.com/20140722/n402566731.shtml" target="_blank">ÕÂ×Óâù·ñÈÏÍô·åÏÂÔÂÇó»é</a></li>
+<li><a title="" href="http://yule.sohu.com/20140722/n402549546.shtml" target="_blank">ÑëÊÓÖ÷³ÖÀîÃÛÍøÉ¹½á»éÖ¤</a></li>
+<li><a title="" href="http://yule.sohu.com/20140722/n402549242.shtml" target="_blank">ÌÕ†´ÎªÅ®ÓÑÆú»ù¶½½Ì»éÀñ</a></li>
 					</div>
 					<div class="clear"></div>
 				</div>				
 				<div class="list14" collection="Y">
 					<ul sdevindex="31">
-<li sdevindex="31"><a title="" href="http://pic.yule.sohu.com/group-587169.shtml" target="_blank"><font style="FONT-WEIGHT: bold">·¶±ù±ù´µóïÏÀÆøÍâÂ¶</font></a> <a title="" href="http://pic.yule.sohu.com/group-587119.shtml" target="_blank"><font style="FONT-WEIGHT: bold">ÈüÁÕÄÈÇ¿ÎÇÐ¡Å®º¢</font></a></li>
-<li sdevindex="31"><a title="" href="http://pic.yule.sohu.com/group-587118.shtml" target="_blank">½¯ö©ÀöÏÖÉí¾ÆµêÐãÃÀÍÈ</a> <a title="" href="http://pic.yule.sohu.com/group-587016.shtml" target="_blank">ÁõÇàÔÆÀîÐ¡è´ì­ÑÝ¼¼</a></li></ul>
+<li sdevindex="31"><a title="" href="http://pic.yule.sohu.com/group-587459.shtml" target="_blank"><font style="FONT-WEIGHT: bold">¹ù¸»³Ç±È¼ôµ¶ÊÖÃÈ±¬</font></a> <a title="" href="http://pic.yule.sohu.com/group-587418.shtml" target="_blank"><font style="FONT-WEIGHT: bold">»ÆÏþÃ÷¹«Ö÷±§Baby</font></a></li>
+<li sdevindex="31"><a title="" href="http://pic.yule.sohu.com/group-587465.shtml" target="_blank">ÑîÍþ¸¸×Ó¹Å×°°çÏà¿¡ÀÊ</a> <a title="" href="http://pic.yule.sohu.com/group-587462.shtml" target="_blank">ÈüÁÕÄÈÔâÄÐ·ÛË÷ÊªÎÇ</a></li></ul>
 					<ul sdevindex="28">
-<li sdevindex="30"><a title="" href="http://pic.yule.sohu.com/group-587125.shtml" target="_blank" sdevindex="30" jquery1301112959401="132" jquery1301113025687="61">Ð¡Àî±¬·Ê³¬Ä£Å®ÓÑÉÁ±Ü</a> <a title="" href="http://pic.yule.sohu.com/group-587124.shtml" target="_blank">¿ËÀÍÆæ½¿ÆÞÅÄÄÚÒÂ´óÆ¬</a></li></ul>
+<li sdevindex="30"><a title="" href="http://pic.yule.sohu.com/group-587487.shtml" target="_blank" sdevindex="30" jquery1301112959401="132" jquery1301113025687="61">Ó°µÛÁº¼Ò»ÔÉÌ³¡×ÔÑ¡ÄÚ¿ã</a> <a title="" href="http://pic.yule.sohu.com/group-587514.shtml" target="_blank">ÕÅì§ÒÕ´©Ô¡ÅÛÅÄÐ´Õæ</a></li></ul>
 					<ul sdevindex="30" sizcche="1">
-<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402497018.shtml" target="_blank" sdevindex="30">Íõ·ÆÐ¯ÀîæÌÑï·«³öº£</a> <a title="" href="http://tv.sohu.com/20140721/n402497142.shtml" target="_blank">ÌïÁÁ½ÌÉ­µûÌøË®Óö×è°­</a></li>
-<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402495522.shtml" target="_blank" sdevindex="30">ÀîÑÇÅôÒ¹»áÃÀÅ®¹ÛÓ°</a> <a title="" href="http://tv.sohu.com/20140721/n402496853.shtml" target="_blank">ÕÅ°ØÖ¥Ì¹ÑÔ»¹ÏëÉúÅ®¶ù</a></li>
+<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140722/n402547986.shtml" target="_blank" sdevindex="30">Äþ²ÆÉñÎü¶¾ºóÊ×ÁÁÏà</a> <a title="" href="http://tv.sohu.com/20140722/n402546823.shtml" target="_blank">ÎüÑª¹íÒü¶÷ÓëÅ®ÓÑ¹ä½Ö</a></li>
+<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140722/n402551966.shtml" target="_blank" sdevindex="30">Ã·æÃÓëÀÏ¹«²¹°ì»éÀñ</a> <a title="" href="http://tv.sohu.com/20140722/n402548445.shtml" target="_blank">»ÆÞÈÀë»éºó´øÅ®¶ù¾Û»á</a></li>
 <ul></ul></ul>
 					<ul sdevindex="30" sizcche="1">
 <ul sdevindex="30" sizcche="1">
-<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402495553.shtml" target="_blank" sdevindex="30">ºúº£Èª½¿ÆÞÃÈÅ®ÆØ¹â</a> <a title="" href="http://tv.sohu.com/20140721/n402500753.shtml" target="_blank" sdevindex="30">³Â³þÉúÅ®ÓÑÍ¦¶Ç×öÔÐ¼ì</a></li>
-<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402496870.shtml" target="_blank" sdevindex="30">ÓÚÐ¡Î°Ì¸¸ßÔ²Ô²ºÚÁ³</a> <a title="" href="http://tv.sohu.com/20140721/n402495466.shtml" target="_blank" sdevindex="30">ÁÖ¸üÐÂ½¯ÃÎæ¼Êé·¨µ÷Çé</a></li>
-<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140720/n402482410.shtml#1705" target="_blank" sdevindex="30">ÀîÐ¡ÅôÒ¦Ã÷×îÃÈÉí¸ß²î</a> <a title="" href="http://tv.sohu.com/20140720/n402485086.shtml#300" target="_blank">ÇØºº¹úÍâÔâÅ£ Ä³öÂô</a></li>
+<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140722/n402557565.shtml" target="_blank" sdevindex="30">ºÎêÁÓë½ð¹ê×ÓÔÙºÏÌå</a> <a title="" href="http://tv.sohu.com/20140722/n402554400.shtml" target="_blank" sdevindex="30">ÕÅº²ÕÔÀöÓ±¸ßÄÑ¶ÈÓµ±§</a></li>
+<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140722/n402554275.shtml" target="_blank" sdevindex="30">ÌïÁÁÐÂÆ¬¼¤ÎÇÕÕÆØ¹â</a> <a title="" href="http://tv.sohu.com/20140722/n402555770.shtml" target="_blank" sdevindex="30">ÀîÃÛÉ¹½á»éÖ¤Òþ»éÁ½Äê</a></li>
+<li sdevindex="30"><span sdevindex="30"></span><a class="vd-icon-f" title="" href="http://tv.sohu.com/20140721/n402531538.shtml#801" target="_blank" sdevindex="30">ÍøÆØÖÜÑ¸ÒÉ·î×Ó³É»é</a> <a title="" href="http://tv.sohu.com/20140722/n402547409.shtml" target="_blank">³ÂºÕÊÕºÚÕËµ¥ÔâÏÝº¦</a></li>
 <ul></ul></ul></ul>
 				</div>
 				<div class="clear"></div>
@@ -2982,7 +3021,7 @@ showTurnAD10(intTurnAD10);
 				<!-- ²Æ¾­ÖÐÐÄ -->
 			<div class="finances">
 				<!-- ±êÌâÀ¸ -->
-				<h1 collection="Y"><span class="iconB"></span><span><a href="http://business.sohu.com/" target="_blank">²Æ¾­ÖÐÐÄ</a></span><a href="http://business.sohu.com/s2014/sif2014/" title="" target="_blank">»¥ÁªÍø½ðÈÚÍâÌ²·å»á</a>| <a href="http://business.sohu.com/" title="" target="_blank">²Æ¾­</a> | <a href="http://stock.sohu.com/" target="_blank">Ö¤È¯</a> | <a href="http://money.sohu.com/" target="_blank">Àí²Æ</a> | <a href="http://fund.sohu.com/" target="_blank">»ù½ð</a> | <a title="" href="http://jiu.sohu.com/" target="_blank">°×¾Æ</a></h1>
+				<h1 collection="Y"><span class="iconB"></span><span><a href="http://business.sohu.com/" target="_blank">²Æ¾­ÖÐÐÄ</a></span><a href="http://business.sohu.com/s2014/economy4/index.shtml" title="" target="_blank">ÐÂ½ðÈÚÂÛÌ³¹ãÖÝÕ¾ÇÀÆ±</a>| <a href="http://business.sohu.com/" title="" target="_blank">²Æ¾­</a> | <a href="http://stock.sohu.com/" target="_blank">Ö¤È¯</a> | <a href="http://money.sohu.com/" target="_blank">Àí²Æ</a> | <a href="http://fund.sohu.com/" target="_blank">»ù½ð</a> | <a title="" href="http://jiu.sohu.com/" target="_blank">°×¾Æ</a></h1>
 				<div class="PTGA" collection="Y">
 					<div class="picL"><a href="http://stock.sohu.com/" target=_blank>
 <script>
@@ -2991,10 +3030,10 @@ document.write("<img alt=ÉÏÖ¤Ö¸Êý src=http://d1.biz.itc.cn/q/zs/001/000001/sohuh
 </a></div>
 					<div class="list14">
 						<ul sdevindex="32">
-<li class="b" sdevindex="32"><a title="" href="http://business.sohu.com/" target="_blank">¹«ÎñÔ±±§Ô¹³µ¸ÄÔÂ²¹500²»¹»»¨:Ö»ÄÜ×ø¹«½»</a></li>
-<li sdevindex="32"><a title="" href="http://business.sohu.com/20140721/n402529484.shtml" target="_blank">º£ÄÏÌ¨·çÔÖÇø³öÏÖÃ¹±ä¾ÈÔÖÊ³Æ· ÓÉÃñÕþÌüÔËËÍ</a></li>
-<li sdevindex="32"><a title="" href="http://business.sohu.com/20140721/n402530101.shtml" target="_blank">ÄÜÔ´ÏµÍ³ÒÑÓÐ19Ãû¹ÙÔ±¸ß¹ÜÂäÂí ½ÒÆä¸¯°ÜÓÕÒò</a></li>
-<li sdevindex="32"><a title="" href="http://business.sohu.com/20140721/n402491432.shtml" target="_blank">Âóµ±ÀÍ¹©Ó¦ÉÌ±»ÆØÊ¹ÓÃ¹ýÆÚÈâ ³£ÄêÐÞ¸ÄÊý¾Ý</a></li></ul>
+<li class="b" sdevindex="32"><a title="" href="http://business.sohu.com/" target="_blank">Ò»Í¼ÈÃÄãÁË½âÖÐ¹úÂ¥ÊÐÕæÏà:Á½ÀàÈË×ø²»×¡ÁË</a></li>
+<li sdevindex="32"><a title="" href="http://business.sohu.com/20140722/n402543517.shtml" target="_blank">²ÜåúµéÎôÈÕ»Ô»Í:9Î»ÕþÖÎ¾Ö³£Î¯È¥¿¼²ì¹ý(Ãûµ¥)</a></li>
+<li sdevindex="32"><a title="" href="http://business.sohu.com/s2014/caiji055/index.shtml" target="_blank">²Æ¼¼½ÌÄãÑ§Àí²Æ£ºËÄ´óÉñÆæ´æÇ®¼¼ÇÉÈÃÄã³É¸»ÎÌ</a></li>
+<li sdevindex="32"><a title="" href="http://business.sohu.com/20140722/n402532060.shtml" target="_blank">ÍòÒÚÅï¸Ä±³ºó£º·¿¼ÛÒ»ÐºÇ§Àï ÊýÍò·¿Æó½«µ¹±Õ</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>					
@@ -3002,28 +3041,28 @@ document.write("<img alt=ÉÏÖ¤Ö¸Êý src=http://d1.biz.itc.cn/q/zs/001/000001/sohuh
 					<div class="contCa columnF">
 						<div class="list14">
 							<ul sdevindex="33">
-<li sdevindex="33"><a title="" href="http://stock.sohu.com/" target="_blank"><font style="FONT-WEIGHT: bold">×¨¼Ò:³¬7Íò¼ÒµØ²úÉÌ½«µ¹±Õ</font></a></li>
-<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140721/n402529939.shtml" target="_blank">Íí¼ä:Áù´óÏûÏ¢½«Ó°ÏìÃ÷ÈÕ¹ÉÊÐ</a></li>
-<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140721/n402491965.shtml" target="_blank">ÈËÃñÈÕ±¨:Ò»Ïß³ÇÊÐ·¿¼ÛÒÑÊ§ÊØ</a></li>
-<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140721/n402519280.shtml" target="_blank">ÊÕÅÌ:»¦Ö¸Î¢µø ÏÖÒ»º±¼ûÐÅºÅ</a></li>
-<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140721/n402519250.shtml" target="_blank">Á½ÊÐÖ÷Á¦¿ñÂòÕâ30Ö»¹É(Ãûµ¥)</a></li>
+<li sdevindex="33"><a title="" href="http://stock.sohu.com/" target="_blank"><font style="FONT-WEIGHT: bold">ÊÕÆÀ:»¦Ö¸ÕÇ1% ËÄÀûºÃ·¢Á¦</font></a></li>
+<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140722/n402544363.shtml" target="_blank" class="">È«¹ú29ÊÐÈ¡ÏûÂ¥ÊÐÏÞ¹º(Ãûµ¥)</a></li>
+<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140722/n402572554.shtml" target="_blank" class="">Á½ÊÐÖ÷Á¦¿ñÂòÕâ30Ö»¹É(Ãûµ¥)</a></li>
+<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140722/n402543899.shtml" target="_blank" class="">ÑëÐÐÍòÒÚ×¢×Ê°µÊ¾Î¢´Ì¼¤Éý¼¶</a></li>
+<li sdevindex="33"><a title="" href="http://stock.sohu.com/20140722/n402549216.shtml" target="_blank" class="">Ê·ÉÏ×î²îÐÂ¹ÉÀ´Ï®:¾»ÀûÃÍÏÂ»¬</a></li>
 </ul>
 							<ul sdevindex="33">
-<li sdevindex="33"><a href="http://stock.sohu.com/blog/" target="_blank" sdevindex="33">ÇéÐ÷µÍµã¿É¼Ó²Ö</a> <a title="" href="http://antai2000.blog.sohu.com/304421979.html" target="_blank">8ÔÂÄÑ¼û´óµ×</a></li>
-<li sdevindex="33"><a title="" href="http://club.stock.sohu.com/" target="_blank" sdevindex="33">Ï´ÅÌÔÍÄð´óÐÐÇé</a> <a title="" href="http://club.stock.sohu.com/stock/thread/2hpyjn53c5h" target="_blank">ºóÊÐ×ßÊÆÔ¤²â</a></li></ul>
+<li sdevindex="33"><a href="http://stock.sohu.com/blog/" target="_blank" sdevindex="33">ÁÁ³ö¶àÍ·µ×ÅÆ</a> <a title="" href="http://bojueoo.blog.sohu.com/304444934.html" target="_blank">Ô¶Ë®È´ÄÑ½â½ü¿Ê</a></li>
+<li sdevindex="33"><a title="" href="http://club.stock.sohu.com/" target="_blank" sdevindex="33">ºóÊÐÉÏÕÇ¸üÐ×ÃÍ</a> <a title="" href="http://club.stock.sohu.com/stock/thread/2ht0tbd3267" target="_blank">²»½ø³¡±Øºó»Ú</a></li></ul>
 						</div>
 					</div>
 					<div class="contCb columnG">
 						<div class="list14">
 							<ul sdevindex="33">
-<li sdevindex="33"><a title="" href="http://money.sohu.com/" target="_blank"><font style="FONT-WEIGHT: bold">Ò»ÕÅÍ¼ÈÃÄãÔÜÇ®ÍêÈ«Í£²»ÏÂÀ´</font></a></li>
-<li sdevindex="33"><a title="" href="http://money.sohu.com/20140721/n402416026.shtml" target="_blank">ÈËÃñ±ÒÔ­À´ÕâÃ´Å£ÄãÖªµÀÂð£¿</a></li>
-<li sdevindex="33"><a title="" href="http://pic.money.sohu.com/912214/912215/group-586604.shtml" target="_blank">80ºóÃÀÅ®¸»ºÀ:ÃûæÂÒÑ³¤³É(Í¼)</a></li>
-<li sdevindex="33"><a title="" href="http://fund.sohu.com/" target="_blank">Óà¶î±¦"Ë«Ê®Ò»"ÔËÐÐÊý¾Ý½ÒÃØ</a></li>
-<li sdevindex="33"><a title="" href="http://fund.sohu.com/s2014/jjlscddc/index.shtml" target="_blank">ÀÏÊó²Ö¸ÃÔõÃ´·£´ó¼ÒÀ´ËµËµ</a></li></ul>
+<li sdevindex="33"><a title="" href="http://money.sohu.com/" target="_blank"><font style="FONT-WEIGHT: bold">Î´À´ÖÐ¹ú×î×¬Ç®µÄÊ®´óÖ°Òµ</font></a></li>
+<li sdevindex="33"><a title="" href="http://money.sohu.com/20140722/n402548866.shtml" target="_blank">ÍøÂç±£ÏÕÀí²Æ³¬6%ÊÕÒæÄÑ¶ÒÏÖ</a></li>
+<li sdevindex="33"><a title="" href="http://money.sohu.com/20140722/n402503145.shtml" target="_blank">×îÓÐÇ®¸»¶þ´ú¾¹È»ÕâÑù¿´´ýÇ®</a></li>
+<li sdevindex="33"><a title="" href="http://fund.sohu.com/" target="_blank">´ó¶àÊýÈË¾¿¾¹Âò¶àÉÙÓà¶î±¦£¿</a></li>
+<li sdevindex="33"><a title="" href="http://pic.fund.sohu.com/group-587333.shtml#0" target="_blank">7Àà¡°´ÏÃ÷ÈË¡±´ÓA¹É×¬Ç®»¨</a></li></ul>
 							<ul sdevindex="33">
-<li sdevindex="33"><span><a href="http://blog.sohu.com/biz/" target="_blank" sdevindex="33">²©¿Í</a>| </span><a href="http://ranxuedongvip.blog.sohu.com/304380911.html" target="_blank" sdevindex="33">IPOÕþ²ß²»¸Ä±äÒª³ö´óÊÂ</a></li>
-<li sdevindex="33"><span><a href="http://club.money.sohu.com/licai/threads/" target="_blank" sdevindex="33">ÉçÇø</a>| </span><a title="" href="http://club.money.sohu.com/licai/thread/2hgmfes76nx" target="_blank">Àí²ÆÐÅ×¨¼Òº¦µÃÎÒºÃ¿à</a></li></ul>
+<li sdevindex="33"><span><a href="http://blog.sohu.com/biz/" target="_blank" sdevindex="33">²©¿Í</a>| </span><a href="http://zhangyanxiavip.blog.sohu.com/304409561.html" target="_blank" sdevindex="33">ÓÐ»úÅ©²úÆ·ÕæÏà´óÆØ¹â</a></li>
+<li sdevindex="33"><span><a href="http://club.money.sohu.com/licai/threads/" target="_blank" sdevindex="33">ÉçÇø</a>| </span><a title="" href="http://club.money.sohu.com/licai/thread/2hpvwui8yo8" target="_blank">Í»È»·¢ÏÖÎÒºÜ¡°Ì°²Æ¡±</a></li></ul>
 						</div>
 					</div>
 					<div class="clear"></div>
@@ -3072,13 +3111,13 @@ document.write("<img alt=ÉÏÖ¤Ö¸Êý src=http://d1.biz.itc.cn/q/zs/001/000001/sohuh
 				<!-- ±êÌâÀ¸ -->
 				<h1 collection="Y"><span class="iconB"></span><span><a href="http://blog.sohu.com/" target="_blank">²©¿Í¡¤×¨À¸</a></span><a href="http://i.sohu.com/" target="_blank">ÎÒµÄËÑºü</a> | <a href="http://quan.sohu.com/" target="_blank">È¦×Ó</a> | <a href="http://pp.sohu.com/" target="_blank">Ïà²á</a>  | <a href="http://www.kuaizhan.com" title="" target="_blank">¿ìÕ¾</a></h1>
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://heller10.blog.sohu.com/304408381.html" target="_blank" sdevindex="35"><img alt="ÊµÅÄ°ÍÀè¸è¾çÔº" src="http://i3.itc.cn/20140721/72d_38f07601_a03a_9ea5_ffaa_a38993510fab_1.jpg" sdevindex="35" ÇÀÐÂÄï??="" ×ÔÖÆ¶à¿×ÅòËÉÓÍÌõ="" ""=""></a><span class="txt" sdevindex="35"><a href="http://heller10.blog.sohu.com/304408381.html" target="_blank" sdevindex="35">¹úÍâ·è¿ñ¹ã³¡Îè</a></span></div>						
+					<div class="picL"><a href="http://fyj07.blog.sohu.com/304408200.html" target="_blank" sdevindex="35"><img alt="ÎíÖÐÅÊÅÀ»ªÉ½ÌìÏÕ" src="http://i0.itc.cn/20140722/3355_d4b02c1d_6ba6_9c5d_2744_ba9b0e062a06_1.jpg" sdevindex="35" ÇÀÐÂÄï??="" ×ÔÖÆ¶à¿×ÅòËÉÓÍÌõ="" ""=""></a><span class="txt" sdevindex="35"><a href="http://fyj07.blog.sohu.com/304408200.html" target="_blank" sdevindex="35">ÎíÖÐÅÊÅÀ»ªÉ½ÌìÏÕ</a></span></div>						
 					<div class="list14">
 						<ul sdevindex="34">
-<li class="b" sdevindex="34"><a title="" href="http://blog.sohu.com/" target="_blank">ÁÖº£¶«:Ìì½ò"´óÀÏ»¢"Îä³¤Ë³ÊÇÔõÃ´±»´òµôµÄ</a></li>
-<li sdevindex="34"><a class="" title="" href="http://blog.sohu.com/shehui/" target="_blank">"×îÃÀ"Å®ÊÐ³¤±³ºó"¹óÈË"</a> <a class="" title="" href="http://xinlijian.blog.sohu.com/304398933.html" target="_blank">ÖÐ¹úµ¹ÙµÄ±¯¾çÈËÉú</a></li>
-<li sdevindex="34"><a title="" href="http://gaoweiweiusa.blog.sohu.com/304411609.html" target="_blank" class="">ÖÐÃÀÁ½¹úÈËµÄÌìÈÀÖ®±ð</a> <a class="" href="http://guanjianbin.blog.sohu.com/304406614.html" title="" target="_blank">Âíº½¿ÕÄÑÕæÐ×¿ÖÒÑÔâÃð¿Ú</a></li>
-<li sdevindex="34"><a class="" title="" href="http://nywangjunyi.blog.sohu.com/304408592.html" target="_blank" sdevindex="34">ÃÔÊ§ÓÚÑëÊÓµÄ¿¡ÄÐö¦Å®ÃÇ</a> <a title="" href="http://shuixuan2014.blog.sohu.com/304401996.html" target="_blank" class="">Ì¨ÍåÅ®º¢ÑÛÖÐµÄ±±¾©</a></li></ul>
+<li class="b" sdevindex="34"><a title="" href="http://blog.sohu.com/" target="_blank">ÔøÓ±£ºÐè²»ÐèÒª°ÑÂóµ±ÀÍ¿ÏµÂ»ù¸Ï³öÖÐ¹ú</a></li>
+<li sdevindex="34"><a class="" title="" href="http://blog.sohu.com/shehui/" target="_blank">Âíº½¿ÕÄÑÎÒÀ´½Ò¿ªÃÕµ×</a> <a class="" title="" href="http://heyafu.blog.sohu.com/304427524.html" target="_blank">ÖÐ¹ú¼ÆÉúÈËÔ±ÕæÊµÊýÁ¿</a></li>
+<li sdevindex="34"><a title="" href="http://yangpeichang2011.blog.sohu.com/304417972.html" target="_blank" class="">µÂ¹úÉÏ´óÑ§ÎªºÎ²»ÒªÇ®</a> <a class="" href="http://nywangjunyi.blog.sohu.com/304427235.html" title="" target="_blank">Ë­çèÎÛÁËÖÐ¹ú¿Õ½ãÐÎÏó</a></li>
+<li sdevindex="34"><a class="" title="" href="http://yingjiesixiang.blog.sohu.com/304431690.html" target="_blank" sdevindex="34">ÑëÆóÎªºÎ¹Ø¹ó±öÌü·þÎñ</a> <a title="" href="http://zglbp.blog.sohu.com/304433414.html" target="_blank" class="">±»Ò»ß£µ½µ×¹ÙÔ±ÓÐ¶à²Ò</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>					
@@ -3086,29 +3125,29 @@ document.write("<img alt=ÉÏÖ¤Ö¸Êý src=http://d1.biz.itc.cn/q/zs/001/000001/sohuh
 					<div class="contCa columnF">
 						<div class="list14">
 							<ul sdevindex="36">
-<li sdevindex="36"><a title="" href="http://blog.sohu.com/biz/" target="_blank" sdevindex="36" 228107504.htm?="" view="" blog="" zhouqiren.i.sohu.com=""><font style="font-weight: bold;">ÅËÊ¯ÒÙ1ÒÚÃÀÔª¾è¶ÔÁËµØ·½</font></a></li>
-<li sdevindex="36"><a title="" href="http://nbtishen.blog.sohu.com/304407700.html" target="_blank" sdevindex="36">×ÚÄþ:ÂÞÓÀºÆ×öÊÖ»úÎªºÎ»áÊ§°Ü</a></li>
-<li sdevindex="36"><a title="" href="http://vwlde.blog.sohu.com/304402532.html" target="_blank" sdevindex="36">ÖÐ¹ú½ÌÊÚÏà¶ÔÊÕÈëÔ¶³¬ÃÀ¹ú</a></li>
-<li sdevindex="36"><a class="" title="" href="http://blog.sohu.com/policy" target="_blank">ÆÕ¾©À­ÖÐ¹úÍæ×ªµØÔµÕþÖÎÓÎÏ·</a></li>
-<li sdevindex="36"><a class="" title="" href="http://yanghengjun65.blog.sohu.com/304406044.html" target="_blank" sdevindex="36">Ñîºã¾ù:ÎÒ¿´±±¾©½ÖÍ·µÄ´ó±êÓï</a></li></ul>
+<li sdevindex="36"><a title="" href="http://blog.sohu.com/biz/" target="_blank" sdevindex="36" 228107504.htm?="" view="" blog="" zhouqiren.i.sohu.com=""><font style="font-weight: bold;">ÑëÐÐÍòÒÚ´Ì¼¤·¿µØ²úºó¹û</font></a></li>
+<li sdevindex="36"><a title="" href="http://jinyanshi.blog.sohu.com/304423761.html" target="_blank" sdevindex="36">½ðÑÒÊ¯:ÄÄÐ©³ÇÊÐ·¿¼Û»¹»áÉÏÕÇ</a></li>
+<li sdevindex="36"><a title="" href="http://xianpinglang.blog.sohu.com/304432685.html" target="_blank" sdevindex="36">ÀÉÏÌÆ½:ÀÏ×ÜÒ»¾ä»°ÈÃ×ÜÀíº¹ÑÕ</a></li>
+<li sdevindex="36"><a class="" title="" href="http://blog.sohu.com/policy" target="_blank">ÈçºÎ¿´Ê®´Î²Î¼Ó¸ß¿¼µÄ"¿¼°Ô"</a></li>
+<li sdevindex="36"><a class="" title="" href="http://zhirong.blog.sohu.com/304423990.html" target="_blank" sdevindex="36">´ÓµçÁ¦Áìµ¼¹«»ý½ðÉÏÍòËµÆð</a></li></ul>
 							<ul sdevindex="36">
-<li sdevindex="36"><a title="" href="http://blog.sohu.com/culture/" target="_blank" sdevindex="36">µËÐ¡Æ½ÈçºÎ¸øÆ¯ÁÁÐ¡ÒÌ×Ó×öÃ½</a></li>
-<li sdevindex="36"><span sdevindex="36"></span><a title="" href="http://ylxblog.blog.sohu.com/304408940.html" target="_blank" sdevindex="36">ÎÄ¸ïÊ±Å®ÑÝÔ±ÑÏ·ïÓ¢ÕæÊµËÀÒò</a></li>
-<li sdevindex="36"><span sdevindex="36"></span><a href="http://blog.sohu.com/literature/" target="_blank" sdevindex="36">½¯½éÊ¯Ôø·Åµ´³ÁÄçÇéÓûµÄ±³ºó</a></li></ul>
+<li sdevindex="36"><a title="" href="http://blog.sohu.com/culture/" target="_blank" sdevindex="36">±È»ÆÆÒ¾üÐ£»¹À÷º¦µÄÍíÇå¾üÐ£</a></li>
+<li sdevindex="36"><span sdevindex="36"></span><a title="" href="http://shuixuan2014.blog.sohu.com/304402012.html" target="_blank" sdevindex="36">Ì¨ÍåÈËÑÛÖÐ´óÂ½µÄ¼ÒÏçÎ¶(Í¼)</a></li>
+<li sdevindex="36"><span sdevindex="36"></span><a href="http://blog.sohu.com/literature/" target="_blank" sdevindex="36">³Â¶ÀÐã²»Â×Ö®Áµ°®ÉÏ½ãÃÃ»¨</a></li></ul>
 						</div>							
 					</div>
 					<div class="contCb columnG">
 						<div class="list14">
 							<ul>
-<li sdevindex="36"><span><a title="" href="http://t.sohu.com/jingxuan?&amp;srcid=3002299000" target="_blank"></a></span><a title="" href="http://blog.sohu.com/chi/" target="_blank">¼§ËÉÈ×ìÀÅÅ¹Ç:ÔöÇ¿ÃâÒßÁ¦¾ú¹½</a></li>
-<li sdevindex="36"><a title="" href="http://blog.sohu.com/travel/" target="_blank">Ç×ÀúÄá²´¶ûÂ¶Ìì»ðÔáÒÇÊ½(Í¼)</a></li></ul>
-<li sdevindex="36"><a title="" href="http://blog.sohu.com/baby/" target="_blank">Îá¼ÒÓÐÅ®³õ³¤³É"Å®ºº×Ó"(Í¼)</a></li>
-<li sdevindex="36"><a title="" href="http://blog.sohu.com/fashion/" target="_blank">ÃÀÅ®Èû°àÐÐ¸ß¿ª²æÈ¹°ÔÆø²àÂ©(Í¼)</a></li>
-<li sdevindex="36"><span><a title="" href="http://t.sohu.com/jingxuan?&amp;srcid=3002299000" target="_blank">Î¢¾«Ñ¡|</a></span><a title="" href="http://t.sohu.com/jingxuan?mid=11267166494&amp;srcid=3002299005" target="_blank"><strong>&nbsp;<strong>ÆØÃ«Ôó¶«ÖØËïÉíÊÀ</strong></strong></a></li>
+<li sdevindex="36"><span><a title="" href="http://t.sohu.com/jingxuan?&amp;srcid=3002299000" target="_blank"></a></span><a title="" href="http://blog.sohu.com/chi/" target="_blank">¶ç½·¸¶¹Ï:¼òµ¥¿ìÊÖµÄÏÂ·¹²Ë</a></li>
+<li sdevindex="36"><a title="" href="http://blog.sohu.com/travel/" target="_blank">ÎÚÕò:ËÆË®Äê»ªÖ»ÎªÒ»³¡¾ÉÃÎ(Í¼)</a></li></ul>
+<li sdevindex="36"><a title="" href="http://blog.sohu.com/baby/" target="_blank">º¢×ÓµÄ×¨×¢Á¦²»¹»ÔõÃ´°ì(Í¼)</a></li>
+<li sdevindex="36"><a title="" href="http://blog.sohu.com/fashion/" target="_blank">ÃÀÅ®¸ÒÐØÒÂÍâ´©²ÅÊÇÍõµÀ(Í¼)</a></li>
+<li sdevindex="36"><span><a title="" href="http://t.sohu.com/jingxuan?&amp;srcid=3002299000" target="_blank">Î¢¾«Ñ¡|</a></span><a title="" href="http://t.sohu.com/jingxuan?mid=11279142711&amp;srcid=3002299005" target="_blank"><strong>&nbsp;<strong>Ð¡Ê±´úÈÈµÄ¸ùÔ´</strong></strong></a></li>
 							<ul>
-<li sdevindex="36"><a class="" title="" href="http://t.sohu.com/jingxuan?mid=11272278869&amp;srcid=3002299006" target="_blank">20Å®ÐÇ¼ÞºÀÃÅºóÔâ"ÍË»õ"ÄÚÄ»</a></li></ul>
-<li sdevindex="36"><a title="" href="http://t.sohu.com/jingxuan?mid=11193417602&amp;srcid=3002299003" target="_blank">¼ÒÍ¥ÖÐ¾ÅÖÖÎïÆ·×îÒ××ÌÉúÏ¸¾ú</a></li>
-<li sdevindex="36"><a class="" title="" href="http://t.sohu.com/jingxuan?mid=11267402076&amp;srcid=3002299005" target="_blank">ÌìÌì³ÔÄÄÈýÖÖÍí²ÍµÈÓÚ"×ÔÉ±"</a></li>
+<li sdevindex="36"><a class="" title="" href="http://t.sohu.com/jingxuan?mid=11196383230&amp;srcid=3002299006" target="_blank">"Ò¹Ã¨Ò»×å"Ó¦¸Ã³ÔµÄ°ËÖÖË®¹û</a></li></ul>
+<li sdevindex="36"><a title="" href="http://t.sohu.com/jingxuan?mid=11277970984&amp;srcid=3002299003" target="_blank">ÎªÇÀÄÐÈËÀÏËÀ²»ÏàÍùÀ´µÄÅ®ÐÇ</a></li>
+<li sdevindex="36"><a class="" title="" href="http://t.sohu.com/jingxuan?mid=11277621305&amp;srcid=3002299005" target="_blank">Ã«Ôó¶«ÃØÊéÕÅÓñ·ïÍËÐÝºóÉú»î</a></li>
 						</div>							
 					</div>
 					<div class="clear"></div>
@@ -3216,17 +3255,17 @@ showTurnAD120(intTurnAD120);
 			</h1>
 			<div class="list12" collection="Y" id="bbsc01">
 				<ul>
-<li><a title="" href="http://club.news.sohu.com/minjian/thread/2hi7w37smq3?pvid=71ef1ded5dbc3041" target="_blank"><b>ÐÔÇÖÆßËêÍ¯ÎªÉ¶´÷±ÜÔÐÌ×</b></a></li>
-<li><a title="" href="http://club.men.sohu.com/zz0578/thread/2hftc7jx4wg?pvid=bda3f4f07beff883" target="_blank">ÅËÊ¯ÒÙÎªºÎ¾è¹þ·ð²»¾èÖÐ¹ú</a></li>
-<li><a title="" href="http://club.men.sohu.com/zz0578/thread/2heqoyn11kb?pvid=a5f56bf09b178e06" target="_blank">ÖÐ¹úÂé½«²Ò°Ü¼ÒÒµÕ¦±»°Ü¹â</a></li>
-<li><a title="" href="http://club.news.sohu.com/minjian/thread/2hflqexzydk?pvid=369d779b5a3eedc7" target="_blank">¸ßÎÂ²¹ÌùÒÑ±ä³ÉÁËµÀµÂÊ©Éá</a></li>
-<li><a title="" href="http://club.news.sohu.com/zz0209/thread/2he4fi980s0?pvid=9be662dddc9acaae" target="_blank">ºÎ¿àÒª²ð´©ÈÕÀúÊé¼ÇÁ®ÕþÐã</a></li>
-<li><a title="" href="http://club.news.sohu.com/zz0209/thread/2h7450j1gmx?pvid=1fdaaf574a7a169b" target="_blank">ÄÐ×ÓÒòÂ·Ì«ÀÃÔìÒ¥¹ÙÔ±Ì°ÎÛ</a></li>
-<li><a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hg68hxf2qw?pvid=af611c62abcd5dba" target="_blank" sdevindex="41"><b>ÎÄÃ¤ÑÆ¹ÃÄïÊ§×Ù¶àÄê»Ø¼Ò</b></a></li>
-<li><a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hd9mrmxr4n?pvid=b15105fd69919fec" target="_blank">Èç´ËÐ¡º¢»¹ÐèÒª»¨Ç®ÉÏÑ§Âð</a></li>
-<li><a title="" href="http://club.men.sohu.com/zz1147/thread/2h9wv34jxtn?pvid=ea4031cb0a108e3c" target="_blank">ÔÂ×ÓÀïÀÏ¹«Ìá³öÒªºÍÎÒÀë»é</a></li>
-<li><a title="" href="http://club.news.sohu.com/minjian/thread/2hhyukgny1q?pvid=9e7b8c55e28c6d50" target="_blank">ÎÞÓï£¡¶ù×ÓÂò»Ø°²È«Ì×Ñ©¸â</a></li>
-<li><a title="" href="http://club.cul.sohu.com/zz0040/thread/2hb0tk1bqtw?pvid=3dfda18b68361bc0" target="_blank">´ËÌùÏ×¸øÄÇÐ©ÄêÎÒ°®ÌýµÄ¸è</a></li>
+<li><a title="" href="http://club.news.sohu.com/minjian/thread/2hnyrf63d5l?pvid=71ef1ded5dbc3041" target="_blank"><b>ÂäÑ¡´åÖ÷ÈÎÕ¦ÂãÌå¸ÉÕâÊÂ</b></a></li>
+<li><a title="" href="http://club.men.sohu.com/zz0578/thread/2hppzu25jbe?pvid=bda3f4f07beff883" target="_blank">Âíº½¿Í»ú±»»÷ÂäÔ½¿´Ô½õèõÎ</a></li>
+<li><a title="" href="http://club.news.sohu.com/zz0209/thread/2hmbmxc139z?pvid=a5f56bf09b178e06" target="_blank">Ì¸ÈºÌåâ«Ùô16Ëê°éÄïÓë¸îÀñ</a></li>
+<li><a title="" href="http://club.news.sohu.com/minjian/thread/2hoy8b7ot8w?pvid=369d779b5a3eedc7" target="_blank">¹ÙÔ±ÏòÇé¸¾³ÐÅµ²»È¥ÅöÀÏÆÅ</a></li>
+<li><a title="" href="http://club.men.sohu.com/zz0578/thread/2hp0yehsmkp?pvid=9be662dddc9acaae" target="_blank">Ä¸×ÓÁìÖ¤½á»éË­Ôì¾ÍÁËÆæÝâ</a></li>
+<li><a title="" href="http://club.men.sohu.com/zz0578/thread/2hnvfynww7j?pvid=1fdaaf574a7a169b" target="_blank">ÖÐ¹ú×ãÐ­»¹ÓÐ´æÔÚµÄÀíÓÉÂð</a></li>
+<li><a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hk7hcw82jq?pvid=af611c62abcd5dba" target="_blank" sdevindex="41"><b>ÇéÂÂÒ»ÖÜÉÏ´²Òò±¦ÂíÀäÕ½</b></a></li>
+<li><a title="" href="http://club.women.sohu.com/marriage/thread/2hq5dgyxx04?pvid=b15105fd69919fec" target="_blank">¹ëÃÛÄÃÎÒ×ö¶ÜÅÆºÍÇéÈËÓÄ»á</a></li>
+<li><a title="" href="http://club.women.sohu.com/middleage/thread/2hpssf1ohyu?pvid=ea4031cb0a108e3c" target="_blank">°ËÒ»°ËÎÒµÄ¼«Æ·ÁßØÄÅ®Áìµ¼</a></li>
+<li><a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hlaz9ya8er?pvid=9e7b8c55e28c6d50" target="_blank">Ð´Ð´ÎÒ±»¸¸Ä¸Å×ÆúµÄÑªÀáÊ·</a></li>
+<li><a title="" href="http://club.money.sohu.com/licai/thread/2hmkw3wvvpw?pvid=3dfda18b68361bc0" target="_blank">È«Ö°Âè´øÁ½±¦µÄ¿ÙÃÅÉú»îÕÊ</a></li>
 <li><a title="" href="http://club.news.sohu.com/board/thread/2g3q1157m1f?pvid=376771a25da523cb" target="_blank">ËÑºüÉçÇøÕÐÆ¸ÉçÇøÔËÓª¾­Àí</a></li></ul>
 			</div>			
 			<div class="list12" collection="Y" id="bbsc02" style="display:none">
@@ -3247,12 +3286,12 @@ showTurnAD120(intTurnAD120);
 			<div class="bBot170"></div>
 			<div class="list12 bbs1-con-b" collection="Y" id="bbsc01">
 				<ul sdevindex="42">
-<li sdevindex="42"><a href="http://yule.club.sohu.com/bagua/thread/2hftw4xws5m?pvid=9ce870cc5cda0138" target="_blank" sdevindex="42"><b>Îâç²ÀòÄãÕâÑùÈÃ³ÉÁúÕ¦Ïë</b></a></li>
-<li sdevindex="42"><a title="" href="http://club.money.sohu.com/licai/thread/2hdx366pv7b?pvid=76fb32de39bdcd66" target="_blank">ËµËµÎÒ7ÄêÄÚÂò3Ì×·¿µÄ¾­Àú</a></li>
-<li sdevindex="42"><a title="" href="http://club.chihe.sohu.com/food/thread/2heeimxqvzj?pvid=19c6532388293de4" target="_blank">Î÷ºìÊÁìÀÅ£ÈâºÜ½¡¿µ²»³¤ÅÖ</a></li>
-<li sdevindex="42"><a title="" href="http://club.travel.sohu.com/yiyu/thread/2hdksrh31ko?pvid=41dfe0102da908bd" target="_blank">ÇéÂÂÅÀ»ªÉ½Ò»¶¨Òª×öÕâ¼þÊÂ</a></li>
-<li sdevindex="42"><a title="" href="http://club.women.sohu.com/andun/thread/2hgogzi4tfg" target="_blank">µ¥Ç×¼ÒÍ¥³¤´óÈÃÎÒ±äµÃ×Ô±°</a></li>
-<li sdevindex="42"><a title="" href="http://club.travel.sohu.com/qiwen/thread/2hdbj5v6gfr" target="_blank">Ï°Ö÷Ï¯×¨»úÄÚ²¿ÕÕÆ¬ÆØ¹âÀ²</a></li></ul>
+<li sdevindex="42"><a href="http://club.women.sohu.com/marriage/thread/2g9zf5tlfvv?pvid=9ce870cc5cda0138" target="_blank" sdevindex="42"><b>ÀÏ¹«æÎæ½»¹²»Ö¹Ò»´ÎÕ¦°ì</b></a></li>
+<li sdevindex="42"><a title="" href="http://club.money.sohu.com/licai/thread/2hgmfes76nx?pvid=76fb32de39bdcd66" target="_blank">Ã¤ÐÅÀí²Æ×¨¼Ò¿É°ÑÎÒº¦²ÒÁË</a></li>
+<li sdevindex="42"><a title="" href="http://club.cul.sohu.com/chuyushe/thread/2hjtimkffpq?pvid=19c6532388293de4" target="_blank">·¢Ò»¸öÕÒÅÄÌùÁÄÅÝæ¤ÄÇµãÊÂ</a></li>
+<li sdevindex="42"><a title="" href="http://club.chihe.sohu.com/food/thread/2hnuqe7j8ai?pvid=41dfe0102da908bd" target="_blank">ÔÚ¼Ò×öË¬¿ÚËÄ´¨Á¹Ãæ¼òµ¥·¨</a></li>
+<li sdevindex="42"><a title="" href="http://yule.club.sohu.com/zz0220/thread/2hpxs1idhdh?pvid=8d4d2818a63cd678" target="_blank">ÍÂ²Û£ºÖÐ¹úºÃÉùÒôÈýÕæ²î¾¢</a></li>
+<li sdevindex="42"><a title="" href="http://club.learning.sohu.com/parents/thread/2hq56lgme31?pvid=25dbce513485b5fa" target="_blank">½²½²²îÉúÔñÃûÐ£µÄ±¯¾çÈËÉú</a></li></ul>
 			</div>
 		</div>
 		<script type="text/javascript">
@@ -3319,23 +3358,23 @@ showTurnAD11(intTurnAD10);
 				</div>
 				<div id="sa-autocontent1" class="show">
 					<div class="PTGA" collection="Y">
-						<div class="picL"><a href="http://auto.sohu.com/20140721/n402493986.shtml?pvid=b28a246d4674651b" target="_blank" sdevindex="45"><img border="0" alt="±ð¿ËÍÆ³öÈ«ÐÂSUV" src="http://i2.itc.cn/20140721/31f1_c8bcc91d_9e53_62fb_6e5d_f14bd5af9ed8_1.JPG" sdevindex="45"></a> <span class="txt" sdevindex="45"><a href="http://auto.sohu.com/20140721/n402493986.shtml?pvid=b28a246d4674651b" target="_blank" sdevindex="45">±ð¿ËÍÆ³öÈ«ÐÂSUV</a></span></div>
+						<div class="picL"><a href="http://auto.sohu.com/20140722/n402569206.shtml?pvid=b28a246d4674651b" target="_blank" sdevindex="45"><img border="0" alt="2015¿îÍ¾¹Û19.98Íò" src="http://i0.itc.cn/20140722/29e_5df04486_77d2_fe85_d25d_4cec4755fd90_1.jpg" sdevindex="45"></a> <span class="txt" sdevindex="45"><a href="http://auto.sohu.com/20140722/n402569206.shtml?pvid=b28a246d4674651b" target="_blank" sdevindex="45">2015¿îÍ¾¹Û19.9Íò</a></span></div>
 						<div class="list14">
 							<ul>
-<li><a title="" href="http://auto.sohu.com/?pvid=3df181188bce2b15" target="_blank">Ó¢·ÆÄáµÏ¸ßµµSUV½ö20Íò</a> <a title="" href="http://auto.sohu.com/20140721/n402373443.shtml?pvid=ba69b19d19f6c838" target="_blank">À×ÁèÂôµã·ÖÎö</a></li>
-<li><a title="" href="http://auto.sohu.com/20140721/n402497649.shtml?pvid=e120532a3569e22c" target="_blank">Â·»¢·¢ÏÖÐÂÍâ¹Û</a> <a title="" href="http://auto.sohu.com/20140721/n402432980.shtml?pvid=9d287cb8d20d3be3" target="_blank">×î³©Ïú±¼³Û³µµÄ½ø»¯!</a></li>
-<li><a title="" href="http://auto.sohu.com/20140721/n402495592.shtml?pvid=4240b2cbefd4b256" target="_blank">ÆØÐÂ¿î"´ó»Æ·ä"/Í¼</a> <a title="" href="http://db.auto.sohu.com/photo_1020/sdpic3185431.shtml?pvid=00284928e04dbddd" target="_blank">Óê¼¾ÐÐ³µÀíÅâ¼¼ÇÉ</a></li>
-<li><a title="" href="http://auto.sohu.com/20140721/n402490356.shtml?pvid=83065b0d15fa1e9c" target="_blank">Ó¢Â×ÉðÊ¿³¨Åñ×ù¼Ý</a> <a title="" href="http://auto.sohu.com/20140721/n402480349.shtml?pvid=d785ac27ee895752" target="_blank">Âí×Ô´ï2×î¶¯¸ÐÍâ¹Û</a></li></ul>
+<li><a title="" href="http://auto.sohu.com/?pvid=3df181188bce2b15" target="_blank">6¿î¹ú²ú"Í¾¹Û"!</a> <a title="" href="http://auto.sohu.com/goche/?pvid=ba69b19d19f6c838" target="_blank">±¼³ÛCLAµÈ½ô´Õ³µÖ®Õù</a></li>
+<li><a title="" href="http://auto.sohu.com/20140722/n402520306.shtml?pvid=e120532a3569e22c" target="_blank">±¼³ÛÐÂC¼¶³¤Öá°æ½âÎö</a> <a title="" href="http://auto.sohu.com/20140722/n402509081.shtml?pvid=9d287cb8d20d3be3" target="_blank">¿­Òí½«ÍÆÐ¡SUV!</a></li>
+<li><a title="" href="http://auto.sohu.com/20140722/n402528986.shtml?pvid=e120532a3569e22c" target="_blank">Âí×Ô´ïCX-7Ô¤19.98Íò</a> <a title="" href="http://db.auto.sohu.com/model_2751/pic_g3188192.shtml?pvid=00284928e04dbddd" target="_blank">¸èÊ«Í¼¶¥ÅäÊµÅÄ</a></li>
+<li><a title="" href="http://db.auto.sohu.com/photo_1020/pic3176704.shtml?pvid=83065b0d15fa1e9c" target="_blank">10¿î×î³©ÏúÖÐ¼¶³µ!</a> <a title="" href="http://auto.sohu.com/20140722/n402516882.shtml?pvid=d785ac27ee895752" target="_blank">6¿î15Íò¸ßÆ·ÖÊSUV</a></li></ul>
 						</div>
 						<div class="clear"></div>
 					</div>
 					<div class="list14" collection="Y">
 						<ul>
-<li><a title="" href="http://db.auto.sohu.com/photo_1020/pic3178250.shtml?pvid=a41ce801a921794b" target="_blank">ËÙÌÚÏúÁ¿Á¦Ñ¹ÈÕÏµ³µ</a> <a title="" href="http://db.auto.sohu.com/model_2190/pic_g3183704.shtml?pvid=a41ce801a921794b" target="_blank">39Íò¿ËÀ³Ë¹ÀÕ300C</a> <a title="" href="http://db.auto.sohu.com/photo_1020/pic3185091.shtml?pvid=a41ce801a921794b" target="_blank">¸ß¶ËºÀ»ªÂÃÐÐ³µ</a></li>
-<li><a title="" href="http://db.auto.sohu.com/model_2304/chezhudianping.shtml?pvid=29006126d41fd1ca" target="_blank">´óÖÚÉÐ¿áÓÅÈ±µãÆØ¹â</a> <a title="" href="http://db.auto.sohu.com/model_1015/chezhudianping.shtml?pvid=29006126d41fd1ca" target="_blank">19Íò¹º·áÌïÈñÖ¾</a> <a title="" href="http://db.auto.sohu.com/photo_1020/pic3185149.shtml?pvid=29006126d41fd1ca" target="_blank">Å£ÈË°®³µ"±ä"Ô¡¸×</a></li>
-<li id="sa-auto-link1"><a title="" href="http://kunming.auto.sohu.com/20140721/n402384325.shtml?pvid=e482cafb21d9ca99" target="_blank">ÐÂÌìô¥µÈÖÐ¼¶³µÈÃ3.5Íò</a> <a title="" href="http://foshan.auto.sohu.com/20140721/n402485408.shtml?pvid=e482cafb21d9ca99" target="_blank">ËÙÌÚµÈ½ö8.59ÍòÆð</a> <a title="" href="http://qingdao.auto.sohu.com/20140721/n402427230.shtml?pvid=e482cafb21d9ca99" target="_blank">CR-VµÈ½µ4Íò</a></li>
-<li id="sa-auto-link2"><a title="" href="http://jinan.auto.sohu.com/20140721/n402436395.shtml?pvid=bebfe4629d4ec5f9" target="_blank">¹þ¸¥H6µÈSUV½µ1Íò</a> <a title="" href="http://tianjin.auto.sohu.com/20140721/n402435222.shtml?pvid=bebfe4629d4ec5f9" target="_blank">É£ËþÄÉµÈ¼Ò½Î½µ2.3Íò</a> <a title="" href="http://zhengzhou.auto.sohu.com/20140721/n402484811.shtml?pvid=bebfe4629d4ec5f9" target="_blank">PoloµÈ½µ1.2Íò</a></li>
-<li><span><a title="" href="http://saa.auto.sohu.com/?pvid=db8f6eb91fd57f3a" target="_blank">ÂÛÌ³</a>|</span> <a href="http://saa.auto.sohu.com/x-trail/thread-38332879469559-1.shtml?pvid=db8f6eb91fd57f3a" target="_blank">ÈÕ²úÆæ¿¥ÓÃ³µ¼Ç</a> <a href="http://saa.auto.sohu.com/club-11180/thread-466452114871069-1.shtml?pvid=db8f6eb91fd57f3a" target="_blank">Ð¡ÃÀÅ®Ðã°®³µCC</a> <a href="http://saa.auto.sohu.com/byds6/thread-34839861743943-1.shtml?pvid=db8f6eb91fd57f3a" target="_blank">·ÛÄÛÉ«±ÈÑÇµÏS6</a></li></ul>
+<li><a title="" href="http://db.auto.sohu.com/photo_1177/pic3188353.shtml?pvid=a41ce801a921794b" target="_blank">È«ÐÂsmart³ß´ç¼Ó´ó</a> <a title="" href="http://auto.sohu.com/20140722/n402511913.shtml?pvid=a41ce801a921794b" target="_blank">»ªÌ©È«ÐÂ±¦Àû¸ñ</a> <a title="" href="http://db.auto.sohu.com/model_1432/chezhudianping.shtml?pvid=a41ce801a921794b" target="_blank">ÆØ:¸£ÌØÒí»¢ÓÅÈ±µã</a></li>
+<li><a title="" href="http://auto.sohu.com/20140721/n402475793_7.shtml?pvid=29006126d41fd1ca" target="_blank">Ó¢·ÆÄáµÏÐÂSUV½ö20Íò</a> <a title="" href="http://auto.sohu.com/20140721/n402526535.shtml?pvid=29006126d41fd1ca" target="_blank">ÆØ:ÈýÁâÐÂÅÁ½ÜÂÞ</a> <a title="" href="http://db.auto.sohu.com/photo_1020/pic3175026.shtml?pvid=29006126d41fd1ca" target="_blank">¹ùÃÀÃÀÉÝ»ª×ù¼Ý</a></li>
+<li id="sa-auto-link1"><a title="" href="http://dongguan.auto.sohu.com/20140722/n402485176.shtml?pvid=e482cafb21d9ca99" target="_blank">¸£¿ËË¹µÈÁ½Ïá³µ½µ2.5Íò </a> <a title="" href="http://foshan.auto.sohu.com/20140721/n402485408.shtml?pvid=e482cafb21d9ca99" target="_blank">ËÙÌÚµÈ½ö8ÍòÆð!</a> <a title="" href="http://shanghai.auto.sohu.com/20140722/n402524122.shtml?pvid=e482cafb21d9ca99" target="_blank">ÖÇÅÜµÈ½µ3.8Íò</a></li>
+<li id="sa-auto-link2"><a title="" href="http://zhengzhou.auto.sohu.com/20140722/n402527312.shtml?pvid=bebfe4629d4ec5f9" target="_blank">Ììô¥µÈ½µ3.5Íò</a> <a title="" href="http://xian.auto.sohu.com/20140722/n402530823.shtml?pvid=bebfe4629d4ec5f9" target="_blank">Åä×ùÒÎÍ¨·ç³µ½µ3.4Íò </a> <a title="" href="http://tianjin.auto.sohu.com/20140722/n402522715.shtml?pvid=bebfe4629d4ec5f9" target="_blank">À¿Ê¤µÈSUV½µ26Íò!</a></li>
+<li><span><a title="" href="http://saa.auto.sohu.com/?pvid=db8f6eb91fd57f3a" target="_blank">ÂÛÌ³</a>|</span> <a href="http://saa.auto.sohu.com/x-trail/thread-119431893681389-1.shtml?pvid=db8f6eb91fd57f3a" target="_blank">³¤ÍÈÀÏÆÅ²Øºó±¸Ïá</a> <a href="http://saa.auto.sohu.com/lova/thread-48272145223332-1.shtml?pvid=db8f6eb91fd57f3a" target="_blank">ÓÍÃÅµ±É²³µ×²Ëú·¿</a> <a href="http://saa.auto.sohu.com/club-12198/thread-592641868063582-1.shtml?pvid=db8f6eb91fd57f3a" target="_blank">ÎÒµÄ°¢ÌØ×È</a></li></ul>
 					</div>
 				</div>
 				<div id="sa-autocontent2" class="hidden">
@@ -3366,13 +3405,13 @@ showTurnAD11(intTurnAD10);
 				</div>
 				<div id="sa-autocontent3" class="hidden">
 					<div class="PTGA" collection="Y">
-						<div class="picL"><a href="http://2sc.sohu.com/" target="_blank" sdevindex="45"><img border=0 alt=±¦ÂíX5½öÊÛ13Íò src="http://i0.itc.cn/20140721/2df0_d76bf7ee_4c70_8399_2c9a_c882cd42fdcc_1.jpg" sdevindex="45"></a><span sdevindex="45"><a href="http://2sc.sohu.com/" target="_blank" sdevindex="45">±¦ÂíX5½öÊÛ13Íò</a></span></div>
+						<div class="picL"><a href="http://2sc.sohu.com/" target="_blank" sdevindex="45"><img border=0 alt=±¼³ÛR¼¶26ÍòÆð src="http://i2.itc.cn/20140722/2df0_035ebbe5_cb58_f98e_5292_6d6c5a74d490_1.jpg" sdevindex="45"></a><span sdevindex="45"><a href="http://2sc.sohu.com/" target="_blank" sdevindex="45">±¼³ÛR¼¶ÊÛ¼Û26Íò</a></span></div>
 						<div class="list14">
 							<ul>
-<li><span sdevindex="68"></span><a title="" href="http://2sc.sohu.com/auto1-q5/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">°ÂµÏQ5½öÊÛ27.7Íò</a> <a title="" href="http://2sc.sohu.com/auto1-tiguan/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">Í¾¹ÛSUVÊÛ15.88Íò</a></li>
+<li><span sdevindex="68"></span><a title="" href="http://2sc.sohu.com/auto1-bmwx5/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">±¦ÂíX5½öÊÛ13ÍòÆð</a> <a title="" href="http://2sc.sohu.com/auto1-tiguan/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">°ÂµÏQ5½öÊÛ27.7Íò</a></li>
 <li><span sdevindex="68"></span><a title="" href="http://2sc.sohu.com/auto1-cayenne/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">±£Ê±½Ý¿¨Ñç28.2Íò</a> <a title="" href="http://2sc.sohu.com/auto1-prado1/a0b11.8_0c0d0e0f0g0h2j0k0m0n0/" target="_blank">·áÌïÆÕÀ­¶à11.8Íò</a></li>
 <li><span sdevindex="68"></span><a title="" href="http://2sc.sohu.com/auto1-maverick/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">¸£ÌØÒí»¢ÊÛ6.5Íò!</a> <a title="" href="http://2sc.sohu.com/auto1-sagitar/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">8Íò¹«ÀïËÙÌÚ4ÍòÔª</a> </li>
-<li><a title="" href="http://2sc.sohu.com/auto1-magotan/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">´óÖÚÂõÌÚÊÛ8.4Íò!</a> <a href="http://2sc.sohu.com/auto1-rangerover/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">Â·»¢À¿Ê¤ÊÛ33.8Íò</a></li></ul>
+<li><a title="" href="http://2sc.sohu.com/auto1-tiguan/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">Í¾¹ÛSUVÊÛ15.88Íò</a> <a href="http://2sc.sohu.com/auto1-rangerover/a0b0c0d0e0f0g0h2j0k0m0n0/" target="_blank">Â·»¢À¿Ê¤ÊÛ33.8Íò</a></li></ul>
 						</div>
 						<div class="clear"></div>
 					</div>
@@ -3409,61 +3448,61 @@ showTurnAD11(intTurnAD10);
 					</div>					
 					<div id="fncontent1" class="show">
 						<div class="PTGA" collection="Y">
-							<div class="picL"><a href="http://pinge.focus.cn/?pid=hs_1003_2_bjtw" target="_blank" sdevindex="49"><img alt=68Æ½±±Å·ÌïÔ°Á½¾Ó src="http://i1.itc.cn/20140721/3237_c9eef1e5_f1e5_3e3c_1d75_4adc12b59dc6_1.jpg" sdevindex="49"></a><span class="txt" sdevindex="49"><a href="http://pinge.focus.cn/?pid=hs_1003_2_bjtw" target="_blank" sdevindex="49">68Æ½±±Å·ÌïÔ°Á½¾Ó</a></span></div>
+							<div class="picL"><a href="http://pinge.focus.cn/?pid=hs_1003_2_bjtw" target="_blank" sdevindex="49"><img alt=30Æ½Ð¡Õ¬¾øµØ¸ÄÔì src="http://i3.itc.cn/20140722/3237_1b1e184f_060b_66f6_8e86_0d50364934ea_1.jpg" sdevindex="49"></a><span class="txt" sdevindex="49"><a href="http://pinge.focus.cn/?pid=hs_1003_2_bjtw" target="_blank" sdevindex="49">30Æ½Ð¡Õ¬¾øµØ¸ÄÔì</a></span></div>
 							<div class="list14">
 								<ul>
-<li><a href="http://house.focus.cn/" target="_blank">½µ¼ÛÒÑ³É"Ö÷ÐýÂÉ"</a> <a title="" href="http://house.focus.cn/news/2014-07-21/5290112.html" target="_blank">×Ô×¡·¿¼Û³¬¶þÊÖ·¿</a></li>
-<li><a href="http://house.focus.cn/news/2014-07-21/5291189.html" target="_blank">7Íò¼ÒµØ²úÉÌµ¹±Õ</a> <a href="http://house.focus.cn/news/2014-07-21/5290769.html" target="_blank">ÈËÃñÈÕ±¨:·¿¼ÛÊ§ÊØ</a></li>
-<li><a href="http://house.focus.cn/news/2014-07-21/5294188.html" target="_blank">ËÕÖÝÏÞ¹ºÈ«ÃæËÉ°ó</a> <a title="" href="http://house.focus.cn/news/2014-07-21/5290995.html" target="_blank">¹«»ý½ðÐÂÕþ8ÔÂÊµÊ©</a></li>
+<li><a href="http://house.focus.cn/" target="_blank">¶þ¼¾¶È"·¿µØË«Àä"</a> <a title="" href="http://house.focus.cn/news/2014-07-22/5299567.html" target="_blank">·¿¼Û»¹½«µøÒ»Á½Äê</a></li>
+<li><a href="http://house.focus.cn/news/2014-07-22/5296252.html" target="_blank">¹«»ý½ð¿É×â·¿¿´²¡</a> <a href="http://house.focus.cn/news/2014-07-22/5296017.html" target="_blank">Ïã¸ÛÍÆ18©OÎ¢¹«Ô¢</a></li>
+<li><a href="http://house.focus.cn/news/2014-07-22/5296282.html" target="_blank">ÖÐ½é»ØÊÕ900´¦Ð×Õ¬</a> <a title="" href="http://house.focus.cn/news/2014-07-22/5295901.html" target="_blank">×¡½¨²¿³¤³î°×ÁËÍ·</a></li>
 <li><a title="" href="http://clk.optaim.com/event.ng/Type=click&amp;FlightID=201407&amp;TargetID=sohu&amp;Values=145201b4,71158554,607245bd,ed9e3163&amp;AdID=10408047" target="_blank">±±´÷ºÓÐÂÇø6600/Æ½</a> <a href="http://clk.optaim.com/event.ng/Type=click&amp;FlightID=201407&amp;TargetID=sohu&amp;Values=bfcb3a29,45c0fe8c,d5460797,dde454af&amp;AdID=15004603" target="_blank">×Ü¼Û70Íò±±¾©´óÐË</a></li></ul>
 							</div>	
 							<div class="clear"></div>
 						</div>
 						<div class="list14" collection="Y">
 							<ul sdevindex="46">
-<li sdevindex="46"><span><a href="http://house.focus.cn/common/modules/zixun/zixunlist.php?category_id=34&amp;class_id=383&amp;type_id=-4" target="_blank">ÓÅ»Ý</a>|</span> <a title="" href="http://house.focus.cn/votehouse/3149.html" target="_blank">Ë³Òå216Æ½µþÆ´±ðÊû490Íò</a> <a title="" href="http://house.focus.cn/votehouse/3974.html" target="_blank">ÎäÇå¸ßÌú73Æ½2¾Ó8ÔÂ¿ª</a></li>
-<li sdevindex="46"><span><a href="http://house.focus.cn/daogou/" target="_blank" sdevindex="46">µ¼¹º</a>|</span> <a href="http://house.focus.cn/daogou/4231.html" target="_blank" sdevindex="46">34Íò¹ºÓÀÇåºËÐÄ60Æ½Ò»¾Ó</a> <a title="" href="http://house.focus.cn/daogou/4220.html" target="_blank">124ÍòÔªÍæ×ª¾©±±2¾ÓÊÒ</a></li>
-<li sdevindex="46"><span><a href="http://house.focus.cn/common/modules/zixun/zixunlist.php?category_id=34&amp;class_id=383&amp;type_id=-1" target="_blank" sdevindex="46">¿ªÅÌ</a>|</span> <a href="http://house.focus.cn/daogou/4276.html" target="_blank" sdevindex="46">Òà×¯500Íò¸ÄÉÆ¾«Æ·ÅÌ</a> <a title="" href="http://house.focus.cn/zhuanti13/house_jjysbxg/" target="_blank">×Ü¼Û100Íò³­µ×²»ÏÞ¹ºÐ¡»§</a></li>
-<li sdevindex="46"><span><a href="http://house.focus.cn/housemarket/" target="_blank" sdevindex="46">¹º·¿</a>|</span> <a href="http://house.focus.cn/zhuanti13/house_beijingxianfang/" target="_blank" sdevindex="46">½¹µã¶À¼Ò²ß»®:ÏÖ·¿´óÈ«</a> <a href="http://zhuanti.focus.cn/2013/zizhuxingshangpinfang/" target="_blank">ÊµÌ½Ê¯¾°É½Ê×¸ö×Ô×¡·¿</a></li>
-<li sdevindex="46"><span><a href="http://house.focus.cn/group/yezhu.php" target="_blank" sdevindex="46">ÂÛÌ³</a>|</span> <a href="http://house.focus.cn/msgview/2500017/303497913.html" target="_blank" sdevindex="46">¾©45×Ú×Ô×¡·¿°¸ÃûÆØ¹â</a> <a title="" href="http://house.focus.cn/zhuanti14/beijingxuequfang/" target="_blank">²¿·ÖÑ§Çø¶þÊÖ·¿½µÓâÈý³É</a></li></ul>
+<li sdevindex="46"><span><a href="http://house.focus.cn/common/modules/zixun/zixunlist.php?category_id=34&amp;class_id=383&amp;type_id=-4" target="_blank">ÓÅ»Ý</a>|</span> <a title="" href="http://house.focus.cn/zhuanti14/house_2014zhjdugj/" target="_blank">Í¨ÖÝ140Æ½Èý¾Ó¾ù¼Û19800</a> <a title="" href="http://house.focus.cn/zhuanti14/ds_jiadu/" target="_blank">Ñà½¼´¿ÐÂ63Æ½Ò»¾ÓÈëÊÐ</a></li>
+<li sdevindex="46"><span><a href="http://house.focus.cn/daogou/" target="_blank" sdevindex="46">µ¼¹º</a>|</span> <a href="http://house.focus.cn/daogou/4382.html" target="_blank" sdevindex="46">·¿É½1Íò9¿É¾Í¶Á±±¾©Ð¡Ñ§</a> <a title="" href="http://house.focus.cn/daogou/4321.html" target="_blank">76ÍòÔªÂò¾©¶«130Æ½4¾Ó</a></li>
+<li sdevindex="46"><span><a href="http://house.focus.cn/common/modules/zixun/zixunlist.php?category_id=34&amp;class_id=383&amp;type_id=-1" target="_blank" sdevindex="46">¿ªÅÌ</a>|</span> <a href="http://house.focus.cn/daogou/4327.html" target="_blank" sdevindex="46">±±³Ç¸ÕÐè¶þ¾ÓÊ×¸¶5Íò</a> <a title="" href="http://house.focus.cn/zhuanti14/house_beijingdazheloupan/" target="_blank">½µ¼Û´òÕÛÅÌ»ã×ÜÃ¿Æ½½µ4Ç§Ôª</a></li>
+<li sdevindex="46"><span><a href="http://house.focus.cn/housemarket/" target="_blank" sdevindex="46">¹º·¿</a>|</span> <a href="http://house.focus.cn/daogou/4320.html" target="_blank" sdevindex="46">×Ü¼Û15ÍòÔª³­µ×±±¾©Æß»·</a> <a href="http://house.focus.cn/msgview/8469/303789880.html" target="_blank">µ¥¼Û×îµÍ×Ô×¡·¿½ñÒ¡ºÅ</a></li>
+<li sdevindex="46"><span><a href="http://house.focus.cn/group/yezhu.php" target="_blank" sdevindex="46">ÂÛÌ³</a>|</span> <a href="http://house.focus.cn/msgview/7983/304007519.html" target="_blank" sdevindex="46">Òà×¯ÓÐ¹ìµç³µ¹æ»®Í¼ÆØ¹â</a> <a title="" href="http://house.focus.cn/msgview/2500017/303678367.html" target="_blank">²ýÆ½×Ô×¡·¿½ñÈÕÆðÍøÉê</a></li></ul>
 						</div>
 					</div>					
 					<div id="fncontent2" class="hidden">
 						<div class="PTGA" collection="Y">
-							<div class="picL"><a href="http://homemsg.focus.cn/msgview/607/300594189.html?pid=hs_1001_2_bjtw" target="_blank" sdevindex="49"><img alt="×°ÐÞ°¸Àý·ÖÏí" src="http://i2.itc.cn/20140721/3190_647ca40c_50d8_0c64_16fe_ebd5b25811fe_1.jpg" sdevindex="49" qvod="0"></a><span class="txt" sdevindex="49"><a href="http://home.focus.cn/msgview/607/262096740.html?pid=hs_1001_2_bjtw" target="_blank" sdevindex="49">¿ª¹¤³¹Ç½À²£¡</a></span></div>
+							<div class="picL"><a href="http://homemsg.focus.cn/msgview/607/300594189.html?pid=hs_1001_2_bjtw" target="_blank" sdevindex="49"><img alt="×°ÐÞ°¸Àý·ÖÏí" src="http://i2.itc.cn/20140721/3190_647ca40c_50d8_0c64_16fe_ebd5b25811fe_1.jpg" sdevindex="49" qvod="0"></a><span class="txt" sdevindex="49"><a href="http://home.focus.cn/msgview/607/205639259.html?pid=hs_1001_2_bjtw" target="_blank" sdevindex="49">Æ·ÅÆµÄÐÔ¼Û±È</a></span></div>
 							<div class="list14">
 								<ul>
-<li><a href="http://pinge.focus.cn/z/5544/" target="_blank">6Íò5×°³öÐÂÖÐÊ½¼Ò</a> <a title="" href="" target="_blank"></a><a title="" href="http://pinge.focus.cn/s/a10d670/" target="_blank">µØÖÐº£·ç¸ñÈý¾ÓÊÒ</a></li>
-<li><a href="http://pinge.focus.cn/s/c37/" target="_blank">³±¿îÐþ¹Ø×°ÐÞÉè¼Æ</a> <a title="" href="" target="_blank"></a><a href="http://pinge.focus.cn/s/c662/" target="_blank">ÑôÌ¨µÄ»ªÀö´ó±äÉí</a></li>
-<li><a href="http://pinge.focus.cn/s/c28/" target="_blank">¿ÍÌü×°ÐÞ±ØÐëÃîÕÐ</a> <a title="" href="" target="_blank"></a><a href="http://pinge.focus.cn/z/4588/" target="_blank">16Æ½Ð¡¿Õ¼äÇÉÉè¼Æ</a></li>
+<li><a href="http://pinge.focus.cn/s/c28/" target="_blank">¿ÍÌü×°ÐÞ´óÓÐ½²¾¿</a> <a title="" href="" target="_blank"></a><a title="" href="http://pinge.focus.cn/s/c36/" target="_blank">ÎÔÊÒ×°ÐÞÔöÈÝÓÐÊõ</a></li>
+<li><a href="http://pinge.focus.cn/s/a11b13/" target="_blank">³¬ÔÞ¸öÐÔÐ¡¸´Ê½×°</a> <a title="" href="" target="_blank"></a><a href="http://pinge.focus.cn/z/7377/" target="_blank">60Æ½Ã×¿Õ¼äÇÉÉè¼Æ</a></li>
+<li><a href="http://pinge.focus.cn/s/b13/" target="_blank">Ð¡ÎÏ¾Ó¾Í¸ÃÕâ¸ö·¶</a> <a title="" href="" target="_blank"></a><a href="http://pinge.focus.cn/s/c32/" target="_blank">ÆæÝâÎÀÔ¡×°ÐÞÉè¼Æ</a></li>
 <li><a href="http://homemsg.focus.cn/msgview/607/279054412.html?pid=hs_1001_bj" target="_blank">Å¯Æø°²×°×¢ÒâÊÂÏî</a> <a title="" href="http://homemsg.focus.cn/msgview/607/278876729.html?pid=hs_1001_bj" target="_blank">×ø±ãÆ÷µÄ°²×°·½·¨</a></li></ul>
 							</div>	
 							<div class="clear"></div>
 						</div>
 						<div class="list14" collection="Y">
 							<ul sdevindex="46">
-<li sdevindex="46"><a href="http://home.focus.cn/msgview/607/257321865.html?pid=hs_1001_6_bj" target="_blank">ÎÒ¼ÒµÄ´°Á±ºÍµÆÃÇ</a> <a title="" href="http://home.focus.cn/msgview/607/235946419.html?pid=hs_1001_6_bj" target="_blank">»§ÐÍÍ¼µÄ´óµ¨ÉèÏë</a> <a title="" href="http://home.focus.cn/msgview/607/237085532.html?pid=hs_1001_6_bj" target="_blank">ÎÒ×Ô¼ºÁ¿»§ÐÍ³ß´ç</a></li>
-<li sdevindex="46"><a href="http://home.focus.cn/msgview/607/237542849.html?pid=hs_1001_6_bj" target="_blank">ÎÒ¼ÒµÄÐþ¹Ø¼°²ÍÌü</a> <a href="http://home.focus.cn/msgview/607/206410863.html?pid=hs_1001_6_bj" target="_blank">Ä¾°åºÍµØ°åµÄÑ¡Ôñ</a> <a title="" href="http://home.focus.cn/msgview/607/261892857.html?pid=hs_1001_6_bj" target="_blank">ÎÒµÄ¼«Æ·Ç½µÄ²ð³ý</a></li>
-<li sdevindex="46"><span><a href="http://d.focus.cn/" target="_blank" sdevindex="46">Éè¼Æ</a>|</span> <a href="http://home.focus.cn/msgview/607/261969622.html?pid=hs_1001_6_bj" target="_blank" sdevindex="46">×Ô¼º¶¯ÊÖ²ðÇ½Ê¡Ç®ÓÖË³ÐÄ</a> <a href="http://home.focus.cn/msgview/607/238013071.html?pid=hs_1001_6_bj" target="_blank">·ÏÆ·Íõ2ÍòÐÞ64Æ½Ò»¾Ó </a></li>
-<li sdevindex="46"><span><a href="http://home.focus.cn/msglist/805/" target="_blank" sdevindex="46">ÍÅ¹º</a>|</span><a title="" href="http://home.focus.cn/msgview/607/301568475.html?pid=hs_1001_7_bj" target="_blank"> ËÑºüÍÅ×°ÏÄÁîÓªÒ»Æðhappy</a> <a title="" href="http://home.focus.cn/zhuanti14/shgj/?pid=hs_1001_7_bj" target="_blank">²ð¾ÉÌß½ÅÏß0Ôª/Æ½Ã×</a></li>
-<li sdevindex="46"><span><a href="http://home.focus.cn/msglist/607/" target="_blank" sdevindex="46">×°ÐÞ</a>|</span> <a href="http://home.focus.cn/msgview/607/301568475.html?pid=hs_1001_7_bj" target="_blank" sdevindex="46">99Ôª/Ì×ÇÀÆ·ÅÆ¸ß¶ËË®²Û</a> <a title="" href="http://home.focus.cn/msgview/607/233079686.html?pid=hs_1001_7_bj" target="_blank">150Æ½ÊµÄ¾¿Ø¼ÓÏÖ´úÔªËØ</a></li></ul>
+<li sdevindex="46"><a href="http://home.focus.cn/msgview/607/206006221.html?pid=hs_1001_6_bj" target="_blank">×°ÐÞÇ°Ó¦¸ÃÔõÑùÔ¤Ëã</a> <a title="" href="http://home.focus.cn/msgview/607/206326397.html?pid=hs_1001_6_bj" target="_blank">ÃÖ²¹µ¶°Ñ»§ÐÍ²»×ã</a> <a title="" href="http://home.focus.cn/msgview/607/206377499.html?pid=hs_1001_6_bj" target="_blank">ÍÅ¹º¼¯²ÉÐèÀíÐÔ</a></li>
+<li sdevindex="46"><a href="http://home.focus.cn/msgview/607/229463261.html?pid=hs_1001_6_bj" target="_blank">5Íò143Æ½ÊµÓÃËÄ¾Ó</a> <a href="http://home.focus.cn/msgview/607/206410863.html?pid=hs_1001_6_bj" target="_blank">ÎÀÉú¼ä´É×©µÄÑ¡Ôñ</a> <a title="" href="http://home.focus.cn/msgview/607/229612283.html?pid=hs_1001_6_bj" target="_blank">6Íò80Æ½¼òÅ·Èý¾Ó</a></li>
+<li sdevindex="46"><span><a href="http://d.focus.cn/" target="_blank" sdevindex="46">Éè¼Æ</a>|</span> <a href="http://home.focus.cn/msgview/607/207146067.html?pid=hs_1001_6_bj" target="_blank" sdevindex="46">Ç³Ì¸×°ÐÞ·ç¸ñµÄÖØÒªÐÔ</a> <a href="http://home.focus.cn/msgview/607/238013071.html?pid=hs_1001_6_bj" target="_blank">·ÏÆ·Íõ2ÍòÐÞ64Æ½Ò»¾Ó </a></li>
+<li sdevindex="46"><span><a href="http://home.focus.cn/msglist/805/" target="_blank" sdevindex="46">ÍÅ¹º</a>|</span><a title="" href="http://home.focus.cn/msgview/607/301568475.html?pid=hs_1001_7_bj" target="_blank"> 8ÔÂ3ÈÕ ÏÄ¼¾½¨²ÄÌØ»ÝÈÕ</a> <a title="" href="http://home.focus.cn/msgview/607/278497937.html?pid=hs_1001_7_bj" target="_blank">7ÍòÐã³ö130Æ½Ð¡¸´Ê½ÎÂÜ°</a></li>
+<li sdevindex="46"><span><a href="http://home.focus.cn/msglist/607/" target="_blank" sdevindex="46">×°ÐÞ</a>|</span> <a href="http://home.focus.cn/msgview/607/238013071.html?pid=hs_1001_6_bj" target="_blank" sdevindex="46">·ÏÆ·Íõ2ÍòÐÞ64Æ½Ò»¾Ó </a> <a title="" href="http://home.focus.cn/msgview/607/207214405.html?pid=hs_1001_7_bj" target="_blank">¼ÒÓÐºÃ¹¤³¤Ðã³öÎÂÜ°Ð¡ÎÑ</a></li></ul>
 						</div>
 					</div>					
 					<div id="fncontent3" class="hidden">
 						<div class="PTGA" collection="Y">
-							<div class="picL"><a href="http://bj.esf.focus.cn/sale/beiyuan/s2h3m4" target="_blank" sdevindex="49"><img alt=±±Ô·110Æ½300ÍòË¦ src="http://i2.itc.cn/20140720/32d1_.jpg" sdevindex="49" qvod="0"></a><span class="txt" sdevindex="49"><a href="http://bj.esf.focus.cn/sale/beiyuan/s2h3m4" target="_blank" sdevindex="49">±±Ô·110Æ½300ÍòË¦</a></span></div>
+							<div class="picL"><a href="http://bj.esf.focus.cn/sale/beiqijia/w2j4s2" target="_blank" sdevindex="49"><img alt=Íõ¸®»¨Ô°±ðÊû300w src="http://i1.itc.cn/20140721/32d1_.jpg" sdevindex="49" qvod="0"></a><span class="txt" sdevindex="49"><a href="http://bj.esf.focus.cn/sale/beiqijia/w2j4s2" target="_blank" sdevindex="49">Íõ¸®»¨Ô°±ðÊû300w</a></span></div>
 							<div class="list14">
 								<ul>
-<li><a href="http://bj.esf.focus.cn/sale/beitaipingzhuang/h2s2" target="_blank">±±Ì«Æ½×¯2¾Ó230Íò</a> <a href="http://bj.esf.focus.cn/sale/liufang/h3s2" target="_blank">238ÍòµÃ2»·±ßÄÏ3¾Ó</a></li>
-<li><a href="http://bj.esf.focus.cn/sale/yayuncun/h3s2" target="_blank">ÑÇÔË´åÑ§Çø3¾Ó260Íò</a> <a title="" href="http://bj.esf.focus.cn/news/2014-07-18/119010.html?sid=5" target="_blank">Î÷2»·90Æ½275wË¦</a></li>
-<li><a href="http://bj.esf.focus.cn/sale/kaiyangli/h2s2" target="_blank">ÄÏ2»·ÃâË°2¾Ó170Íò</a> <a href="http://bj.esf.focus.cn/news/2014-07-18/119008.html?sid=5" target="_blank">135ÍòÇÀÒà×¯108Æ½</a></li>
-<li><a href="http://bj.esf.focus.cn/sale/suzhouqiao/h3s2" target="_blank">ËÕÖÝÇÅ3¾Ó278ÍòÆð</a> <a href="http://bj.esf.focus.cn/news/2014-07-15/118978.html?sid=5" target="_blank">Ë³ÒåÁÙË®±ðÊû262Íò</a></li></ul>
+<li><a href="http://bj.esf.focus.cn/sale/anzhen/h3s2" target="_blank">°²ÕêÊµÓÃ3¾Ó238Íò</a> <a href="http://bj.esf.focus.cn/sale/xueyuanlu/h3s2" target="_blank">Ñ§ÔºÂ·Ñ§Çø3¾Ó280w</a></li>
+<li><a href="http://bj.esf.focus.cn/sale/sub5_77/h2s2" target="_blank">ÓººÍ¹¬·çË®2¾Ó185Íò</a> <a title="" href="http://bj.esf.focus.cn/sale/chongwen/h2s2" target="_blank">ÌÕÈ»Í¤2¾Ó178Íò?</a></li>
+<li><a href="http://bj.esf.focus.cn/sale/xibahe/s2h3" target="_blank">¶«3»·¸»¹ó3¾Ó235Íò</a> <a href="http://bj.esf.focus.cn/sale/xicheng/h2s2" target="_blank">230ÍòÖ±Éý177ÖÐÑ§</a></li>
+<li><a href="http://bj.esf.focus.cn/sale/wangjing/h3s2" target="_blank">Íû¾©Ñ§Çø3¾Ó250Íò</a> <a href="http://bj.esf.focus.cn/news/2014-07-18/119015.html?sid=5" target="_blank">170Íò³­µ×³¯Ñô2¾Ó!</a></li></ul>
 							</div>
 							<div class="clear"></div>
 						</div>
 						<div class="list14" collection="Y">
 							<ul sdevindex="46">
-<li sdevindex="46"><span><a href="http://bj.esf.focus.cn/news.php?sid=5&amp;esf6=1" target="_blank">µ¼¹º</a>| </span><a href="http://bj.esf.focus.cn/sale/beiqijia/j4s2" target="_blank">±±ÖÐÖáÏß±ðÊû300ÍòËÍ180Æ½»¨Ô°</a> <a title="" href="http://bj.esf.focus.cn/sale/beiguan/s2h2m4" target="_blank">Í¨ÖÝ107Æ½180Íò!</a></li></ul>
+<li sdevindex="46"><span><a href="http://bj.esf.focus.cn/news.php?sid=5&amp;esf6=1" target="_blank">µ¼¹º</a>| </span><a href="http://bj.esf.focus.cn/sale/tiantongyuan/h4s2" target="_blank">ÌìÍ¨Ô·´ó4¾Ó240ÍòËÍÂ¶Ì¨</a> <a title="" href="http://bj.esf.focus.cn/sale/shunyi/h4s2w2" target="_blank">Ë®ÉÏ¹«Ô°ºÀ»ª±ðÊû278Íò</a></li></ul>
 							<ul sdevindex="46">
 <li sdevindex="46"><span><a href="http://bj.esf.focus.cn/sale" target="_blank" sdevindex="46">ÉÌÈ¦</a>|</span> <a href="http://bj.esf.focus.cn/sale/chaoyang" target="_blank">³¯Ñô</a> <a href="http://bj.esf.focus.cn/sale/haidian" target="_blank">º£µí</a> <a href="http://bj.esf.focus.cn/sale/changping" target="_blank">²ýÆ½</a> <a href="http://bj.esf.focus.cn/sale/fengtai/" target="_blank">·áÌ¨</a> <a href="http://bj.esf.focus.cn/sale/daxing" target="_blank">´óÐË</a> <a href="http://bj.esf.focus.cn/sale/tongzhou" target="_blank">Í¨ÖÝ</a> <a href="http://bj.esf.focus.cn/sale/xuanwu/" target="_blank">ÐûÎä</a> <a href="http://bj.esf.focus.cn/sale/xicheng/" target="_blank">Î÷³Ç</a> <a title="" href="http://bj.esf.focus.cn/sale/zhoubian/" target="_blank">ÖÜ±ß</a> </li>
 <li sdevindex="46"><span><a href="http://bj.esf.focus.cn/sale" target="_blank" sdevindex="46">¾«Æ·</a>|</span> <a href="http://bj.esf.focus.cn/sale/fengtai/h2s2m2" target="_blank">·áÌ¨2¾Ó160Íò</a> <a title="" href="http://bj.esf.focus.cn/sale/suzhouqiao/s2h3" target="_blank">ÍòÈªºÓÑ§Çø3¾Ó285Íò</a> <a href="http://bj.esf.focus.cn/sale/changping/s2h2p2" target="_blank">²ýÆ½2¾Ó95Íò</a> <a href="" target="_blank"></a><a href="" target="_blank"></a></li>
@@ -4092,24 +4131,24 @@ function changeAutomn(n){
 					<div class="clear"></div>
 				</div>				
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://digi.it.sohu.com/20140721/n402493948.shtml" target="_blank"><img border="0" alt="´¸×ÓÉú²úÓö´óÎÊÌâ" src="http://i3.itc.cn/20140721/749_04844534_d1de_c0a8_0636_3248e5a998b1_1.jpg" width="98" height="70" note4ÆØ¹â="" ios8´«ÎÅ=""></a><span class="txt" sdevindex="50"><a href="http://digi.it.sohu.com/20140721/n402493948.shtml" target="_blank" sdevindex="50">´¸×ÓÉú²úÓö´óÎÊÌâ</a></span></div>
+					<div class="picL"><a href="http://digi.it.sohu.com/20140722/n402573706.shtml" target="_blank"><img border="0" alt="Ð¡Ã×4ÕýÊ½·¢²¼" src="http://i0.itc.cn/20140722/749_942c5301_c51e_88dc_00a6_be2d45146bd4_1.jpg" width="98" height="70" note4ÆØ¹â="" ios8´«ÎÅ=""></a><span class="txt" sdevindex="50"><a href="http://digi.it.sohu.com/20140722/n402573706.shtml" target="_blank" sdevindex="50">Ð¡Ã×4ÕýÊ½·¢²¼</a></span></div>
 					<div class="list14">
 						<ul sdevindex="52">
-<li sdevindex="52"><a title="" href="http://it.sohu.com/" target="_blank">ÔËÓªÉÌ¼Æ»®Ï÷¼õ³É±¾ »ò²Ã³·»ùµØÒµÎñ</a></li>
-<li sdevindex="52"><a title="" href="http://it.sohu.com/20140721/n402491923.shtml" target="_blank">IBMºÍÆ»¹û²»»áÐÒ¸£?</a> <a href="http://it.sohu.com/20140721/n402493493.shtml" title="" target="_blank">Ð¡Ã×º£ÍâÓö×è</a></li>
-<li sdevindex="52"><a title="" href="http://it.sohu.com/20140721/n402515287.shtml" target="_blank">ÎÒ¹úÊÖ»úÍøÃñ´ï5.27ÒÚ</a> <a href="http://it.sohu.com/20140721/n402497609.shtml" title="" target="_blank">ÀÖÊÓ½ñÆð¸´ÅÆ</a></li>
-<li sdevindex="52"><a title="" href="http://it.sohu.com/20140721/n402492245.shtml" target="_blank">³§ÉÌ¹ÛÍû¹ãµçTVOS</a> <a title="" href="http://it.sohu.com/20140721/n402491813.shtml" target="_blank">»¥ÁªÍø´ßÉúÐÂ¸»ºÀ</a></li></ul>
+<li sdevindex="52"><a title="" href="http://it.sohu.com/" target="_blank">´¸×Ó²úÄÜºÍÁ¼Æ·ÂÊ±³ºó:ÀÏÂÞÈö»ÑÁËÃ»</a></li>
+<li sdevindex="52"><a title="" href="http://it.sohu.com/20140722/n402543586.shtml" target="_blank">Æ»¹ûiOSÒ²ÓÐºóÃÅ</a> <a href="http://it.sohu.com/20140722/n402546620.shtml" title="" target="_blank">ÔËÓªÉÌ3´ó¹·Ñª¹«°¸</a></li>
+<li sdevindex="52"><a title="" href="http://it.sohu.com/20140722/n402550874.shtml" target="_blank">µçÐÅ4GÊÖ»ú¿ªÊÛ</a> <a href="http://it.sohu.com/20140722/n402547615.shtml" title="" target="_blank">Î¢Èí»ò·ÅÆúÓ²¼þÕ½ÂÔ</a></li>
+<li sdevindex="52"><a title="" href="http://it.sohu.com/20140722/n402553167.shtml" target="_blank">»ªÎªÓªÊÕÔÙ³¬°®Á¢ÐÅ</a> <a title="" href="http://it.sohu.com/20140722/n402561595.shtml" target="_blank">Æ»¹ûÒµ¼¨±»¿´ºÃ</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>				
 				<div class="list14" collection="Y">
 					<ul sdevindex="56">
-<li sdevindex="56"><a title="" href="http://it.sohu.com/20140721/n402496399.shtml" target="_blank">Ë­À´Í¬ÇéºÐ×ÓÊÂ¼þÖÐµÄµçÊÓÌ¨</a> <a title="" href="http://it.sohu.com/20140721/n402496896.shtml" target="_blank">ÌúËþ¹«Ë¾»ú¹¹ÏêÇé:7²¿ÃÅ</a></li>
-<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/" target="_blank">12Ó¢´ç¸ßÇåMacBook Air»òÍÆ³Ù·¢</a> <a title="" href="http://digi.it.sohu.com/20140721/n402493704.shtml" target="_blank">ÒÉÐ¡Ã×ÊÖ»ú4Õæ»úÆØ¹â</a></li>
-<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/20140721/n402499296.shtml" target="_blank">5.5Ó¢´çiPhone 6Æ¬×´µç³ØÆØ¹â</a> <a title="" href="http://digi.it.sohu.com/20140721/n402493563.shtml" target="_blank">÷È×åFlyme½«ÊÊÅäÅµ»ùÑÇ</a></li>
-<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/20140721/n402499323.shtml" target="_blank">ÈýÐÇNote4½«×¨×¢ÓÚÅÄÕÕ¹¦ÄÜ</a> <a title="" href="http://digi.it.sohu.com/20140721/n402492391.shtml" target="_blank">½èÖúÖÇÄÜÊÖ»úÍæ×ª¸ßËÙÉãÓ°</a></li>
-<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/20140721/n402414693.shtml" target="_blank">°Ë¿î³¬Ç¿ÅäÖÃ4GÊÖ»ú</a> <a title="" href="http://digi.it.sohu.com/20140721/n402413196.shtml" target="_blank">æçÁú400Ð¾ÊÖ»ú</a> <a title="" href="http://digi.it.sohu.com/20140721/n402413908.shtml" target="_blank">Ê·ÉÏ×î¸ßÏñËØÈÈ»ú</a></li>
-<li sdevindex="56"><a title="" href="http://geek.it.sohu.com/act-68.html" target="_blank">ÁªÏëÐÂ»úÃâ·ÑÊÔÓÃ:¾ªÑÞ³¬Ð¡Ã×/Í¼</a> <a title="" href="http://geek.it.sohu.com/act-69.html" target="_blank">ÊÔÓÃ:ÓÃÎ¢ÐÅÍæÖÇÄÜ±í</a></li></ul>
+<li sdevindex="56"><a title="" href="http://it.sohu.com/20140722/n402546832.shtml" target="_blank">º£ÐÅµçÊÓµÄ5¸öÄÑÌâºÍ4¸ö»ú»á</a> <a title="" href="http://it.sohu.com/20140722/n402549703.shtml" target="_blank">Ó¦ÓÃ¿ª·¢ÕßÃÇµÄÆ¶¸»ÊÀ½ç</a></li>
+<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/" target="_blank">Android WearÐèÒª½â¾öµÄ9´óÎÊÌâ</a> <a title="" href="http://digi.it.sohu.com/20140722/n402547723.shtml" target="_blank">iPhone 6ºó¿ÇÕÕÔÙÆØ</a></li>
+<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/20140722/n402553717.shtml" target="_blank">HTC One M8½«»ñ4.4.3¸üÐÂ</a> <a title="" href="http://digi.it.sohu.com/20140722/n402553687.shtml" target="_blank">Lumia 930³öÏÖÉè±¸·¢ÈÈÒì³£</a></li>
+<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/20140722/n402553672.shtml" target="_blank">iPhone 6Êý¾Ý²å¿Ú²¿·ÖÆØ¹â</a> <a title="" href="http://digi.it.sohu.com/20140722/n402545155.shtml" target="_blank">Android LÎå¸öÓÐÈ¤µÄµØ·½</a></li>
+<li sdevindex="56"><a title="" href="http://digi.it.sohu.com/20140722/n402505283.shtml" target="_blank">³¬Öµ»úÈëÊÖÖ¸ÄÏ</a> <a title="" href="http://digi.it.sohu.com/20140722/n402506712.shtml" target="_blank">ÓéÀÖ¹¦ÄÜÊÖ»úÍÆ¼ö</a> <a title="" href="http://digi.it.sohu.com/20140722/n402525730.shtml" target="_blank">ºÃÊÖ»úµÄ°Ë´óÒªËØ</a></li>
+<li sdevindex="56"><a title="" href="http://geek.it.sohu.com/" target="_blank">Ãâ·ÑÊÔÓÃ:</a> <a title="" href="http://geek.it.sohu.com/act-68.html" target="_blank">ÐÂÆ½°å¾ªÑÞ³¬Ð¡Ã×</a> <a title="" href="http://geek.it.sohu.com/act-69.html" target="_blank">Î¢ÐÅ°æÖÇÄÜ±í</a> <a title="" href="http://geek.it.sohu.com/act-67.html" target="_blank">ÄæÌìº½ÅÄÆ÷</a></li></ul>
 				</div>
 			</div>
 			<!-- ITÊýÂë End -->
@@ -4131,26 +4170,26 @@ function changeAutomn(n){
 					<div class="clear"></div>
 				</div>				
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://women.sohu.com/" target="_blank" sdevindex="55"><img alt=ÁõÒà·ÆÈ«¼ÒÃÀÕÕ src="http://i3.itc.cn/20140718/2e20_4271ea82_738e_7830_f28b_80a07f19e11a_1.jpg" sdevindex="55" bag="" s?Éí²Ä?=""></a><span class="txt" sdevindex="55"><a href="http://women.sohu.com/" target="_blank" sdevindex="55">ÁõÒà·ÆÈ«¼ÒÃÀÕÕ</a></span></div>
+					<div class="picL"><a href="http://women.sohu.com/" target="_blank" sdevindex="55"><img alt=Å·ÃÀÅ®ÐÔ¾ÜÌêÍÈÃ« src="http://i3.itc.cn/20140721/2d5f_1ab0bb73_2387_3e47_614e_82a2cd1d8cf5_1.jpg" sdevindex="55" s?Éí²Ä?="" bag=""></a><span class="txt" sdevindex="55"><a href="http://women.sohu.com/" target="_blank" sdevindex="55">Å·ÃÀÅ®ÐÔ¾ÜÌêÍÈÃ«</a></span></div>
 					<div class="list14">
 						<ul sdevindex="58">
-<li sdevindex="58"><a title="" href="http://women.sohu.com/" target="_blank" sdevindex="58">ÏÄÈÕ»¯×±¼¼ÇÉ</a> <a title="" href="http://pic.women.sohu.com/group-586767.shtml" target="_blank" sdevindex="58">ÂíÌìÓîÄÐ°çÅ®×±³¬¿É°®</a></li>
-<li sdevindex="58"><a title="" href="http://beauty.sohu.com/" target="_blank" sdevindex="58">ÁÖÖ¾ÁáÔçÆÚ±¬ÈéÕÕ</a> <a title="" href="http://women.sohu.com/life/" target="_blank" sdevindex="58">ÖÜÑ¸½á»éöÄÓ±º°»°</a></li>
-<li sdevindex="58"><a title="" href="http://chihe.sohu.com/s2014/5781/s401679525/index.shtml" target="_blank" sdevindex="58">ÃÀÊ³ÌìÌÃÐ¡³Ô°ÍÊñ</a> <a title="" href="http://pic.women.sohu.com/group-586721.shtml" target="_blank" sdevindex="58">×¹»úºó×îºÃµÄÅã°é</a></li>
-<li sdevindex="58"><a title="" href="http://luxury.sohu.com/" target="_blank" sdevindex="58">ÜÇ³É¸ÖºÀ»ª×ù¼Ý</a> <a title="" href="http://pic.luxury.sohu.com/group-585509.shtml#0" target="_blank" sdevindex="58">Ð¡Ê±´úµ½µ×ÓÐ¶àÉÕÇ®</a></li></ul>
+<li sdevindex="58"><a title="" href="http://women.sohu.com/" target="_blank" sdevindex="58">º«¹úÕûÐÎÒ½ÔºÊµÀý</a> <a title="" href="http://beauty.sohu.com/" target="_blank" sdevindex="58">°Ö°Ö2½¿ÆÞÉí²Ä±ÈÆ´</a></li>
+<li sdevindex="58"><a title="" href="http://pic.women.sohu.com/group-587235.shtml" target="_blank" sdevindex="58">Ò»¸ùÃÞ°ô°´³öVÁ³</a> <a title="" href="http://women.sohu.com/life/" target="_blank" sdevindex="58">ËïÙ³²úºóÁÁÏàÃëÊÝ</a></li>
+<li sdevindex="58"><a title="" href="http://chihe.sohu.com/s2014/5781/s401679525/index.shtml" target="_blank" sdevindex="58">ÃÀÊ³ÌìÌÃÐ¡³Ô°ÍÊñ</a> <a title="" href="http://pic.women.sohu.com/group-587378.shtml" target="_blank" sdevindex="58">Ñ©¸âÅäÀÏ¸ÉÂè×ßºì</a></li>
+<li sdevindex="58"><a title="" href="http://luxury.sohu.com/" target="_blank" sdevindex="58">ÜÇ³É¸ÖºÀ»ª×ù¼Ý</a> <a title="" href="http://pic.luxury.sohu.com/group-585872.shtml" target="_blank" sdevindex="58">ÍµÅÄ¸»¶þ´ú×ÝÇéÏíÀÖ</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>				
 				<div class="list14" collection="Y">
 					<ul sdevindex="56">
-<li sdevindex="56"><span sdevindex="56"><a href="http://fashion.sohu.com/" target="_blank" sdevindex="56">Ê±ÉÐ</a>| </span><a title="" href="http://pic.fashion.sohu.com/group-587129.shtml#0" target="_blank" sdevindex="56">¹ùÃÀÃÀ²»ÑÅÕÕ</a> <a title="" href="http://pic.fashion.sohu.com/group-587073.shtml#0" target="_blank" sdevindex="a56">ÂãÌåÏàÇ×ÕæÈËÐã</a> <a title="" href="http://pic.fashion.sohu.com/group-586708.shtml#0" target="_blank" sdevindex="56">ÁÖÖ¾Áá´ó³ß¶È¾ÉÕÕ</a></li>
-<li sdevindex="56"><span sdevindex="56"><a href="http://club.women.sohu.com/" target="_blank" sdevindex="56">ÉçÇø</a>| </span><a href="http://club.women.sohu.com/zz0894/thread/2fxe1ht5pkv" target="_blank" sdevindex="56" arget="_blank">NÄê¶·ºóÂèÑªÀáÊ·</a> <a title="" href="http://club.women.sohu.com/face/thread/2haoxa4aixx" target="_blank">Ë«ÊÖ°ïÄã±äVÁ³</a> <a title="" href="http://club.women.sohu.com/face/thread/2halaop9rk3" target="_blank">»¹Äã·ÛÄÛÓ¤¶ù¼¡</a></li></ul>
+<li sdevindex="56"><span sdevindex="56"><a href="http://fashion.sohu.com/" target="_blank" sdevindex="56">Ê±ÉÐ</a>| </span><a title="" href="http://pic.fashion.sohu.com/group-587593.shtml#0" target="_blank" sdevindex="56">ÖÜÑ¸ÓëÀÏ¹«¼¤ÎÇ</a> <a title="" href="http://pic.fashion.sohu.com/group-587347.shtml#0" target="_blank" sdevindex="a56">´ÞÖÇÓÑÕûÈÝÊ§°Ü</a> <a title="" href="http://pic.fashion.sohu.com/group-587073.shtml#0" target="_blank" sdevindex="56">³¬»ð±¬ÂãÌåÏàÇ×</a></li>
+<li sdevindex="56"><span sdevindex="56"><a href="http://club.women.sohu.com/" target="_blank" sdevindex="56">ÉçÇø</a>| </span><a href="http://club.women.sohu.com/marriage/thread/2hjtntl654i" target="_blank" sdevindex="56" arget="_blank">ÅÝæ¤vsæÎæ¤±¨¸æ</a> <a title="" href="http://club.women.sohu.com/face/thread/2hpbi9uqbgu" target="_blank">±æ±ð¼¡·ô¼¢¿Ê¶È</a> <a title="" href="http://club.women.sohu.com/face_painting/thread/2hg77pud4wo" target="_blank">ÃÀ¿ÞÄãµÄÌÒ»¨×±</a></li></ul>
 					<ul sdevindex="60">
-<li sdevindex="60"><span sdevindex="60"><a href="http://men.sohu.com/" target="_blank" sdevindex="60">ÄÐÊ¿</a>| </span><a title="" href="http://men.sohu.com/" target="_blank">¿ñ·ç±©ÓêÇóÉúÊØÔò</a> <a title="" href="http://pic.men.sohu.com/group-585702.shtml#0" target="_blank" sdevindex="60">°®ÉÏÅ¨ÌåÃ«Å®</a> <a title="" href="http://pic.men.sohu.com/group-585370.shtml#0" target="_blank">80Äê´úÐÔ¸Ð¸£Àû</a></li></ul>
+<li sdevindex="60"><span sdevindex="60"><a href="http://men.sohu.com/" target="_blank" sdevindex="60">ÄÐÊ¿</a>| </span><a title="" href="http://men.sohu.com/" target="_blank">±©ÓêÇóÉúÊØÔò</a> <a title="" href="http://pic.men.sohu.com/group-585702.shtml#0" target="_blank" sdevindex="60">Å®ÈË²»¹ÒÌåÃ«Ò²ÃÀÀö</a> <a title="" href="http://pic.men.sohu.com/group-586419.shtml#0" target="_blank">ÔË¶¯Ô±É¹ÃÀÌå</a></li></ul>
 					<ul sdevindex="60">
-<li sdevindex="60"><span sdevindex="60"><a href="http://baobao.sohu.com/" target="_blank">ÔÐÓý</a>| </span><a title="" href="http://baobao.sohu.com/" target="_blank">ÏêÊö²úÍ´¸ÐÊÜ</a> <a title="" href="http://mt.sohu.com/20140718/n402431233.shtml" target="_blank">°Ö°Ö¸Ã¸øº¢×ÓÊ²Ã´£¿</a> <a title="" href="http://mt.sohu.com/20140717/n402380024.shtml" target="_blank">»ÆÀÚÖÂÅ®¶ùÊé</a></li>
-<li sdevindex="60"><span sdevindex="60"><a href="http://baobao.sohu.com/baobao.shtml" target="_blank" sdevindex="60">Ôç½Ì</a>| </span><a title="" href="http://mt.sohu.com/20140718/n402418299.shtml" target="_blank">µ±BBÃüÔË³öÏÖBug</a> <a title="" href="http://mt.sohu.com/20140718/n402412937.shtml" target="_blank">ÊÖ×ãÖ®¼äÕù³³</a> <a title="" href="http://mt.sohu.com/20140718/n402425435.shtml" target="_blank">¸ô´úÑøÓýÌýË­µÄ</a></li>
-<li sdevindex="60"><span sdevindex="60"><a href="http://club.baobao.sohu.com/mom_daugh/threads" target="_blank" sdevindex="60">ÆÅÏ±</a>| </span><a title="" href="http://pic.baobao.sohu.com/group-582950.shtml#0" target="_blank">ÊµÅÄ£ºË®ÖÐ·ÖÃä</a> <a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2giaozvv4xa" target="_blank">ÑøÅ®ÒªÇó·Ö¼Ò²ú</a> <a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2g70rrb6vue" target="_blank">ÁìÑøÃÃÃÃÒý²Ò°¸</a></li></ul>
+<li sdevindex="60"><span sdevindex="60"><a href="http://baobao.sohu.com/" target="_blank">ÔÐÓý</a>| </span><a title="" href="http://mt.sohu.com/20140719/n402454468.shtml" target="_blank">·ò¸¾¸ß¼ÛÉúÄÐÅ®</a> <a title="" href="http://mt.sohu.com/20140721/n402503905.shtml" target="_blank">½¡ÄÔ³¤¸ßµÄÊ³Îï</a> <a title="" href="http://mt.sohu.com/20140721/n402509166.shtml" target="_blank">É¶Ó°Ïì×ã¹­·¢Óý</a></li>
+<li sdevindex="60"><span sdevindex="60"><a href="http://baobao.sohu.com/baobao.shtml" target="_blank" sdevindex="60">Ôç½Ì</a>| </span><a title="" href="http://baobao.sohu.com" target="_blank">¡¶°Ö°Ö¡·¿ÓÍÞ»·½Ú</a> <a title="" href="http://mt.sohu.com/20140721/n402508794.shtml" target="_blank">Ï£ÍûBB¼áÒã¶ÀÁ¢</a> <a title="" href="http://mt.sohu.com/20140719/n402462244.shtml" target="_blank">ÓÅÐãÔ´ÓÚ¼Ò³¤È·ÈÏ</a></li>
+<li sdevindex="60"><span sdevindex="60"><a href="http://club.baobao.sohu.com/mom_daugh/threads" target="_blank" sdevindex="60">ÆÅÏ±</a>| </span><a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hn9wrxsxns" target="_blank">ÆÅ¼ÒÈ«¿î»é·¿ºó</a> <a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hpxcznwj9n" target="_blank">ÆÅÆÅÇëÐ¡ÈýÉúÍÞ</a> <a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2g70rrb6vue" target="_blank">ÁìÑøÃÃÃÃÒý²Ò°¸</a></li></ul>
 				</div>
 			</div>
 			<div class="contADc" collection="Y">
@@ -4294,14 +4333,14 @@ showTurnAD349(intTurnAD10);
 			<div class="bord02"></div>
 			<div class="list12" collection="Y">
 				<SOHUADCODE><ul id="auto_mess_iploc">
-<LI><A title="" href="http://shenyang.auto.sohu.com/20140721/n402493488.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>ÂõÌÚ/ÑÅ¸óµÈB¼¶³µ½µ4Íò</A></LI><LI><A href="http://zhengzhou.auto.sohu.com/20140721/n402484811.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>Polo/K2µÈ×î¸ß½µ1.2Íò!</A></LI><LI><A href="http://hefei.auto.sohu.com/20140721/n402425088.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>CR-V/Q3µÈ×î¸ß½µ3.6Íò!</A></LI><LI><A href="http://foshan.auto.sohu.com/20140721/n402485408.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>ÐùÒÝ/ËÙÌÚµÈ½ö8.59ÍòÆð</A></LI><LI><A href="http://jinan.auto.sohu.com/20140721/n402436395.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>±¼ÌÚX80µÈ×ÔÖ÷SUV½µ1Íò</A></LI><LI><A href="http://shijiazhuang.auto.sohu.com/20140721/n402431098.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>Ç×Ãñ×Ô¶¯¿Õµ÷³µ´óÍÆ¼ö!</A></LI><LI><A href="http://tianjin.auto.sohu.com/20140721/n402435222.shtml?pvid=d1e6fa05d5fd281d
-" target=_blank>É£ËþÄÉµÈ¼Ò½ÎÓÅ»Ý2.3Íò</A></LI></ul>
+<LI><A title="" href="http://nanjing.auto.sohu.com/20140722/n402522650.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>´ó¿Õ¼ä12Íò¼Ò½Î½µ1.8Íò</A></LI><LI><A href="http://shanghai.auto.sohu.com/20140722/n402524122.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>CR-V/ÖÇÅÜµÈSUV½µ3.8Íò</A></LI><LI><A href="http://zhengzhou.auto.sohu.com/20140722/n402527312.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>Ììô¥/ÅÁÈøÌØµÈ½µ3.5Íò!</A></LI><LI><A href="http://xian.auto.sohu.com/20140722/n402530823.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>×ùÒÎÍ¨·çB¼¶³µ½µ3.4Íò!</A></LI><LI><A href="http://linyi.auto.sohu.com/20140722/n402530065.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>¿­Ô½/½Ý´ïµÈÈÃÀû1.5Íò!</A></LI><LI><A href="http://yantai.auto.sohu.com/20140722/n402543783.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>¿¨ÂÞÀ­µÈ¼Ò½ÎÓÅ»Ý2ÍòÔª</A></LI><LI><A href="http://weihai.auto.sohu.com/20140722/n402521893.shtml?pvid=d1e6fa05d5fd281d
+" target=_blank>Ì¥Ñ¹¼à²â½ô´Õ³µ´óÍÆ¼ö!</A></LI></ul>
  <script type="text/javascript">
 function sohu_auto_ip_location_r(d3){ 
      var $ = function(id){return document.getElementById(id);} 
@@ -4408,24 +4447,24 @@ sohu_auto_il_func_r();
 					<div class="clear"></div>
 				</div>
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://mt.sohu.com/20140721/n402509183.shtml" target="_blank" sdevindex="69"><img alt="ºìÐ¡¶¹µÄÊ³ÁÆ·½" src="http://i0.itc.cn/20140721/a3e_2d9943e9_b7d9_076d_376c_2ff15940717a_1.jpg" sdevindex="69"></a><span class="txt" sdevindex="69"><a href="http://mt.sohu.com/20140721/n402509183.shtml" target="_blank" sdevindex="69">ºìÐ¡¶¹µÄNÖÖ¹¦Ð§</a></span></div>
+					<div class="picL"><a href="http://mt.sohu.com/20140722/n402555457.shtml" target="_blank" sdevindex="69"><img alt="Ö¬·¾¸ÎµÄÔË¶¯´¦·½" src="http://i2.itc.cn/20140722/a3e_99cd164e_bc69_2909_0ee5_53e96c9fc404_1.jpg" sdevindex="69"></a><span class="txt" sdevindex="69"><a href="http://mt.sohu.com/20140722/n402555457.shtml" target="_blank" sdevindex="69">Ö¬·¾¸ÎµÄÔË¶¯´¦·½</a></span></div>
 					<div class="list14">
 						<ul sdevindex="69">
-<li sdevindex="69"><span sdevindex="69"></span><a title="" href="http://health.sohu.com/" target="_blank" sdevindex="69" class="">ÉíÌåÒì³£³öÑª¾¯Ìè°©</a> <a title="" href="http://mt.sohu.com/20140721/n402509207.shtml" target="_blank" class="">ÒÒ¸ÎÔÐ¸¾ÎÊÓëÒÉ</a></li>
-<li sdevindex="69"><a title="" href="http://mt.sohu.com/20140721/n402515075.shtml" target="_blank" sdevindex="69" class="">ÐÔÉú»îÔçµ±ÐÄµÃ°©</a> <a title="" href="http://mt.sohu.com/20140721/n402527961.shtml" target="_blank" class="">´óÊîÎ¸ÑôÒ×±»ÊªÀ§</a></li>
-<li sdevindex="69"><a title="" href="http://mt.sohu.com/20140721/n402504814.shtml" target="_blank" sdevindex="69">±ð°ÑÖÌ´¯µ±Ð¡ÊÂ</a> <a title="" href="http://mt.sohu.com/20140720/n402476595.shtml" target="_blank" class="">¿Ú¸ÉÑÛ¸ÉÒ²ÊÇ·çÊª²¡</a></li>
-<li sdevindex="69"><a title="" href="http://mt.sohu.com/20140720/n402481622.shtml" target="_blank" class="">·´Á÷ÐÔÎ¸Ñ×ÈçºÎ·ÀÖÎ</a> <a title="" href="http://mt.sohu.com/20140721/n402504749.shtml" target="_blank" ?="" shipin="" health.sohu.com="" http:?="" class="">Ä¥ÑÀµÄËÄ¸öÎ£º¦</a></li></ul>
+<li sdevindex="69"><span sdevindex="69"></span><a title="" href="http://mt.sohu.com/20140722/n402538272.shtml" target="_blank" sdevindex="69" class="">ºÚÄ¾¶úÊÇ¼ÐÍÈÔì³É£¿</a> <a title="" href="http://mt.sohu.com/20140722/n402560989.shtml" target="_blank" class="">±ðÓÃÖÐÒ©×¢Éä¼Á</a></li>
+<li sdevindex="69"><a title="" href="http://mt.sohu.com/20140722/n402535280.shtml" target="_blank" sdevindex="69" class="">¡°³¦ÁÆ¡±ÄÜÅÅ¶¾£¿</a> <a title="" href="http://mt.sohu.com/20140722/n402535286.shtml" target="_blank" class="">ÌåÖÊº®Ó¦ÈçºÎµ÷Ñø</a></li>
+<li sdevindex="69"><a title="" href="http://mt.sohu.com/20140722/n402563118.shtml" target="_blank" sdevindex="69">²âÄãÐÄÀíÈõµã</a> <a title="" href="http://mt.sohu.com/20140721/n402534687.shtml" target="_blank" class="">90%°©Ö¢²¡ÈËÄÜ³¤ÆÚÉú´æ</a></li>
+<li sdevindex="69"><a title="" href="http://mt.sohu.com/20140721/n402534684.shtml" target="_blank" class="">Èé·¿×Ô¼ìµÄ×î¼ÑÊ±¼ä</a> <a title="" href="http://mt.sohu.com/20140722/n402556458.shtml" target="_blank" ?="" shipin="" health.sohu.com="" http:?="" class="">²»ÔÐ²»ÓýµÄ4ÎóÇø</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>				
 				<div class="list14" collection="Y">
 				    <ul sdevindex="70">
-<li sdevindex="70"><a title="" href="http://health.sohu.com/" target="_blank" class="">³£³Ô¹ÈÎïµÄÊ®´óºÃ´¦</a> <a title="" href="http://mt.sohu.com/20140720/n402478451.shtml" target="_blank" class="">Àà·çÊªÄÜ¸ùÖÎÂð</a> <a title="" href="http://mt.sohu.com/20140721/n402518815.shtml" target="_blank" class="">ÑÌÃñ»¼·Î°©µÄ¼¸ÂÊ</a></li>
-<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140720/n402473253.shtml" target="_blank" class="">Å®ÐÔÉÙÓÃÎ¢²¨Â¯</a> <a title="" href="http://mt.sohu.com/20140721/n402486421.shtml" target="_blank" class="">²é¾±¶¯ÂöÏÁÕ­Ã»±ØÒª</a> <a title="" href="http://mt.sohu.com/20140721/n402518766.shtml" target="_blank" class="">Õ¦¿´Ö×Áö±êÖ¾Îï£¿</a></li></ul>
+<li sdevindex="70"><a title="" href="http://health.sohu.com/" target="_blank" class="">Á¹°è²ËµÄÍòÄÜµ÷ÁÏ</a> <a title="" href="http://mt.sohu.com/20140722/n402535346.shtml" target="_blank" class="">¶úºóÌÛÊÇ»¼²¡Ç°Õ×</a> <a title="" href="http://mt.sohu.com/20140721/n402534714.shtml" target="_blank" class="">³ÔÖíÓÍÓÐÒæ½¡¿µÂð</a></li>
+<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140722/n402563786.shtml" target="_blank" class="">ÎÛÈ¾Ê³Îï´«²¥ÒÒ¸ÎÂð</a> <a title="" href="http://mt.sohu.com/20140721/n402534689.shtml" target="_blank" class="">Ë­Ò×»¼Èé°©</a> <a title="" href="http://mt.sohu.com/20140721/n402534695.shtml" target="_blank" class="">ÕâÐ©ÉË¿Ú±ðÓÃ´´¿ÉÌù£¡</a></li></ul>
 					<ul sdevindex="70">
-<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140721/n402518800.shtml" target="_blank">±äÌì¾ÍÍÈÌÛµÄÔ­Àí</a> <a title="" href="http://mt.sohu.com/20140721/n402504807.shtml" target="_blank">ÖÎ¸ßÑªÑ¹²ÝÒ©</a> <a title="" href="http://mt.sohu.com/20140719/n402464087.shtml" target="_blank">ÒÒ¸ÎÐ¯´øÕßÕ¦¹ýÐÔÉú»î</a></li>
-<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140721/n402509205.shtml" target="_blank" class="">¿áÊî´óº¹Ö®ºó¶à³Ô¶¹</a> <a title="" href="http://mt.sohu.com/20140721/n402510038.shtml" target="_blank" sdevindex="70">³ÔÓã´Ì¿¨ºíÁü¼±¾È</a> <a title="" href="http://mt.sohu.com/20140721/n402515081.shtml" target="_blank" class="">ÈçºÎìî³ý·¨ÁîÎÆ</a></li>
-<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140720/n402482420.shtml" target="_blank" sdevindex="70">ÖÐÒ½Ò©ÕæÄÜ¿¹°©Âð</a> <a title="" href="http://health.survey.sohu.com/poll/show.php?poll_id=85079" target="_blank">ÄãÓÃÊÖ»ú·ÑÑÛÂð£¿</a> <a title="" href="http://hexiaosheng03752.blog.sohu.com/304389446.html" target="_blank">ÄÄÐ©ÄÔÍâÉËÐè¾ÍÒ½</a></li></ul>
+<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://snowheart19.blog.sohu.com/304412961.html" target="_blank" class="">ëç²ËÓÐºÎ¿ÉÅÂÖ®´¦</a> <a title="" href="http://mt.sohu.com/20140722/n402559026.shtml" target="_blank">×ÔÎÒÖÎÁÆ¾±×µ²¡</a> <a title="" href="http://mt.sohu.com/20140721/n402534712.shtml" target="_blank">Ò½Éú¸Ã²»¸ÃÌý»¼ÕßµÄ</a></li>
+<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140722/n402555462.shtml" target="_blank" class="">·ÅÁÆÓÐÉ¶¸±×÷ÓÃ</a> <a title="" href="http://mt.sohu.com/20140722/n402560991.shtml" target="_blank" sdevindex="70">1/10µÄº¢×ÓÔøÊÜÐÔÇÖ</a> <a title="" href="http://mt.sohu.com/20140721/n402534682.shtml" target="_blank" class="">Ë­ÊÇ¡°°©ÖÐÖ®Íõ¡±</a></li>
+<li sdevindex="70"><span sdevindex="70"></span><a title="" href="http://mt.sohu.com/20140722/n402555401.shtml" target="_blank" sdevindex="70">Õ¦×è¶ÏÒÒ¸ÎÄ¸Ó¤´«²¥</a> <a title="" href="http://mt.sohu.com/20140722/n402563079.shtml" target="_blank" class="">Å®ÐÔÑøòþÉßµÄÐÄÀí</a> <a title="" href="http://aids-volunteer.blog.sohu.com/304421351.html" target="_blank">ÖÎÓú°¬×Ì²¡Ö®Â·</a></li></ul>
 				</div>
 			</div>
 			<!-- ½¡¿µ ³ÔºÈ End -->
@@ -4439,17 +4478,16 @@ sohu_auto_il_func_r();
 					<div class="clear"></div>
 				</div>
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://cul.sohu.com/#history" target="_blank" sdevindex="68"><img alt="Í¨¼é" src="http://i3.itc.cn/20140721/33d5_dc9212f2_b6b1_107e_576f_e2db927ea163_1.jpg" sdevindex="68"></a><span class="txt" sdevindex="68"><a href="http://cul.sohu.com/#history" target="_blank" sdevindex="68">³Í·£Í¨¼éÄÐÅ®¿áÐÌ</a></span></div>
+					<div class="picL"><a href="http://pic.book.sohu.com/group-561199.shtml" target="_blank" sdevindex="68"><img alt="µËÀö¾ýÕæÕýËÀÒò" src="http://i2.itc.cn/20140722/310a_dd746b38_8775_6c4f_feff_bb11ad9dc2f8_1.jpg" sdevindex="68"></a><span class="txt" sdevindex="68"><a href="http://pic.book.sohu.com/group-561199.shtml" target="_blank" sdevindex="68">µËÀö¾ýÕæÕýËÀÒò</a></span></div>
 					<div class="list14">
 						<ul sdevindex="72">
-<li sdevindex="72"><a href="http://history.sohu.com/s2014/jiluokeji/index.shtml" target="_blank" sdevindex="93"><font style="FONT-WEIGHT: normal">
-·ç²¨£º1954Äê½â·Å¾üÔøÎó»÷Ó¢¿Í»ú</font></a></li></ul>
+<li sdevindex="72"><a href="http://history.sohu.com/s2014/longzhong/index.shtml" target="_blank" sdevindex="93"><font style="FONT-WEIGHT: normal">ÃÀ°æ¿¹ÈÕÉñ¾çÍê±¬¹ú²ú¡°ÊÖËº¹í×Ó¡±</font></a></li></ul>
 						<ul sdevindex="72">
-<li sdevindex="72"><a title="" href="http://book.sohu.com/20140715/n402261858_4.shtml" target="_blank">ÖÐÈÕÕù¶áÑÇÖÞÀÏ´ó</a> <a href="http://book.sohu.com/20140715/n402261858_14.shtml" target="_blank" sdevindex="93">ÃÀ¹úÓÃ³¬ÏÞÕ½Ä±Àû</a></li></ul>
+<li sdevindex="72"><a title="" href="http://book.sohu.com/20140715/n402261858_6.shtml" target="_blank">ÈÕ±¾×îÃ»Õ½ÂÔÑÛ¹â</a> <a href="http://book.sohu.com/20140715/n402261858_14.shtml" target="_blank" sdevindex="93">ÃÀ¹úÓÃ³¬ÏÞÕ½Ä±Àû</a></li></ul>
 						<ul sdevindex="72">
-<li sdevindex="72"><a title="" href="http://cul.sohu.com/" target="_blank">º«º®£ºÎÒÊÇÀ´ÅÄµçÓ° ²»ÊÇÀ´ÅÄÂíÆ¨</a></li></ul>
+<li sdevindex="72"><a title="" href="http://cul.sohu.com/" target="_blank">Á½°¶¹Ê¹¬PK ¡°ÓÐ¹¬ÎÞ±¦¡±ÊÇÎó½â</a></li></ul>
 						<ul sdevindex="72">
-<li sdevindex="72"><a title="" href="http://cul.sohu.com/20140721/n402499641.shtml" target="_blank">Äß¿ï³Æ²»ÏëÖØÐ´¡¶ÎÀË¹Àí¡·</a> <a title="" href="http://cul.sohu.com/s2014/guoyue/" target="_blank">Ó¡Ïó¹úÀÖ</a></li></ul>
+<li sdevindex="72"><a title="" href="http://cul.sohu.com/" target="_blank">³ÏÆ·ÊéµêÓ®ÔÚºÎ´¦£¿</a> <a title="" href="http://cul.sohu.com/s2014/guoyue/" target="_blank">Ó¡Ïó¹úÀÖ</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>				
@@ -4457,28 +4495,26 @@ sohu_auto_il_func_r();
 					<ul sdevindex="68">
 <li sdevindex="68"><span sdevindex="68"><a href="http://history.sohu.com/" target="_blank">ÀúÊ·</a>| 
 
-</span><a href="http://history.sohu.com/" target="_blank" sdevindex="93">¸ß¸ÉÇ°ÆÞÅÑÌÓºó±©¸»</a> <a 
-
-href="
-http://history.sohu.com/" target="_blank">Ö÷Ï¯ÍíÄê×îÐÅÈÎË­</a> <a 
-
-href="http://history.sohu.com/20140721/n401677935.shtml" target="_blank">¾ü¶Ó¾­ÉÌ</a>  
+</span><a href="http://history.sohu.com/" target="_blank" sdevindex="93">½¯½éÊ¯°®´êÂé</a> <a href="
+http://history.sohu.com/" target="_blank">Ë­±ÆËÀÁËÊÀ½ç¹Ú¾ü</a> <a href="http://history.sohu.com/20140722/n402509073.shtml" target="_blank">¿ÏÄáµÏ¼Ò×å×çÖä</a>  
 
 </li></ul>
 					<ul sdevindex="68">
-<li sdevindex="68"><span sdevindex="68"><a href="http://cul.sohu.com/" target="_blank" sdevindex="68">ÎÄ»¯</a>| </span><a title="" href="http://cul.sohu.com/20140721/n402497948.shtml" target="_blank">¹ù¾´Ã÷½â¶Á¡¶Ð¡Ê±´ú¡·</a> <a title="" href="http://cul.sohu.com/20140721/n402496139.shtml" target="_blank">ÊÕ²Ø¼ÒÓÃ2.8ÒÚ¼¦¸×±­ºÈ²è</a></li></ul>
+<li sdevindex="68"><span sdevindex="68"><a href="http://cul.sohu.com/" target="_blank" sdevindex="68">ÎÄ»¯</a>| </span><a title="" href="http://cul.sohu.com/" target="_blank">ÑÏ¸èÜßÐ¡Ëµ¾Û½¹²»Â×Áµ</a> <a title="" href="http://cul.sohu.com/20140722/n402548164.shtml" target="_blank">Ê¯á¹ÒÅÖ·ÍêÕûÒÅ¹Ç¼ûÌìÈÕ</a></li></ul>
 					<ul sdevindex="68">
-<li sdevindex="68"><span sdevindex="68"><a href="http://book.sohu.com/" target="_blank" sdevindex="68">¶ÁÊé</a>| </span><a title="" href="http://book.sohu.com/" target="_blank">±ä·¨²ÅÄÜÇ¿¹ú</a> <a title="" href="http://book.sohu.com/s2014/kangrixuanyan/" target="_blank">½¯½éÊ¯ÂÛ³Ö¾ÃÕ½</a> <a title="" href="http://book.sohu.com/s2014/ribenav/" target="_blank">ÈÕ±¾AV</a> <a title="" href="http://book.sohu.com/s2014/nongminqiyi/" target="_blank">Å©ÃñÔì·´</a> </li></ul>
+<li sdevindex="68"><span sdevindex="68"><a href="http://book.sohu.com/" target="_blank" sdevindex="68">¶ÁÊé</a>| </span><a title="" href="http://book.sohu.com/" target="_blank">ÀîÐ¡ÁúÎä¹¦ÃØóÅ</a> <a title="" href="http://pic.book.sohu.com/group-563012.shtml#0" target="_blank">½­ÇàÈöÆÃ</a> <a title="" href="http://book.sohu.com/s2014/ribenav/" target="_blank">ÈÕ±¾AV</a> <a title="" href="http://book.sohu.com/s2014/daguo/" target="_blank">ÖÐ¹úÐèÅûÀÇÆ¤</a> </li></ul>
 					<ul sdevindex="68"> 
- <li sdevindex="68"><span sdevindex="68"><a href="http://arts.sohu.com/" target="_blank" sdevindex="68">ÒÕÊõ</a>| </span><a title="" href="http://arts.sohu.com" target="_blank">³Âµ¤Çà£ºÒÕÊõÔÚÒ°</a>
+ <li sdevindex="68"><span sdevindex="68"><a href="http://arts.sohu.com/" target="_blank" sdevindex="68">ÒÕÊõ</a>| </span><a title="" href="http://arts.sohu.com" target="_blank">¾«ÖÂÒÕÊõÉú»î</a>
 
-<a title="" href="http://arts.sohu.com/20140721/n402502493.shtml" target="_blank">ÒÕÊõÉúÍËÑ§´òÁ³Ä¸Ð£</a> 
+<a title="" href="http://arts.sohu.com/20140722/n402564765.shtml" target="_blank">ÁõµÂ»ª²Ø±í</a> 
 
-<a title="" href="http://arts.sohu.com/artcn/" target="_blank">Çà´ºÓûÅ®</a> 
+<a title="" href="http://arts.sohu.com/20140722/n402554222.shtml" target="_blank">Ë«ÄêÕ¹ËÄ¹Ö</a>
+
+<a title="" href="http://arts.sohu.com/20140722/n402555808.shtml?" target="_blank">Î¿°²¸¾Õ¹</a> 
 </li> 
 </ul>
 					<ul sdevindex="68">
-<li sdevindex="68"><span sdevindex="68"><a href="http://green.sohu.com/" target="_blank" sdevindex="68">ÂÌÉ«</a>| </span><a title="" href="http://pic.green.sohu.com/group-584493.shtml" target="_blank">ÃÀÑÞ³øÄïÍæ×ªºÚ°µÁÏÀí</a> </span><a title="" href="http://pic.green.sohu.com/group-563615.shtml" target="_blank">³èÎïÒ²·è¿ñ£ºµØÇò½»¸øÎÒÃÇ°É</a></li></ul>
+<li sdevindex="68"><span sdevindex="68"><a href="http://green.sohu.com/" target="_blank" sdevindex="68">ÂÌÉ«</a>| </span><a title="" href="http://pic.chihe.sohu.com/group-587345.shtml" target="_blank">É­ÁÖÏµÊ³Æ× ÃÀ´ÓÌì½µ</a> </span><a title="" href="http://pic.green.sohu.com/group-585636.shtml" target="_blank">ÕâÊÇÄãÃÎÃÂµÄÅ©³¡Éú»îÃ´</a></li></ul>
 				</div>
 			</div>
 			<!-- ÎÄ»¯ ¶ÁÊé End -->
@@ -4516,28 +4552,29 @@ href="http://history.sohu.com/20140721/n401677935.shtml" target="_blank">¾ü¶Ó¾­É
 					<div class="clear"></div>
 				</div>
 				<div class="PTGA" collection="Y">
-					<div class="picL"><a href="http://travel.sohu.com/" target="_blank"><img alt="º«¹ú¶¥¼¶¹úÑç" src="http://i2.itc.cn/20140721/31a1_cc8f4914_601b_c35b_ff87_8fc60c26955b_1.jpg"></a><span class="txt"><a href="http://travel.sohu.com/" target="_blank">º«¹ú¶¥¼¶¹úÑç</a></span></div>
+					<div class="picL"><a href="http://travel.sohu.com/" target="_blank"><img alt="»´ÑôÄàÄà¹·" src="http://i3.itc.cn/20140722/31a1_51aefb1c_2b5f_ec27_b84e_a971e68e67de_2.jpg"></a><span class="txt"><a href="http://travel.sohu.com/" target="_blank">ºÓÄÏ»´ÑôÄàÄà¹·</a></span></div>
 					<div class="list14">
 						<ul sdevindex="77">
-<li sdevindex="77"><span sdevindex="74"><a href="http://travel.sohu.com/" target="_blank" sdevindex="77">ÂÃÓÎ</a>| </span><a title="" href="http://travel.sohu.com/" target="_blank" class="">ÖØÇìÌì¿ÓµØÐÄÌ½ÏÕ</a> <a title="" href="http://travel.sohu.com/20140719/n402461800.shtml" target="_blank" sdevindex="77" class="">»ð³µÓÎ³¤³Ç</a></li>
-<li sdevindex="77"><a title="" href="http://travel.sohu.com/20140719/n402462132.shtml" target="_blank" sdevindex="77" class="">Äá²´¶ûÂý½Ú×àÉú»î</a> <a title="" href="http://travel.sohu.com/20140721/n402500542.shtml" target="_blank" class="">º½ÅÄÖÐ¹ú´óÃÀ°æÍ¼</a></li>
-<li sdevindex="77"><a title="" href="http://travel.sohu.com/20140719/n402461834.shtml" target="_blank" sdevindex="77" class="">ÕÅ¼Ò¿Ú·çÇé¸÷Òì²ÝÔ­</a> <a title="" href="http://travel.sohu.com/20140719/n402461878.shtml" target="_blank" sdevindex="77" class="">¶Ø»ÍÑÅµ¤Ä§¹í³Ç</a></li>
-<li sdevindex="77"><a title="" href="http://travel.sohu.com/20140718/n402461933.shtml" target="_blank" class="">¶«±±ÁùÈÕÓÎ2067Ôª</a> <a title="" href="http://travel.sohu.com/20140719/n402462299.shtml" target="_blank">±±´÷ºÓ³ÐµÂ880Ôª</a></li>
+<li sdevindex="77"><span sdevindex="74"><a href="http://travel.sohu.com/" target="_blank" sdevindex="77">ÂÃÓÎ</a>| </span><a title="" href="http://travel.sohu.com/" target="_blank" class="">Þ¹ÒÂ²Ý»¨ÏãÖÐµÄÐ¡³Ç</a> <a title="" href="http://travel.sohu.com/20140721/n402527996.shtml" target="_blank" sdevindex="77" class="">ÏÉ¾³ÅîÀ³</a></li>
+<li sdevindex="77"><a title="" href="http://travel.sohu.com/20140721/n402528278.shtml" target="_blank" sdevindex="77" class="">¾ÅÕ¯¹µ²»¿É´í¹ýÁÁµã</a> <a title="" href="http://travel.sohu.com/20140721/n402526603.shtml" target="_blank" class="">Ç§Äê¹ÅÕò´ÅÆ÷¿Ú</a></li>
+<li sdevindex="77"><a title="" href="http://travel.sohu.com/20140721/n402527903.shtml" target="_blank" sdevindex="77" class="">²ÝÔ­±ÜÊî×¢ÒâÉ¶</a> <a title="" href="http://travel.sohu.com/20140721/n402528297.shtml" target="_blank" sdevindex="77" class="">±±¾©ÐÔ¼Û±È×î¸ß¾°µã</a></li>
+<li sdevindex="77"><a title="" href="http://travel.sohu.com/20140721/n402528541.shtml" target="_blank" class="">1000¹«Àï²ÝÔ­×Ô¼Ý</a> <a title="" href="http://travel.sohu.com/20140721/n402526440.shtml" target="_blank">¼ÓµÂÂú¶¼°®ºÞ½»Ö¯</a></li>
 </ul>
 					</div>
 					<div class="clear"></div>
 				</div>				
 				<div class="list14" collection="Y">
 					<ul sdevindex="74">
-<li sdevindex="74"><a href="http://club.travel.sohu.com/lyts/thread/2fcb7eeo2uu" target="_blank" sdevindex="74">ÂÃÓÎÏÝÚå</a> <a href="http://hd.club.travel.sohu.com/qiwen/photo/2g3z2zkx2rh" target="_blank" sdevindex="74">°ÍÎ÷º£Ì²·çÇéÍòÖÖ</a> <a href="http://hd.club.travel.sohu.com/qiwen/photo/2gip4hzcy1z" target="_blank" sdevindex="74">º«¹úÄà½¬½Ú</a> <a title="" href="http://hd.club.travel.sohu.com/qiwen/photo/2g9fnfws5y1" target="_blank">ÊÀ½ç×îÃÀÐ¡³Ç</a> </li>
-<li sdevindex="74"><a title="" href="http://travel.sohu.com/20140719/n402462003.shtml" target="_blank">¶ëÃ¼É½³¯°Ý×î¸ß½ð·ð</a> <a title="" href="http://travel.sohu.com/20140719/n402462015.shtml" target="_blank">×éÍÅÊªÉíÇàÁúÏ¿</a> <a title="" href="http://travel.sohu.com/20140719/n402462020.shtml" target="_blank">×îÔ­ÉúÌ¬½­ÄÏ¹ÅÕò</a></li>
-<li sdevindex="74"><a title="" href="http://travel.sohu.com/20140721/n402500566.shtml" target="_blank">Ä¦ÄÉ¸ç¸»ÈËÉú»î</a> <a title="" href="http://travel.sohu.com/20140719/n402461949.shtml" target="_blank">¡°Å·ÖÞÀö½­¡±²¼Â³ÈÕ</a> <a title="" href="http://travel.sohu.com/20140719/n402462430.shtml" target="_blank">ÓÎÈýÇåÉ½µ¨Õ½ÐÄ¾ª</a></li>
+<li sdevindex="74"><a href="http://travel.sohu.com/20140721/n402526496.shtml" target="_blank" sdevindex="74">Ì½ÃØÎ÷ººÁ¸²Ö£º´ó·½ÅÌ³Ç</a> <a href="http://travel.sohu.com/20140721/n402526633.shtml" target="_blank" sdevindex="74">°ÍÀèÁé»êÈûÄÉºÓ</a> <a href="http://hd.club.travel.sohu.com/qiwen/photo/2gip4hzcy1z" target="_blank" sdevindex="74">º«¹úÄà½¬½Ú</a></li>
+<li sdevindex="74"><a title="" href="http://travel.sohu.com/20140721/n402528291.shtml" target="_blank">ÇØ»ÊµºÃÅÆ±ÌØ»Ý</a> <a title="" href="http://travel.sohu.com/20140721/n402527895.shtml" target="_blank">È¥º«¹ú¿´¶¼½ÌÊÚ3480Ôª</a> <a title="" href="http://travel.sohu.com/20140721/n402527790.shtml" target="_blank">µÏ°Ý5Ìì7600Ôª</a></li>
+<li sdevindex="74"><a title="" href="http://travel.sohu.com/20140721/n402527733.shtml" target="_blank">ÐÂÎ÷À¼Ð¡ÍÅ15500Ôª</a> <a title="" href="http://travel.sohu.com/20140721/n402527349.shtml" target="_blank">Ì©¹úÌØ¼Û2380Ôª</a> <a title="" href="http://travel.sohu.com/20140721/n402500542.shtml" target="_blank">º½ÅÄÖÐ¹ú´óÃÀ°æÍ¼</a></li>
 </ul>
 					<ul sdevindex="74">
-<li id=tour_news_line1 sdevindex="74"><span sdevindex="74"><a href="http://club.travel.sohu.com/" target="_blank" sdevindex="74">ÂÃÓÎÂÛÌ³</a>|</span> <a title="" href="http://club.travel.sohu.com/zz2152/thread/2gq6f1vfdtl?pvid=f5860b3e334ae283" target="_blank">Ë®ÔÆ¼ä ÆÕÕßºÚÓ¡Ïó</a> <a title="" href="http://club.travel.sohu.com/qiwen/thread/2gs0vb242nf?pvid=2b42d1f5e4192b22" target="_blank">¹Ï´ï£ºÊÀÍâÌÒÔ´Í¯»°Ð¡Õò</a></li>
+<li id=tour_news_line1 sdevindex="74"><span sdevindex="74"><a href="http://club.travel.sohu.com/" target="_blank" sdevindex="74">ÂÃÓÎÂÛÌ³</a>|</span> <a title="" href="http://club.travel.sohu.com/travel/thread/2hmctmw0qu3?pvid=f5860b3e334ae283" target="_blank">iphoneÅÄ³öÀ´µÄ×³ÃÀ¾°É«</a> <a title="" href="http://club.travel.sohu.com/togher/thread/2hnlqqv37hq?pvid=2b42d1f5e4192b22" target="_blank">ÏÄÍþÒÄÕäÖé¸ÛÒ»ÓÎ</a></li>
 </ul>
 					<ul sdevindex="75">
-<li id="tour_news_line2" sdevindex="75"><span sdevindex="75"></span><a titlae="" href="http://club.travel.sohu.com/travel/thread/2h3x04ac1js?pvid=9c004e9243c3909c" target="_blank">ÉñÓÎÒÁË¹Ì¹²¼¶ûµÄµØÏÂË®¹¬</a> <a title="" href="http://club.travel.sohu.com/togher/thread/2h0tfdds5e9?pvid=2e441ae2b0fd6805" target="_blank">º£ÛçÉ½Â¿ÓÑÖ®Ê¥µØ¿ñ»¶</a></li></ul>
+<li id="tour_news_line2" sdevindex="75"><span sdevindex="75"></span><a titlae="" href="http://club.travel.sohu.com/togher/thread/2hk65tc4w8y?pvid=9c004e9243c3909c" target="_blank">×îÃÀµÄÂ·ÉÏÊ±¹â ´óÃÀÎ÷²ØÐÐ</a> <a title="" href="http://club.travel.sohu.com/picture/thread/2hszj12uy64?pvid=2e441ae2b0fd6805" target="_blank">×ß·ÃÏ¼É½¹Å¾Ó´©Ô½Ê±¹â</a></li>
+</ul>
 				</div>
 			</div>
 			<!-- ÂÃÓÎ ½ÌÓý End -->
@@ -4552,23 +4589,23 @@ href="http://history.sohu.com/20140721/n401677935.shtml" target="_blank">¾ü¶Ó¾­É
 					<div class="clear"></div>
 				</div>
 				<div class="PTGA" collection="Y">
-					<div class="picL"><p><a href="http://pic.learning.sohu.com/group-585350.shtml#0" target="_blank"><img alt="ÄãËù²»ÖªµÀµÄÖÐ¹ú´óÑ§Ö®×î" src="http://i1.itc.cn/20140714/3238_e8e8d1e9_e86e_3ba8_a3fc_f65e424a7f8d_1.jpg" border="0"></a><span class="txt"><a href="http://pic.learning.sohu.com/group-585350.shtml#0" target="_blank">ÖÐ¹ú´óÑ§Ö®×î</a></span></p></div>
+					<div class="picL"><p><a href="http://pic.learning.sohu.com/detail-587139-0.shtml#0" target="_blank"><img alt="Ã÷ÐÇÒÕ¿¼ÄÚÄ»" src="http://i0.itc.cn/20140721/3196_bf8075a5_fa7b_37e7_1fc0_02da092b9d55_2.jpg" border="0"></a><span class="txt"><a href="http://pic.learning.sohu.com/detail-587139-0.shtml#0" target="_blank">Ã÷ÐÇÒÕ¿¼ÄÚÄ»</a></span></p></div>
 					<div class="list14">
 						<ul sdevindex="68">
-<li sdevindex="68"><a title="" href="http://learning.sohu.com/" target="_blank">½ü5Äê¸ß¿¼¼Ó·ÖÎè±×°¸¼þ8³ÉÏµÌåÓý¼Ó·Ö</a></li>
-<li sdevindex="68"><a title="" href="http://learning.sohu.com/20140721/n402495787.shtml" target="_blank">¿¼Éú³¬¶þ±¾Ïß±»½û±¨±¾¿Æ ÆðËß½ÌÓýÌü</a></li>
-<li sdevindex="68"><a href="http://learning.sohu.com/20140721/n402497652.shtml" target="_blank">ÀÏÊ¦Å­´ò91¸öÁã·Ö£ºÒÑ¾­×öºÃ°¤Âî×¼±¸</a></li>
-<li sdevindex="68"><a title="" href="http://learning.sohu.com/20140721/n402496965.shtml" target="_blank">Íø´«¸ßÐ£ÊÔÑéÄÐÅ®Ñ§ÉúºÏËÞ Ð£·½»ØÓ¦</a></li></ul>
+<li sdevindex="68"><a title="" href="http://learning.sohu.com/" target="_blank">½ÌÓý²¿ÔÍÄð¸ßÖÐÐÂ¿Î¸Ä ²»ÔÙ¼·¶ÀÄ¾ÇÅ</a></li>
+<li sdevindex="68"><a title="" href="http://learning.sohu.com/20140722/n402546959.shtml" target="_blank">Ö°Ð£ÕÐÉúÇ±¹æÔò£ºÀÏÊ¦ÂôÑ§ÉúÄÃ»Ø¿Û</a></li>
+<li sdevindex="68"><a href="http://learning.sohu.com/20140722/n402553463.shtml" target="_blank">´óÑ§Éú¸ß1.35Ã×ÇóÖ°Åö±Ú ×ÔÓª»ð¹øµê</a></li>
+<li sdevindex="68"><a title="" href="http://learning.sohu.com/20140722/n402553188.shtml" target="_blank">3Äê½£ÇÅ´óÑ§È°ÍË10¶àÎ»ÖÐ¹úÁôÑ§Éú</a></li></ul>
 					</div>
 					<div class="clear"></div>
 				</div>				
 				<div class="list14" collection="Y">
 					<ul sdevindex="77">
 <li sdevindex="77"><a title="" href="http://learning.sohu.com/20140707/n401880354.shtml" target="_blank">¸ß¿¼Â¼È¡²éÑ¯</a> <a title="" href="http://learning.sohu.com/20140721/n402498485.shtml" target="_blank">Ò»±¾¸ßÐ£Â¼È¡·ÖÊýÏß</a><a title="" href="http://mt.sohu.com/20140721/n402525460.shtml" target="_blank"> ÖÐ¹ú´óÑ§¶àÏîÖ¸±ê°ñ</a> </li>
-<li sdevindex="77"><a href="http://pic.learning.sohu.com/group-583964.shtml#0" target="_blank">¸ß¿¼ÎÄÀí¿Æ×îÄÑ¿¼µÄÊ®Ëù´óÑ§</a><a title="" href="http://pic.learning.sohu.com/group-587176.shtml#0" target="_blank"> ÄÇÐ©±»×·ÅõµÄ³¬¼¶Ñ§°ÔÃÇ</a></li>
-<li sdevindex="77"><a title="" href="http://learning.sohu.com/20140721/n402504902.shtml" target="_blank">½£ÇÅ3ÄêÈ°ÍË10¶àÃûÖÐ¹úÉú</a> <a title="" href="http://mt.sohu.com/20140721/n402503820.shtml" target="_blank">ÃÀ¹ú×â·¿ÏÝÚå</a> <a title="" href="http://mt.sohu.com/20140721/n402502157.shtml" target="_blank">EMBAÓö¹Õµã</a> </li>
-<li sdevindex="77"><a href="http://mt.sohu.com/20140721/n402518813.shtml" target="_blank">6ËêÇ°±ØÐëÁ¢ÏÂµÄ6´ó¹æ¾Ø</a> <a title="" href="http://mt.sohu.com/20140721/n402504695.shtml" target="_blank">ÁÖÖÎ²¨ÔâÖÊÒÉ</a> <a title="" href="http://mt.sohu.com/20140721/n402504904.shtml" target="_blank">Ò×»ÙµôÍÞµÄ°Ö°Ö</a> </li>
-<li sdevindex="77"><a title="" href="http://pic.learning.sohu.com/group-584354.shtml#0" target="_blank">»ÆÀÚµÄÑøÅ®ÃØóÅ</a> <a title="" href="http://pic.learning.sohu.com/group-587201.shtml#0" target="_blank">Î¨ÃÀÐ£»¨¶¼¼Þ¸øË­£¿</a> <a title="" href="http://pic.learning.sohu.com/group-587139.shtml#0" target="_blank">Ã÷ÐÇÒÕ¿¼ÄÚÇéÆØ¹â</a> </li></ul>
+<li sdevindex="77"><a href="" target="_blank"></a><a title="" href="http://pic.learning.sohu.com/group-585350.shtml#0" target="_blank">ÄãËù²»ÖªµÀµÄÖÐ¹ú´óÑ§Ö®×î</a> <a title="" href="http://pic.learning.sohu.com/group-587330.shtml#0" target="_blank">Çå»ª´óÑ§±ÏÒµµÄÊ®´óÃûÈË</a></li>
+<li sdevindex="77"><a title="" href="http://mt.sohu.com/20140722/n402561010.shtml" target="_blank">¹þ·ð´óÑ§ÃÅÆ±¶àÉÙÇ®£¿</a> <a title="" href="http://goabroad.sohu.com/20140722/n402555635.shtml" target="_blank">ÃÀÒÆÃñ¸Ä¸ïÌ¥ËÀ¸¹ÖÐ</a> <a title="" href="http://mt.sohu.com/20140721/n402502157.shtml" target="_blank">EMBAÓö¹Õµã</a> </li>
+<li sdevindex="77"><a href="http://mt.sohu.com/20140722/n402555510.shtml" target="_blank">ÃÀ¹úº¢×Ó¼ÒÎñÇåµ¥</a> <a title="" href="http://mt.sohu.com/20140721/n402534688.shtml" target="_blank">Óë¸ô´ú½ÌÑø¶·ÖÇ¶·ÓÂ</a> <a title="" href="http://mt.sohu.com/20140722/n402555415.shtml" target="_blank">ÅàÑøÀÖ¹ÛÍÞÃØ¾÷</a> </li>
+<li sdevindex="77"><a title="" href="http://pic.learning.sohu.com/group-583964.shtml#0" target="_blank">¸ß¿¼ÎÄÀí¿Æ×îÄÑ¿¼µÄ´óÑ§</a> <a title="" href="http://pic.learning.sohu.com/group-587201.shtml#0" target="_blank">Î¨ÃÀÐ£»¨¼ÞÁËË­</a> <a title="" href="http://pic.learning.sohu.com/group-587324.shtml#0" target="_blank">ÍËÑ§´´Òµ´óÀÐ</a> </li></ul>
 				</div>
 			</div>
 			<!-- ½ÌÓý ¸ß¿¼ End -->
@@ -4651,51 +4688,52 @@ sohuFlash2.write('beans_10103');
 						<div class="picL"><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-20/20140720093941173_24.shtml" target="_blank"><img alt=ÃÃ×ÓÄÚÒÂÂ¶³öÀ´ÁË src="http://i3.17173.itc.cn/2014/news/2014/07/21/0721dgtj1.jpg"></a><span class="txt"><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-20/20140720093941173_24.shtml" target="_blank">ÃÃ×ÓÄÚÒÂÂ¶³öÀ´ÁË</a></span></div>
 						<div class="list14">
 							<ul>
-<li><span><a href="http://www.17173.com/?adref=adsid_15036_15248" target="_blank">17173</a>| </span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721000324192.shtml?ads=0a7671e0ce7999c566962459061bfd73?adref=adsid_15036_15248" target="_blank">
-×î×¬Ç®ÍøÓÎ:WOWÊÕÈë³¬¹ýCF</a></li>
+<li><span><a href="http://www.17173.com/?adref=adsid_15036_15248" target="_blank">17173</a>| </span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722044511992_1.shtml?ads=0a7671e0ce7999c566962459061bfd73?adref=adsid_15036_15248" target="_blank">
+DOTA2 TI4 Newbee¶áµÃ¹Ú¾ü</a></li>
 
-<li><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721100045901_1.shtml?adref=adsid_15036_15248" target="_blank">Íâ¹Ò»ÙÁËºÃÍøÓÎ</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-20/20140720050737414_1.shtml?adref=adsid_15036_15248" target="_blank">ÕâÊÇ±äÐÎ½ð¸ÕµÄÕæ°®</a></li>
+<li><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722055916824_1.shtml?adref=adsid_15036_15248" target="_blank">CJÀ×‡åË²¼ä»Ø¹Ë</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722061635950_1.shtml?adref=adsid_15036_15248" target="_blank">TI4¹Ú¾ü½±½ðÔõÃ´»¨</a></li>
 
-<li><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-20/20140720000101379_1.shtml?adref=adsid_15036_15248" target="_blank">
-ÂåÓ¢ÐÂÖ°ÒµÔ¤¸æ</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721094452074_1.shtml?adref=adsid_15036_15248" target="_blank">On GreenÊÓÆµ·Å³ö</a></li>
+<li><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722013230980.shtml?adref=adsid_15036_15248" target="_blank">
+´óº½º£Ê±´ú5½«½øÖÐ¹ú</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722095031335_1.shtml?adref=adsid_15036_15248" target="_blank">ÂåÓ¢ÐÂÖ°ÒµÕæÈÝ</a></li>
 
-<li><a href="http://news.shouyou.com/news/07212014/091743713.shtml" target="_blank">ÊÖÓÎÍøÒ»ÖÜ¶ÁÊý</a> <a href="http://17173.tv.sohu.com/z_1_11681/MTYzOTMxODM.html?adref=adsid_15036_15248" target="_blank">Dota2 DKÕ½¶Ó¼ÍÂ¼Æ¬</a></li>
+<li><a href="http://news.shouyou.com/news/07212014/161118073_1.shtml" target="_blank">ÊÖÓÎÍøÐÂÓÎÒ»ÖÜÍÆ¼ö</a> <a href="http://dota2.17173.com/news/07222014/094529163.shtml?adref=adsid_15036_15248" target="_blank">DOTA2Ä©ÈÕÊ¹Õß</a></li>
 </ul>
 						</div>
 						<div class="clear"></div>
 					</div>
 					<div class="list14" collection="Y">
 						<ul>
-<li><span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2182&amp;g_url=http://chanye.17173.com/?adref=adsid_15036_15248" target="_blank">²úÒµ</a>| </span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721095031096.shtml?adref=adsid_15036_15248" target="_blank">Xbox 360ÏúÁ¿»÷°ÜXbox One</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721092818411.shtml?adref=adsid_15036_15248" target="_blank">
-XboxÅ·ÖÞ²¿ÃÅ75%ÀëÖ°</a></li>
-<li><span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2182&amp;g_url=http://www.17173.com/?adref=adsid_15036_15248" target="_blank">ÍøÓÎ</a>| </span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721092311817.shtml?adref=adsid_15036_15248" target="_blank">ÓÐÄÚ¹ºµÄÓÎÏ·±ðËµÃâ·Ñ</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-21/20140721093238304.shtml?adref=adsid_15036_15248" target="_blank">ÉñÃØº£ÓòµçÓ°°æ2015¿ª»ú</a></li></ul>
+<li><span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2182&amp;g_url=http://chanye.17173.com/?adref=adsid_15036_15248" target="_blank">²úÒµ</a>| </span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722091547207.shtml?adref=adsid_15036_15248" target="_blank">
+Xbox OneÏúÁ¿6¸öÔÂ°Ü¸øPS4</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722093547932.shtml?adref=adsid_15036_15248" target="_blank">
+ÔÆÓÎ¿Ø¹É·¢Ó¯Àû¾¯¸æ</a></li>
+<li><span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2182&amp;g_url=http://www.17173.com/?adref=adsid_15036_15248" target="_blank">ÍøÓÎ</a>| </span><a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722091634901.shtml?adref=adsid_15036_15248" target="_blank">µç×Ó¾º¼¼ÈëÐÐÃÅ¼÷¸ß</a> <a href="http://upload.zj.17173.com/ggcount/go.php?g_id=2637&amp;g_url=http://news.17173.com/content/2014-07-22/20140722092753890.shtml?adref=adsid_15036_15248" target="_blank">6ÔÂÊý×ÖÓÎÏ·ÊÐ³¡×ÜÊÕÈë48ÒÚ</a></li></ul>
 						<ul sdevindex="93">
-<li sdevindex="93"><span sdevindex="93"><a href="http://astro.women.sohu.com/" target="_blank" sdevindex="93">ÐÇ×ù</a>| </span><a title="" href="http://astro.women.sohu.com/" target="_blank" sdevindex="93">±¾ÖÜÏêÏ¸ÔËÊÆ</a> <a title="" href="http://astro.women.sohu.com/20140718/n402377341.shtml" target="_blank" sdevindex="93">½ÌÄãÔõÑùÍìÁôÇ°Å®ÓÑ</a> <a title="" href="http://astro.women.sohu.com/20140721/n402431304.shtml" target="_blank">7.21¿ªÔËÒË¼É</a></li></ul>
+<li sdevindex="93"><span sdevindex="93"><a href="http://astro.women.sohu.com/" target="_blank" sdevindex="93">ÐÇ×ù</a>| </span><a title="" href="http://astro.women.sohu.com/" target="_blank" sdevindex="93">±¾ÖÜÏêÏ¸ÔËÊÆ</a> <a title="" href="http://astro.women.sohu.com/20140722/n401120199.shtml" target="_blank" sdevindex="93">Ê®¶þÐÇ×ùµÄ»éÒöÎóÇø</a> <a title="" href="http://astro.women.sohu.com/20140721/n402431304.shtml" target="_blank">7.22¿ªÔËÒË¼É</a></li></ul>
 						<ul sdevindex="93">
 <li sdevindex="93"><span sdevindex="93"><a href="http://astro.women.sohu.com/" target="_blank" sdevindex="93">²âÊÔ</a>| </span><a title="" href="http://pic.astro.sohu.com/group-491442.shtml" target="_blank">Ð×¶ñÅ®ÈËÃæÏà</a> <a href="http://pic.astro.sohu.com/group-587050.shtml" target="_blank" sdevindex="93">12ÐÇ×ùÐÔ¸ñÈ±ÏÝ</a> <a href="http://astro.women.sohu.com/20140721/n402482189.shtml" target="_blank" sdevindex="93">²âÊÔÇéÓûÈçºÎ</a></li></ul>
 						<ul>
-<li><span><a href="http://caipiao.sohu.com/" target="_blank">²ÊÆ±</a>| </span><a title="" href="http://caipiao.sohu.com/" target="_blank">ÖÐ1000ÍòµÈË³Â·Ê±²ÅÁì</a> <a title="" href="http://caipiao.sohu.com/" target="_blank">ÀÏ°å·è¿ñ¹º²Ê×ßÉÏÆÆ²úÂ·</a></li></ul>
+<li><span><a href="http://caipiao.sohu.com/" target="_blank">²ÊÆ±</a>| </span><a title="" href="http://caipiao.sohu.com/" target="_blank">Âíº½×¹»Ù¿Í»ú²ÊÆ±ºÅÔâ·èÇÀ</a> <a title="" href="http://caipiao.sohu.com/lotto/dlt/" target="_blank">´óÀÖÍ¸½±³Ø´ï8.75ÒÚ</a></li></ul>
 					</div>
 				</div>
 				<div id="gamecontent2" class="hidden">
 					<div class="PTGA" collection="Y">
-						<div class="picL"><A href="http://v.17173.com/show/l/liveRoomRandom.action?vid=sohusy_show" target=_blank sdevindex="24"><IMG alt= ÉÙÅ®ÎªÇéËùÀ§ src="http://i3.17173.itc.cn/2014/live/07/21/sohu.gif" sdevindex="24"><I class=play></I></A><SPAN class=txt sdevindex="24"><A href="http://v.17173.com/show/l/liveRoomRandom.action?vid=sohusy_show" target=_blank sdevindex="24">ÉÙÅ®ÎªÇéËùÀ§</A></SPAN></div>
+						<div class="picL"><A href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1137&vid=sohusy_live" target=_blank sdevindex="24"><IMG alt= ÍõÕß¿¨ÅÆ src="http://img.itc.cn/photo/oleToEkTlTb" sdevindex="24"><I class=play></I></A><SPAN class=txt sdevindex="24"><A href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1137&vid=sohusy_live" target=_blank sdevindex="24">ÍõÕß¿¨ÅÆ</A></SPAN></div>
 						<div class="list14">
 							<ul>
-			 					<li><span><a class="vd-icon-s" href="http://v.17173.com?vid=sohusy" target="_blank">17173ÊÓÆµ</a>| </span><a href="http://17173.tv.sohu.com/v_1_11681/MTYzNzY1NDg.html?vid=sohusy_db" target="_blank">NewbeeÓëVG»áÊ¦Ti4¾öÈü</a></li>
-				     	                        <li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1220&vid=sohusy_live" target="_blank">½£Áé½£Ê¿PVE³¬Ç¿±¬·¢Ò»Ì×´ø×ßÎäÉñ</a></li>
-								<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1137&vid=sohusy_live" target="_blank">Ó¢ÐÛÁªÃË·¨Íâ¿ñÍ½ÊÖ¶ÌÇ¹³¤±¬·¢ADC</a></li>
-								<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1839&vid=sohusy_live" target="_blank">DNF´´ÐÂÊÀ¼Íºó¼«ÎäÊ¥Ë¢Í¼¼Óµã½ÌÑ§</a></li>
+			 					<li><span><a class="vd-icon-s" href="http://v.17173.com?vid=sohusy" target="_blank">17173ÊÓÆµ</a>| </span><a href="http://17173.tv.sohu.com/v_1_11681/MTY0NjY3MzU.html?vid=sohusy_db" target="_blank">ÖÐ¹úNewbeeÕ½¶Ó¶á¹ÚTI4</a></li>
+				     	                        <li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1220&vid=sohusy_live" target="_blank">½£ÁéÈ­Ê¦ÂÝÐýÃÔ¹¬¼«ÏÞÊä³ö¹¥ÂÔ</a></li>
+								<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1137&vid=sohusy_live" target="_blank">Ó¢ÐÛÁªÃËÍõÕß¼¶ÉÏµ¥½£Ê¥´ò·¨½ÌÑ§</a></li>
+								<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1839&vid=sohusy_live" target="_blank">DNFÆ½Ãñ×°½£ºÀÅ­Ë¢ÉîÔ¨Ö±²¥½ÌÑ§</a></li>
 						</div>
 						<div class="clear"></div>
 					</div>
 					<div class="list14" collection="Y">
 						<ul>
-							<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1220&vid=sohusy_live" target="_blank">½£ÁéÕÙ»½Ê¦ÎÞÉËÍ¨¹Ø»ðÅÚÀ¼</a> <a href="http://17173.tv.sohu.com/v_1_40000001/MTYzMjAwODc.html?vid=sohusy_db"target="_blank">Å®ÉñÌÆæÌÐÔ¸Ð´úÑÔÍøÓÎMV</a></li>
-							<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1137&vid=sohusy_live" target="_blank">LOL³å·æÏÝÕóµÄÎÞË«ÂÀ²¼</a> <a href="http://17173.tv.sohu.com/v_1_12034/MTYzNzA5OTA.html?vid=sohusy_db"target="_blank">Áé»ê»ØÏì¡·2²â×¨Òµ²âÆÀ½âËµ</a></li>
-							<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1839&vid=sohusy_live" target="_blank">´©Ô½»ðÏß°ÍÀ×ÌØ±ÈÈüÍÀÂ¾¼Ç</a> <a href="http://17173.tv.sohu.com/v_1_1000095/MTYzMTExOTk.html?vid=sohusy_db" target="_blank">¡¶Ä§½£Ó¢ÐÛ¡·¹ú·þÔ¤¸æÆ¬</a></li>
-							<li><a class="vd-icon-s" href="http://17173.tv.sohu.com/v_3_3009805/MTYzOTE0Njg.html?vid=sohusy_db" target="_blank">´óÕ½Éà¼âÉÏµÄµç¾â¸ç£¡</a> <a href="http://17173.tv.sohu.com/v_3_3009625/MTYzOTEyODQ.html?vid=sohusy_db" target="_blank">´Ì¿ÍÐÅÌõ ÌæÉí´ïÈË½ÌÄãÍæÅÜ¿á</a></li>
-							<li><a class="vd-icon-s" href="http://17173.tv.sohu.com/v_4_4036332/MTYyOTYxMDc.html?vid=sohusy_db" target="_blank">ÐÔ¸ÐÃÈÃÃ±©×á¸çË¹À­</a> <a href="http://17173.tv.sohu.com/v_4_4035222/MTYzMjU0MzY.html?vid=sohusy_db" target="_blank">ÃÈÃÃ×ÓÍÂ²ÛµãÆÀ¡¶¸ñ¶·½­ºþ¡·</a></li>
+							<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1220&vid=sohusy_live" target="_blank">½£ÁéÕÙ»½Ê¦ÎÞÉËÍ¨¹Ø»ðÅÚÀ¼</a> <a href="http://17173.tv.sohu.com/v_1_10898/MTY0NjUwMjU.html?vid=sohusy_db"target="_blank">×îÇ¿ÊÆµÄ¸¨Öú£¡Êï¹âÅ®Éñ</a></li>
+							<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1137&vid=sohusy_live" target="_blank">LOL³å·æÏÝÕóµÄÎÞË«ÂÀ²¼</a> <a href="http://17173.tv.sohu.com/v_1_1000297/MTY0NjY3MTU.html?vid=sohusy_db"target="_blank">´ÎÊÀ´ú´«Ææ¡¶´«ÆæÓÀºã¡·</a></li>
+							<li><a class="vd-icon-s" href="http://v.17173.com/live/index/randomLiveByGameId.action?gameId=1839&vid=sohusy_live" target="_blank">´©Ô½»ðÏß°ÍÀ×ÌØ±ÈÈüÍÀÂ¾¼Ç</a> <a href="http://17173.tv.sohu.com/v_1_11290/MTY0MzE3Mjg.html?vid=sohusy_db" target="_blank">Ì¹¿ËÊÀ½ç¾«²Ê¾µÍ·TOP10</a></li>
+							<li><a class="vd-icon-s" href="http://17173.tv.sohu.com/v_3_3009625/MTY0NTAwMzM.html?vid=sohusy_db" target="_blank">ÓùÌì³¬Ç¿´ò»÷¸ÐÊÔÍæ</a> <a href="http://17173.tv.sohu.com/v_3_3009625/MTY0NjcwMTc.html?vid=sohusy_db" target="_blank">¡¶ÂíÀï°ÂÈü³µ8¡·±à¼­²¿´óÈü</a></li>
+							<li><a class="vd-icon-s" href="http://17173.tv.sohu.com/v_4_40000008/MTY0NjY0Njc.html?vid=sohusy_db" target="_blank">Ä§¿ÍÅÉ67£º¡¶·è¿ñµÄ×Óµ¯¡·</a> <a href="http://17173.tv.sohu.com/v_4_4036299/MTYzMjA4MjQ.html?vid=sohusy_db" target="_blank">Æ¶Èé±§ÉÏ´² E±­ÈÓ¹ýÇ½</a></li>
 						</ul>
 					</div>
 				</div>
@@ -4777,11 +4815,11 @@ XboxÅ·ÖÞ²¿ÃÅ75%ÀëÖ°</a></li>
 							<ul>
 <li><a href="http://vip.book.sohu.com/" target="_blank">ÓãÌÁÖ®Áµ£ºÉ¼É¼À´³Ô</a> <a href="http://vip.book.sohu.com/book/123667/" target="_blank">Àä»Ê³Õ²øÉ±ÊÖåú</a></li>
  
-<li><a href="http://vip.book.sohu.com/book/114903/" target="_blank">ÉòÐ¡ÈôµÄ°®Çé</a> <a href="http://vip.book.sohu.com/book/146242/" target="_blank">²×óÏÌ¤¸è£ºÇå¹¬ìäåú´«</a></li>
+<li><a href="http://vip.book.sohu.com/book/148591/" target="_blank">ÈëéçÊ¦ÁéÒìÂ¼</a> <a href="http://vip.book.sohu.com/book/146242/" target="_blank">²×óÏÌ¤¸è£ºÇå¹¬ìäåú´«</a></li>
  
 <li><a href="http://vip.book.sohu.com/book/101645/" target="_blank">É½ºÓÎª¸è£ºÒ»ÊÀÇã³Ç</a> <a href="http://vip.book.sohu.com/book/123148/" target="_blank">ÈýÇ§³Õ²ø×íºì×±</a></li>
  
-<li><a href="http://vip.book.sohu.com/book/138189/" target="_blank">ÕûËÀ×Ü²ÃÎ´»é·ò</a> <a href="http://vip.book.sohu.com/book/150265/" target="_blank" sdevindex="96">ÔÙ»éÒ»Äê¼ä£ºÀäÅ¯°®</a></li>
+<li><a href="http://vip.book.sohu.com/book/148835/" target="_blank">³¤ÏàÊØ£ºå·åú´«</a> <a href="http://vip.book.sohu.com/book/150265/" target="_blank" sdevindex="96">ÔÙ»éÒ»Äê¼ä£ºÀäÅ¯°®</a></li>
 </ul>
 						</div>
 						<div class="clear"></div>
@@ -4790,15 +4828,14 @@ XboxÅ·ÖÞ²¿ÃÅ75%ÀëÖ°</a></li>
 						<ul sdevindex="96"  >
 <li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/all/?&bs=2" target="_blank" sdevindex="96">Ç¿ÍÆ</a>| </span><a href="http://vip.book.sohu.com/book/148908/" target="_blank" sdevindex="96">Ò»³Ç·ÉÑ©Ò»³Ç»¨</a> <a href="http://vip.book.sohu.com/book/101482/" target="_blank" sdevindex="96">µÛÅ®»Êºó£º·ï»ËÓÚ·É</a> <a href="http://vip.book.sohu.com/book/140881/" target="_blank" sdevindex="96">Ñ©ÖÐº·µ¶ÐÐ</a> </li>
 
-<li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/all/?ord=4" target="_blank" sdevindex="96">»ð±¬</a>| </span><a href="http://vip.book.sohu.com/book/137423/" target="_blank" sdevindex="96">¶¹¸¯Î÷Ê©£ºÀäÉÙµÄ±¿ÆÞ</a> <a href="http://vip.book.sohu.com/book/149217/" target="_blank" sdevindex="96">Ê£Å®Ò²³ÔÏã</a> <a href="http://vip.book.sohu.com/book/148818/" target="_blank" sdevindex="96">¸ßÝ·Ý·´´Òµ¼Ç</a> </li>
+<li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/all/?ord=4" target="_blank" sdevindex="96">»ð±¬</a>| </span><a href="http://vip.book.sohu.com/book/150039/" target="_blank" sdevindex="96">»Êºó³É³¤¼Ç£ºÓñ±¾Çã³Ç</a> <a href="http://vip.book.sohu.com/book/149217/" target="_blank" sdevindex="96">Ê£Å®Ò²³ÔÏã</a> <a href="http://vip.book.sohu.com/book/115479/" target="_blank" sdevindex="96">½ñÉúÔµÀ´ÉúÐø</a> </li>
 
 <li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/category/6/" target="_blank" sdevindex="96">Éñ×÷</a>| </span><a href="http://vip.book.sohu.com/book/134782/" target="_blank" sdevindex="96">»éÓ¹ÎÞµÀ£º¸ºÐÄÀÏ¹«</a> <a href="http://vip.book.sohu.com/book/146412/" target="_blank" sdevindex="96">ÃûÃÅÆúåú</a> <a href="http://vip.book.sohu.com/book/125878/" target="_blank" sdevindex="96">³Õ²ø£ºÇéÏò±ßÔµÉú</a></li>
 
-<li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/category/5/" target="_blank" sdevindex="96">ÈÈÏú</a>| </span><a href="http://vip.book.sohu.com/book/147336/" target="_blank" sdevindex="96">áÛ·å´«Ææ£ºÔª¶¦</a> <a href="http://vip.book.sohu.com/book/147083/" target="_blank" sdevindex="96">ÇÜ»ñÄãÐÄ£ºµÕÅ®ÄÑÇó</a> <a href="http://vip.book.sohu.com/book/147268/" target="_blank">Ð¡Ô°´ºÀ´Ôç</a></li>
+<li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/category/5/" target="_blank" sdevindex="96">ÈÈÏú</a>| </span><a href="http://vip.book.sohu.com/book/147336/" target="_blank" sdevindex="96">áÛ·å´«Ææ£ºÔª¶¦</a> <a href="http://vip.book.sohu.com/book/147083/" target="_blank" sdevindex="96">ÇÜ»ñÄãÐÄ£ºµÕÅ®ÄÑÇó</a> <a href="http://vip.book.sohu.com/book/149082/" target="_blank">½£Áè¾ÅÖØÌì</a></li>
 
 <li sdevindex="96"  ><span sdevindex="96"  ><a href="http://vip.book.sohu.com/all/?&vip=1" target="_blank" sdevindex="96">¾«Æ·</a>| </span><a href="http://vip.book.sohu.com/book/118973/" target="_blank" sdevindex="96">»Êºó²»Ì¸Çé</a> <a href="http://vip.book.sohu.com/book/146372/" target="_blank" sdevindex="96">ÉîÇéÄÑ¸º£ºÇãÊÀð½¸è</a> <a href="http://vip.book.sohu.com/book/131294/" target="_blank" sdevindex="96">¸¹ºÚ×Ü²ÃÏ·Õ¬Å®</a></li>
 </ul>
-
 					</div>
 				</div>				
 				<div id="smscontent2" class="hidden">
@@ -4869,9 +4906,9 @@ XboxÅ·ÖÞ²¿ÃÅ75%ÀëÖ°</a></li>
 	var display_by_ip_scroll_delay = 20000;
 //	¶¨ÒåÊôÐÔ£ºÏÔÊ¾ÎÄ×Ö£¬Á´½ÓµØÖ·£¬Êó±êÐüÍ£ÌáÊ¾£¬Ä¿±ê¿ò¼Ü
 	var display_by_ip_txt_array = new Array();
-	display_by_ip_txt_array[1] = Array("ÉÏº£µçÐÅ»ØÀ¡°ÙÍòÓÃ»§", "http://news.sms.sohu.com/20140714/n402207117.shtml", "ÉÏº£µçÐÅ»ØÀ¡°ÙÍòÓÃ»§", "_blank");
-	display_by_ip_txt_array[1]["CN11/±±¾©"] = Array("ÉÏº£µçÐÅ»ØÀ¡°ÙÍòÓÃ»§", "http://news.sms.sohu.com/20140714/n402207117.shtml", "ÉÏº£µçÐÅ»ØÀ¡°ÙÍòÓÃ»§", "_blank");
-	display_by_ip_txt_array[1]["CN44/¹ã¶«"] = Array("ÉÏº£µçÐÅ»ØÀ¡°ÙÍòÓÃ»§", "http://news.sms.sohu.com/20140714/n402207117.shtml", "ÉÏº£µçÐÅ»ØÀ¡°ÙÍòÓÃ»§", "_blank");
+	display_by_ip_txt_array[1] = Array("ÈðË¼±­¾©ÈüÇøÔ²ÂúÂäÄ»", "http://news.sms.sohu.com/20140722/n402574277.shtml", "ÈðË¼±­¾©ÈüÇøÔ²ÂúÂäÄ»", "_blank");
+	display_by_ip_txt_array[1]["CN11/±±¾©"] = Array("ÈðË¼±­¾©ÈüÇøÔ²ÂúÂäÄ»", "http://news.sms.sohu.com/20140722/n402574277.shtml", "ÈðË¼±­¾©ÈüÇøÔ²ÂúÂäÄ»", "_blank");
+	display_by_ip_txt_array[1]["CN44/¹ã¶«"] = Array("ÈðË¼±­¾©ÈüÇøÔ²ÂúÂäÄ»", "http://news.sms.sohu.com/20140722/n402574277.shtml", "ÈðË¼±­¾©ÈüÇøÔ²ÂúÂäÄ»", "_blank");
 
 	var sohu_IP_Loc_t = "";
 	if (typeof(sohu_IP_Loc) != "undefined")
@@ -5091,19 +5128,19 @@ sohuFlash2.write('beans_11454');
 			<!-- ADÎÄ×ÖÁ´½Ó -->
 			<SOHUADCODE><div class="list12">
 <ul>
-<li><a href="http://money.sohu.com/20140721/n402498126.shtml" target=_blank>ÈýÊ®Î´¸»ÎÒÃÇ»¹ÓÐ»ú»áÂð£¿</a></li>
+<li><a href="http://money.sohu.com/20140722/n402498452.shtml" target=_blank>Í¶×Êº£Íâ·¿²úÈ¥ÄÄ¶ù¿¿Æ×£¿</a></li>
 
-<li><a href="http://money.sohu.com/20140721/n402473044.shtml" target=_blank>Âíº½±¯¾ç ±£ÏÕ¹«Ë¾²»Åâ£¿</a></li>
+<li><a href="http://money.sohu.com/20140722/n402548959.shtml" target=_blank>ÈËÉíÒâÍâÏÕÄÄÐ©ÒâÍâ²»Åâ£¿</a></li>
 
-<li><a href="http://money.sohu.com/20140721/n402498517.shtml" target=_blank>ÕË»§ÉÙ5000 ÒøÐÐ¸øÉñ»Ø¸´</a></li>
+<li><a href="http://money.sohu.com/20140722/n402548864.shtml" target=_blank>P2PÄÖ²úÆ·»Ä Æ±¾ÝÀí²ÆÀ´Ï®</a></li>
 
-<li><a href="http://money.sohu.com/20140721/n402497940.shtml" target=_blank>ÆßÔÂÏû·ÑÕßÍ¶±£Ñ¡Ôñ¿ÉÕæ¶à</a></li>
+<li><a href="http://money.sohu.com/20140722/n402550077.shtml" target=_blank>ÐÅÓÃ¿¨¼ÓÓÍ·µÏÖºó±»¿Û»ý·Ö</a></li>
 
-<li><a href="http://money.sohu.com/20140721/n402497933.shtml" target=_blank>ÓÐ±£ÕÏÒ²ÊÇ¶ÔÈËÉú¸ºÔð(Í¼)</a></li>
+<li><a href="http://money.sohu.com/20140722/n402549911.shtml" target=_blank>¾Å³ÉÈËÎ´Ïí¹«»ý½ð¹º·¿Êµ»Ý</a></li>
 
-<li><span><a href="http://club.money.sohu.com/l-licai-0-1-900-0.html" target=_blank>ÉçÇø</a>|</span> <a href="http://club.money.sohu.com/licai/thread/2hgmfes76nx" target=_blank>Àí²ÆÐÅ×¨¼Òº¦²ÒÎÒÁË</a></li>
+<li><span><a href="http://club.money.sohu.com/l-licai-0-1-900-0.html" target=_blank>ÉçÇø</a>|</span> <a href="http://club.money.sohu.com/licai/thread/2hpvwui8yo8" target=_blank>Í»È»·¢ÏÖÎÒ³ÉÁË²ÆÃÔ</a></li>
 
-<li><span><a href="http://club.money.sohu.com/l-licai-0-1-900-0.html" target=_blank>ÉçÇø</a>|</span> <a href="http://club.money.sohu.com/licai/thread/2hm1iohyfz4"  target=_blank>ËµÒ»Ëµ±äÎ¶µÄ²¹Ï°°à</a></li>
+<li><span><a href="http://club.money.sohu.com/l-licai-0-1-900-0.html" target=_blank>ÉçÇø</a>|</span> <a href="http://club.money.sohu.com/licai/thread/2hqbqcvnhgp"  target=_blank>ÈçºÎÖÎÀíÑëÆóÅ£Æ¤Ñ¢</a></li>
 
 </ul>
 </div></SOHUADCODE>			
@@ -5170,12 +5207,12 @@ sohuFlash2.write('beans_11454');
 			<div class="bord02"></div>
 			<div class="list12 list12-mg" collection="Y">
 				<ul>
-<li><a title="" href="http://club.money.sohu.com/licai/thread/2hfvu14otv8?pvid=d092534cf5988eb7" target="_blank"><b>ÏÖÔÚµÄº¢×ÓÕæ¿ìÑø²»ÆðÁË</b></a></li>
-<li><a title="" href="http://club.women.sohu.com/zz2322/thread/2ham1usunlb?pvid=72ee0c45ddbb8ca9" target="_blank">Ê®×ã¶àÈâ¿Ø£¡É¹É¹¶àÈâÖ²Îï</a></li>
-<li><a title="" href="http://club.learning.sohu.com/parents/thread/2hef6ytaq1a?pvid=4e547f7eb3999171" target="_blank">¹ºÂòÑ§Çø·¿¼¯ÌåÊÜÆ­µÄ¾­Àú</a></li>
-<li><a title="" href="http://club.business.sohu.com/qczj00/thread/2hd2tvy2mgl?pvid=cf304be7c8dfc63b" target="_blank">¾ª´ô»ï°éµÄ¹«»ý½ð¸£Àû²î¾à</a></li>
-<li><a title="" href="http://club.baobao.sohu.com/mom_daugh/thread/2hg9galqxy9?pvid=93c0c1153b1415c7" target="_blank">¹«¹«¸øÀÏ¹«µÄ¼ÒÊéÉùÀá¾ãÏÂ</a></li>
-<li><a title="" href="http://club.money.sohu.com/licai/thread/2hbmkkia2ws?pvid=694be0f8e4df3f59" target="_blank">·¿¶«Õæ²»ºÃµ±Çë´ó¼ÒÖ§¸öÕÐ</a></li>
+<li><a title="" href="http://club.men.sohu.com/zz1147/thread/2h736t2zkww?pvid=d092534cf5988eb7" target="_blank"><b>ÆÞÃ»½ÌÑøÐÂ»éÒ¹ÎÒ´òÁËËý</b></a></li>
+<li><a title="" href="http://club.travel.sohu.com/togher/thread/2hk65tc4w8y?pvid=72ee0c45ddbb8ca9" target="_blank">ÎÒÔÚÎ÷²Ø¶ÀÐÐ¾­Àú£¡º£Á¿Í¼</a></li>
+<li><a title="" href="http://club.women.sohu.com/pet/thread/2hmot1bvppi?pvid=4e547f7eb3999171" target="_blank">Ë²¼ä±»ÃÈ·­µÄÐ¡¹·Ë¯¾õÊÓÆµ</a></li>
+<li><a title="" href="http://yule.club.sohu.com/bagua/thread/2hk60v6y8qo?pvid=cf304be7c8dfc63b" target="_blank">µçÓ°¾©³Ç81ºÅµÄ½áÎ²ÓÐµã¹Ö</a></li>
+<li><a title="" href="http://club.news.sohu.com/minjian/thread/2hnzefyv53v?pvid=93c0c1153b1415c7" target="_blank">Óöµ½ÕâÑùÆæÝâÀÏÌ«ÄãÈÃ×ùÂð</a></li>
+<li><a title="" href="http://club.women.sohu.com/handwork/thread/2hjyfyyljj6?pvid=694be0f8e4df3f59" target="_blank">°ÑÍæ¾ß·ÏÁÏ±ä³ÉÆ¯ÁÁ¿ª¹ØÌù</a></li>
 <li><a title="" href="http://club.travel.sohu.com/zz2152/thread/28d13qis2zo?pvid=025b95152b7240ae" target="_blank">±¨ÃûÂ·»¢»î¶¯£¬µÃiPad Air</a></li>
 </ul>
 				<ul>
@@ -5392,6 +5429,19 @@ SohuAdFly_nCPD = {'couple':'10279'};
 
 AD = new ADM("COUPLET", 4);
 AD.turns=3;AD.src=[];AD.src2=[];AD.tag=[];AD.tag2=[];AD.href=[];AD.href2=[];AD.imp=[];
+var d=false;
+d=(AdLoc4=='CN34');
+if(d){
+AD.src.push("http://images.sohu.com/bill/s2014/xiaoluanhao/ChinaMobile/0722/120x270.swf");
+AD.src2.push("http://images.sohu.com/bill/s2014/xiaoluanhao/ChinaMobile/0722/120x270.swf");
+AD.tag.push("http://images.sohu.com/bill/s2014/xiaoluanhao/ChinaMobile/0722/25x270.jpg");
+AD.tag2.push("http://images.sohu.com/bill/s2014/xiaoluanhao/ChinaMobile/0722/25x270.jpg");
+AD.href.push("http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=14a2a333,8715d5f5,e5889fed,4178696a&AdID=7932028");
+AD.href2.push("http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=14a2a333,8715d5f5,e5889fed,4178696a&AdID=7932028");
+AD.imp.push("http://imp.optaim.com/201407/14a2a3338715d5f5e5889fed4178696a.php");
+}
+else{
+}
 /*
 AD.src.push("http://images.sohu.com/cs/button/dangdang/9/1202700903.swf");
 AD.src2.push("http://images.sohu.com/cs/button/dangdang/9/1202700903.swf");
@@ -5400,6 +5450,7 @@ AD.tag2.push("http://ngoto.sohu.com/ad/adm2008/252701.swf");
 AD.href.push("");
 AD.href2.push("");
 AD.imp.push("");
+
 */
 /*
 AD.src.push("http://images.sohu.com/cs/button/dangdang/9/1202700903.swf");
@@ -5411,13 +5462,6 @@ AD.href2.push("");
 AD.imp.push("");
 
 */
-AD.src.push("http://images.sohu.com/bill/s2014/ranzhang/MKT/changyou/7/120270.swf");
-AD.src2.push("http://images.sohu.com/bill/s2014/ranzhang/MKT/changyou/7/120270.swf");
-AD.tag.push("http://images.sohu.com/bill/s2014/ranzhang/MKT/changyou/7/252702.jpg");
-AD.tag2.push("http://images.sohu.com/bill/s2014/ranzhang/MKT/changyou/7/252702.jpg");
-AD.href.push("http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=43b4e644,6944e838,ee6ae2ec,7b6f7895&AdID=7346079");
-AD.href2.push("http://clk.optaim.com/event.ng/Type=click&FlightID=201407&TargetID=sohu&Values=43b4e644,6944e838,ee6ae2ec,7b6f7895&AdID=7346079");
-AD.imp.push("http://imp.optaim.com/201407/43b4e6446944e838ee6ae2ec7b6f7895.php?");
 AddSchedule(AD);
 
 SohuAd.createScript("sohucsjs","http://imp.go.sohu.com/201111/ee4f7cebb2ef825bf6b3c8730c929929_10.js");</script>
