@@ -123,6 +123,7 @@ Disallow: /videosearch?
 Disallow: /videopreview?
 Disallow: /videoprograminfo?
 Allow: /maps/api/js?
+Allow: /maps/d/
 Disallow: /maps?
 Disallow: /mapstt?
 Disallow: /mapslt?
@@ -286,11 +287,11 @@ Disallow: /about/careers/apply/
 Disallow: /about/careers/applications/
 Disallow: /landing/signout.html
 Disallow: /offers
+Disallow: /work
 Sitemap: http://www.gstatic.com/culturalinstitute/sitemaps/www_google_com_culturalinstitute/sitemap-index.xml
 Sitemap: http://www.google.com/hostednews/sitemap_index.xml
 Sitemap: http://www.google.com/maps/views/sitemap.xml
 Sitemap: http://www.google.com/sitemaps_webmasters.xml
-Sitemap: http://www.gstatic.com/sitemaps/websearch_hreflang/sitemap_index.xml
 Sitemap: http://www.google.com/ventures/sitemap_ventures.xml
 Sitemap: http://www.gstatic.com/dictionary/static/sitemaps/sitemap_index.xml
 Sitemap: http://www.gstatic.com/earth/gallery/sitemaps/sitemap.xml

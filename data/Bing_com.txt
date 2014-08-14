@@ -7,7 +7,7 @@ Disallow: /history
 Disallow: /hotels/search
 Disallow: /images/search?
 Disallow: /images?
-Disallow: /local/reportproblem
+Disallow: /local
 Disallow: /maps/clicks.ashx?
 Disallow: /maps/GeoCommunity.aspx
 Disallow: /news/search?
