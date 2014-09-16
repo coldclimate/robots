@@ -1,7 +1,15 @@
 Sitemap: http://weibo.com/sitemap.xml
 User-Agent: Baiduspider
-Allow: /
+Disallow:
 User-agent: 360Spider
-Allow: /
+Disallow:
 User-agent: Googlebot
-Allow: /
+Disallow:
+User-agent: Sogou web spider
+Disallow:
+User-agent: bingbot
+Disallow:
+User-agent: smspider
+Disallow:
+User-agent: *
+Disallow: /

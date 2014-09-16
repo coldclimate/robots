@@ -1,7 +1,8 @@
-# This file was generated on Thu, 14 Aug 2014 15:20:18 +0000
+# This file was generated on Tue, 16 Sep 2014 13:34:41 +0000
 # If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.
 # Please see http://en.wordpress.com/firehose/ for more details.
 
+Sitemap: https://wordpress.com/sitemap.xml
 User-agent: IRLbot
 Crawl-delay: 3600
 
@@ -25,7 +26,7 @@ User-agent: *
 Disallow: /related-tags.php
 
 User-agent: *
-Disallow: /public-api/
+Disallow: /public.api/
 
 # MT refugees
 User-agent: *

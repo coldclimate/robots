@@ -11,4 +11,5 @@ Sitemap: https://www.yahoo.com/travel/sitemaps/sitemap_index_us_en-US.xml.gz
 Sitemap: https://www.yahoo.com/movies/sitemaps/sitemap_index_us_en-US.xml.gz
 Sitemap: https://www.yahoo.com/beauty/sitemaps/sitemap_index_us_en-US.xml.gz
 Sitemap: https://www.yahoo.com/health/sitemaps/sitemap_index_us_en-US.xml.gz
+Sitemap: https://www.yahoo.com/style/sitemaps/sitemap_index_us_en-US.xml.gz
 

@@ -16,6 +16,8 @@ Disallow: /?
 Allow: /?hl=
 Disallow: /?hl=*&
 Disallow: /addurl/image?
+Allow:    /mail/help/
+Disallow: /mail/
 Disallow: /pagead/
 Disallow: /relpage/
 Disallow: /relcontent
@@ -212,10 +214,11 @@ Disallow: /profiles/me
 Allow: /profiles
 Disallow: /s2/profiles/me
 Allow: /s2/profiles
+Allow: /s2/oz
 Allow: /s2/photos
+Allow: /s2/search/social
 Allow: /s2/static
 Disallow: /s2
-Allow: /s2/search/social
 Disallow: /transconsole/portal/
 Disallow: /gcc/
 Disallow: /aclk
@@ -232,6 +235,8 @@ Disallow: /hosted/images/
 Disallow: /ppob/?
 Disallow: /ppob?
 Disallow: /adwordsresellers
+Disallow: /accounts/ClientLogin
+Disallow: /accounts/ClientAuth
 Disallow: /accounts/o8
 Allow: /accounts/o8/id
 Disallow: /topicsearch?q=
@@ -286,8 +291,8 @@ Disallow: /shopping/reviewer
 Disallow: /about/careers/apply/
 Disallow: /about/careers/applications/
 Disallow: /landing/signout.html
-Disallow: /offers
-Disallow: /work
+Allow: /gb/images
+Allow: /gb/js
 Sitemap: http://www.gstatic.com/culturalinstitute/sitemaps/www_google_com_culturalinstitute/sitemap-index.xml
 Sitemap: http://www.google.com/hostednews/sitemap_index.xml
 Sitemap: http://www.google.com/maps/views/sitemap.xml

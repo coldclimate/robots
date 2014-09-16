@@ -81,6 +81,8 @@ Disallow: /gp/offer-listing/
 Allow: /gp/offer-listing/B000
 Allow: /gp/offer-listing/9000
 Disallow: /b?*node=9052533011
+Disallow: /lm/R1XIHQVKXSKBNJ
+Disallow: /lm/R3HQ5WJSZK6QSO
 
 User-agent: Googlebot
 Disallow: /rss/people/*/reviews
@@ -170,6 +172,8 @@ Disallow: /gp/offer-listing/
 Allow: /gp/offer-listing/B000
 Allow: /gp/offer-listing/9000
 Disallow: /b?*node=9052533011
+Disallow: /lm/R3HQ5WJSZK6QSO
+Disallow: /lm/R1XIHQVKXSKBNJ
 
 User-agent: EtaoSpider
 Disallow: /
@@ -177,7 +181,7 @@ Disallow: /
 # Sitemap files
 Sitemap: http://www.amazon.com/sitemap-manual-index.xml
 Sitemap: http://www.amazon.com/sitemap_vendor_videos_us.xml
-Sitemap: http://www.amazon.com/sitemap_vod_index.xml
+Sitemap: http://www.amazon.com/sitemaps.4acb100d6c5a79c.sitemap_vod_index.xml
 Sitemap: http://www.amazon.com/sitemaps.f3053414d236e84.SitemapIndex_0.xml.gz
 Sitemap: http://www.amazon.com/sitemaps.1946f6b8171de60.SitemapIndex_0.xml.gz
 Sitemap: http://www.amazon.com/sitemaps.bbb7d657c7e29fa.SitemapIndex_0.xml.gz
