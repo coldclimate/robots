@@ -70,6 +70,7 @@ Disallow: /msearch
 Disallow: /msearchpart
 Disallow: /norobot
 Disallow: /opensearch.xml
+Disallow: /padsearch
 Disallow: /people
 Disallow: /person
 Disallow: /podpiska/login.pl
@@ -101,4 +102,5 @@ Disallow: /wpage
 Disallow: /xmlsearch
 Disallow: /yandpage
 Disallow: /yandsearch
+Allow: /yac2014
 Disallow: /yca/cy

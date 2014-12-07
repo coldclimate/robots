@@ -1,4 +1,4 @@
-# This file was generated on Tue, 16 Sep 2014 13:34:41 +0000
+# This file was generated on Sun, 07 Dec 2014 10:53:48 +0000
 # If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.
 # Please see http://en.wordpress.com/firehose/ for more details.
 
@@ -18,9 +18,6 @@ Disallow: /activate/
 
 User-agent: *
 Disallow: /wp-login.php
-
-User-agent: *
-Disallow: /signup/
 
 User-agent: *
 Disallow: /related-tags.php

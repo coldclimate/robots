@@ -7,6 +7,7 @@ Disallow: /catalogs
 Allow: /catalogs/about
 Allow: /catalogs/p?
 Disallow: /catalogues
+Allow: /newsalerts
 Disallow: /news
 Allow: /news/directory
 Disallow: /nwshp
@@ -15,6 +16,10 @@ Disallow: /index.html?
 Disallow: /?
 Allow: /?hl=
 Disallow: /?hl=*&
+Allow: /?hl=*&gws_rd=ssl$
+Disallow: /?hl=*&*&gws_rd=ssl
+Allow: /?gws_rd=ssl$
+Allow: /?pt1=true$
 Disallow: /addurl/image?
 Allow:    /mail/help/
 Disallow: /mail/
@@ -74,7 +79,6 @@ Disallow: /shihui?
 Disallow: /shihui/
 Disallow: /froogle?
 Disallow: /products?
-Disallow: /products/
 Disallow: /froogle_
 Disallow: /product_
 Disallow: /products_
@@ -124,6 +128,7 @@ Disallow: /sponsoredlinks
 Disallow: /videosearch?
 Disallow: /videopreview?
 Disallow: /videoprograminfo?
+Allow: /maps?*output=classic*
 Allow: /maps/api/js?
 Allow: /maps/d/
 Disallow: /maps?
@@ -260,13 +265,14 @@ Disallow: /analytics/admin/
 Disallow: /analytics/web/
 Disallow: /analytics/feeds/
 Disallow: /analytics/settings/
+Allow: /alerts/manage
+Allow: /alerts/remove
 Disallow: /alerts/
+Allow: /alerts/$
 Disallow: /ads/search?
 Disallow: /ads/plan/action_plan?
 Disallow: /ads/plan/api/
 Disallow: /phone/compare/?
-Allow: /alerts/manage
-Allow: /alerts/remove
 Disallow: /travel/clk
 Disallow: /hotelfinder/rpc
 Disallow: /hotels/rpc
@@ -294,6 +300,9 @@ Disallow: /landing/signout.html
 Allow: /gb/images
 Allow: /gb/js
 Sitemap: http://www.gstatic.com/culturalinstitute/sitemaps/www_google_com_culturalinstitute/sitemap-index.xml
+Sitemap: https://www.google.com/edu/sitemap.xml
+Sitemap: https://www.google.com/work/sitemap.xml
+Sitemap: https://www.google.com/intx/sitemap.xml
 Sitemap: http://www.google.com/hostednews/sitemap_index.xml
 Sitemap: http://www.google.com/maps/views/sitemap.xml
 Sitemap: http://www.google.com/sitemaps_webmasters.xml
@@ -302,3 +311,5 @@ Sitemap: http://www.gstatic.com/dictionary/static/sitemaps/sitemap_index.xml
 Sitemap: http://www.gstatic.com/earth/gallery/sitemaps/sitemap.xml
 Sitemap: http://www.gstatic.com/s2/sitemaps/profiles-sitemap.xml
 Sitemap: http://www.gstatic.com/trends/websites/sitemaps/sitemapindex.xml
+Sitemap: http://www.google.com/adwords/sitemap.xml
+Sitemap: http://www.google.com/drive/sitemap.xml

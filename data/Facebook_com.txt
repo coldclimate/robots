@@ -8,6 +8,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -15,6 +16,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: Googlebot
 Disallow: /ajax/
@@ -23,6 +25,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -30,6 +33,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: msnbot
 Disallow: /ajax/
@@ -38,6 +42,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -45,6 +50,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: Naverbot
 Disallow: /ajax/
@@ -53,6 +59,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -60,6 +67,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: seznambot
 Disallow: /ajax/
@@ -68,6 +76,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -75,6 +84,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: Slurp
 Disallow: /ajax/
@@ -83,6 +93,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -90,6 +101,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: teoma
 Disallow: /ajax/
@@ -98,6 +110,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -105,6 +118,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: Yandex
 Disallow: /ajax/
@@ -113,6 +127,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -120,6 +135,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: Yeti
 Disallow: /ajax/
@@ -128,6 +144,7 @@ Disallow: /checkpoint/
 Disallow: /contact_importer/
 Disallow: /feeds/
 Disallow: /file_download.php
+Disallow: /hashtag/
 Disallow: /l.php
 Disallow: /p.php
 Disallow: /photo.php
@@ -135,6 +152,7 @@ Disallow: /photo_comments.php
 Disallow: /photo_search.php
 Disallow: /photos.php
 Disallow: /sharer/
+Disallow: /topic/
 
 User-agent: ia_archiver
 Allow: /about/privacy

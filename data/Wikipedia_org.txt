@@ -456,6 +456,9 @@ Disallow: /wiki/Wikiquote_talk:Votes_for_deletion_archive/
 Disallow: /wiki/Wikiquote_talk%3AVotes_for_deletion_archive/
 
 Disallow: /wiki/Special:Maintenance
+# Do not show banner content or record hits
+Disallow: /wiki/Special:BannerLoader
+Disallow: /wiki/Special:RecordImpression
 #
 #
 #----------------------------------------------------------#
@@ -466,11 +469,11 @@ Disallow: /wiki/Special:Maintenance
 #
 # Localisable part of robots.txt for en.wikipedia.org
 #
-# Edit at http://en.wikipedia.org/w/index.php?title=MediaWiki:Robots.txt&action=edit
+# Edit at https://en.wikipedia.org/w/index.php?title=MediaWiki:Robots.txt&action=edit
 # Don't add newlines here. All rules set here are active for every user-agent.
 #
 # Please check any changes using a syntax validator such as http://tool.motoricerca.info/robots-checker.phtml
-# Enter http://en.wikipedia.org/robots.txt as the URL to check.
+# Enter https://en.wikipedia.org/robots.txt as the URL to check.
 #
 # https://bugzilla.wikimedia.org/show_bug.cgi?id=14075
 Disallow: /wiki/MediaWiki:Spam-blacklist
