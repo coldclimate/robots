@@ -4,12 +4,12 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  - cron: '20 15 * * *'
+  - cron: '20 15 1 * *'
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 10
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
