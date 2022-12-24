@@ -16,7 +16,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: grab and process data
-      run: ./grab.sh | wc -l
+      run: timeout 5m ./grab.sh
 
     - name: Commit and push if it changed
       run: |-
