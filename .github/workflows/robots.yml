@@ -15,7 +15,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: grab and process data
-      run: grab.sh
+      run: ./grab.sh
 
     - name: Commit and push if it changed
       run: |-
