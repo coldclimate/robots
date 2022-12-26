@@ -1,8 +1,10 @@
 #!/bin/bash
 
-while read line
+for line in `cat sites.lst`
 do
-	CLEAN=`echo ${line} | sed 's/[^a-zA-Z0-9]/_/g'`
-	curl -Lsk --connect-timeout 2 "http://www.${line}/robots.txt" -o data/${CLEAN}.txt
+	CLEAN=`echo ${1} | sed 's/[^a-zA-Z0-9]/_/g'`
+	curl -Lsk --max-time 5 "http://www.${1}/robots.txt" -o data/${CLEAN}.txt
 	echo ${CLEAN}
-done < sites.lst
+done
+
+echo "Done"
